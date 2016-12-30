@@ -10,6 +10,7 @@ Tools : Python 3.x<br>
 ##STEPS
 - [x] Connect to uniprot.
 - [x] Get uniprot access ids of proteins which are given with ensembl and refseq ids
+- [x] Use refseq ids and ensembl ids together in the command line
 - [x] Get go annotations and pathways of proteins
 - [x] Report GO annotations/pathways common to all protein set members.
 - [ ] Report the frequency of occurrence in the protein set for each GO annotation/pathway
@@ -19,9 +20,9 @@ Tools : Python 3.x<br>
   - run
       ``` python uniprot_acc_id_finder.py --refseq 'refseq_id' --ensembl 'ensembl_id' ```
       
-  - example command
-      ``` python uniprot_acc_id_finder.py --refseq 'NP_000326.2','NP_001159374.1' --ensembl 'ENSG00000167110' ```
-      or 
+  - example command<br>
+      ``` python uniprot_acc_id_finder.py --refseq 'NP_000326.2','NP_001159374.1' --ensembl 'ENSG00000167110' ```<br>
+      or <br>
       ``` python uniprot_acc_id_finder.py ensembl 'ENSG00000229215','ENSG00000235657' ```
 
 ##Requirements
