@@ -23,7 +23,7 @@ Tools : Python 3.x<br>
   - example command<br>
       ``` python uniprot_acc_id_finder.py --refseq 'NP_000326.2','NP_001159374.1' --ensembl 'ENSG00000167110' ```<br>
       or <br>
-      ``` python uniprot_acc_id_finder.py ensembl 'ENSG00000229215','ENSG00000235657' ```
+      ``` python uniprot_acc_id_finder.py --ensembl 'ENSG00000229215','ENSG00000235657' ```
 
 ##Requirements
   - Internet connection
