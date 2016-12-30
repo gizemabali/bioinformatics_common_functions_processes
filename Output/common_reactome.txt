@@ -1,224 +1,224 @@
------------------B7ZC06_HUMAN & H0Y7B8_HUMAN------------------------
+-----------------R4GND7_HUMAN & A0A0C4DGS5_HUMAN------------------------
 
-B7ZC06_HUMAN	cellular go count:	0	There is no reactome for B7ZC06_HUMAN
-H0Y7B8_HUMAN	cellular go count:	0	There is no reactome for H0Y7B8_HUMAN
-B7ZC06_HUMAN & H0Y7B8_HUMAN	common cellular go count:	0
-B7ZC06_HUMAN & H0Y7B8_HUMAN	common cellular gos:	There is no common reactome for B7ZC06_HUMAN between H0Y7B8_HUMAN
+R4GND7_HUMAN	reactome count:	0	There is no reactome for R4GND7_HUMAN
+A0A0C4DGS5_HUMAN	reactome count:	0	There is no reactome for A0A0C4DGS5_HUMAN
+R4GND7_HUMAN & A0A0C4DGS5_HUMAN	common reactome count:	0
+R4GND7_HUMAN & A0A0C4DGS5_HUMAN	common reactome count:	There is no common reactome for R4GND7_HUMAN between A0A0C4DGS5_HUMAN
 
 
------------------B7ZC06_HUMAN & A0A0C4DGS5_HUMAN------------------------
+-----------------R4GND7_HUMAN & Q86V90_HUMAN------------------------
 
-B7ZC06_HUMAN	cellular go count:	0	There is no reactome for B7ZC06_HUMAN
-A0A0C4DGS5_HUMAN	cellular go count:	0	There is no reactome for A0A0C4DGS5_HUMAN
-B7ZC06_HUMAN & A0A0C4DGS5_HUMAN	common cellular go count:	0
-B7ZC06_HUMAN & A0A0C4DGS5_HUMAN	common cellular gos:	There is no common reactome for B7ZC06_HUMAN between A0A0C4DGS5_HUMAN
+R4GND7_HUMAN	reactome count:	0	There is no reactome for R4GND7_HUMAN
+Q86V90_HUMAN	reactome count:	0	There is no reactome for Q86V90_HUMAN
+R4GND7_HUMAN & Q86V90_HUMAN	common reactome count:	0
+R4GND7_HUMAN & Q86V90_HUMAN	common reactome count:	There is no common reactome for R4GND7_HUMAN between Q86V90_HUMAN
 
 
------------------B7ZC06_HUMAN & A0A087WYC0_HUMAN------------------------
+-----------------R4GND7_HUMAN & H0Y7B8_HUMAN------------------------
 
-B7ZC06_HUMAN	cellular go count:	0	There is no reactome for B7ZC06_HUMAN
-A0A087WYC0_HUMAN	cellular go count:	0	There is no reactome for A0A087WYC0_HUMAN
-B7ZC06_HUMAN & A0A087WYC0_HUMAN	common cellular go count:	0
-B7ZC06_HUMAN & A0A087WYC0_HUMAN	common cellular gos:	There is no common reactome for B7ZC06_HUMAN between A0A087WYC0_HUMAN
+R4GND7_HUMAN	reactome count:	0	There is no reactome for R4GND7_HUMAN
+H0Y7B8_HUMAN	reactome count:	0	There is no reactome for H0Y7B8_HUMAN
+R4GND7_HUMAN & H0Y7B8_HUMAN	common reactome count:	0
+R4GND7_HUMAN & H0Y7B8_HUMAN	common reactome count:	There is no common reactome for R4GND7_HUMAN between H0Y7B8_HUMAN
 
 
------------------B7ZC06_HUMAN & Q86V90_HUMAN------------------------
+-----------------R4GND7_HUMAN & A0A087WYC0_HUMAN------------------------
 
-B7ZC06_HUMAN	cellular go count:	0	There is no reactome for B7ZC06_HUMAN
-Q86V90_HUMAN	cellular go count:	0	There is no reactome for Q86V90_HUMAN
-B7ZC06_HUMAN & Q86V90_HUMAN	common cellular go count:	0
-B7ZC06_HUMAN & Q86V90_HUMAN	common cellular gos:	There is no common reactome for B7ZC06_HUMAN between Q86V90_HUMAN
-
-
------------------B7ZC06_HUMAN & R4GND7_HUMAN------------------------
-
-B7ZC06_HUMAN	cellular go count:	0	There is no reactome for B7ZC06_HUMAN
-R4GND7_HUMAN	cellular go count:	0	There is no reactome for R4GND7_HUMAN
-B7ZC06_HUMAN & R4GND7_HUMAN	common cellular go count:	0
-B7ZC06_HUMAN & R4GND7_HUMAN	common cellular gos:	There is no common reactome for B7ZC06_HUMAN between R4GND7_HUMAN
-
-
------------------B7ZC06_HUMAN & GOGA2_HUMAN------------------------
-
-B7ZC06_HUMAN	cellular go count:	0	There is no reactome for B7ZC06_HUMAN
-GOGA2_HUMAN	cellular go count:	3	['R-HSA-162658', 'R-HSA-204005', 'R-HSA-6807878']
-B7ZC06_HUMAN & GOGA2_HUMAN	common cellular go count:	0
-B7ZC06_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common reactome for B7ZC06_HUMAN between GOGA2_HUMAN
-
-
------------------B7ZC06_HUMAN & SCN5A_HUMAN------------------------
-
-B7ZC06_HUMAN	cellular go count:	0	There is no reactome for B7ZC06_HUMAN
-SCN5A_HUMAN	cellular go count:	2	['R-HSA-445095', 'R-HSA-5576892']
-B7ZC06_HUMAN & SCN5A_HUMAN	common cellular go count:	0
-B7ZC06_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common reactome for B7ZC06_HUMAN between SCN5A_HUMAN
-
-
------------------H0Y7B8_HUMAN & A0A0C4DGS5_HUMAN------------------------
-
-H0Y7B8_HUMAN	cellular go count:	0	There is no reactome for H0Y7B8_HUMAN
-A0A0C4DGS5_HUMAN	cellular go count:	0	There is no reactome for A0A0C4DGS5_HUMAN
-H0Y7B8_HUMAN & A0A0C4DGS5_HUMAN	common cellular go count:	0
-H0Y7B8_HUMAN & A0A0C4DGS5_HUMAN	common cellular gos:	There is no common reactome for H0Y7B8_HUMAN between A0A0C4DGS5_HUMAN
-
-
------------------H0Y7B8_HUMAN & A0A087WYC0_HUMAN------------------------
-
-H0Y7B8_HUMAN	cellular go count:	0	There is no reactome for H0Y7B8_HUMAN
-A0A087WYC0_HUMAN	cellular go count:	0	There is no reactome for A0A087WYC0_HUMAN
-H0Y7B8_HUMAN & A0A087WYC0_HUMAN	common cellular go count:	0
-H0Y7B8_HUMAN & A0A087WYC0_HUMAN	common cellular gos:	There is no common reactome for H0Y7B8_HUMAN between A0A087WYC0_HUMAN
-
-
------------------H0Y7B8_HUMAN & Q86V90_HUMAN------------------------
-
-H0Y7B8_HUMAN	cellular go count:	0	There is no reactome for H0Y7B8_HUMAN
-Q86V90_HUMAN	cellular go count:	0	There is no reactome for Q86V90_HUMAN
-H0Y7B8_HUMAN & Q86V90_HUMAN	common cellular go count:	0
-H0Y7B8_HUMAN & Q86V90_HUMAN	common cellular gos:	There is no common reactome for H0Y7B8_HUMAN between Q86V90_HUMAN
-
-
------------------H0Y7B8_HUMAN & R4GND7_HUMAN------------------------
-
-H0Y7B8_HUMAN	cellular go count:	0	There is no reactome for H0Y7B8_HUMAN
-R4GND7_HUMAN	cellular go count:	0	There is no reactome for R4GND7_HUMAN
-H0Y7B8_HUMAN & R4GND7_HUMAN	common cellular go count:	0
-H0Y7B8_HUMAN & R4GND7_HUMAN	common cellular gos:	There is no common reactome for H0Y7B8_HUMAN between R4GND7_HUMAN
-
-
------------------H0Y7B8_HUMAN & GOGA2_HUMAN------------------------
-
-H0Y7B8_HUMAN	cellular go count:	0	There is no reactome for H0Y7B8_HUMAN
-GOGA2_HUMAN	cellular go count:	3	['R-HSA-162658', 'R-HSA-204005', 'R-HSA-6807878']
-H0Y7B8_HUMAN & GOGA2_HUMAN	common cellular go count:	0
-H0Y7B8_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common reactome for H0Y7B8_HUMAN between GOGA2_HUMAN
-
-
------------------H0Y7B8_HUMAN & SCN5A_HUMAN------------------------
-
-H0Y7B8_HUMAN	cellular go count:	0	There is no reactome for H0Y7B8_HUMAN
-SCN5A_HUMAN	cellular go count:	2	['R-HSA-445095', 'R-HSA-5576892']
-H0Y7B8_HUMAN & SCN5A_HUMAN	common cellular go count:	0
-H0Y7B8_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common reactome for H0Y7B8_HUMAN between SCN5A_HUMAN
-
-
------------------A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN------------------------
-
-A0A0C4DGS5_HUMAN	cellular go count:	0	There is no reactome for A0A0C4DGS5_HUMAN
-A0A087WYC0_HUMAN	cellular go count:	0	There is no reactome for A0A087WYC0_HUMAN
-A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN	common cellular go count:	0
-A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN	common cellular gos:	There is no common reactome for A0A0C4DGS5_HUMAN between A0A087WYC0_HUMAN
-
-
------------------A0A0C4DGS5_HUMAN & Q86V90_HUMAN------------------------
-
-A0A0C4DGS5_HUMAN	cellular go count:	0	There is no reactome for A0A0C4DGS5_HUMAN
-Q86V90_HUMAN	cellular go count:	0	There is no reactome for Q86V90_HUMAN
-A0A0C4DGS5_HUMAN & Q86V90_HUMAN	common cellular go count:	0
-A0A0C4DGS5_HUMAN & Q86V90_HUMAN	common cellular gos:	There is no common reactome for A0A0C4DGS5_HUMAN between Q86V90_HUMAN
-
-
------------------A0A0C4DGS5_HUMAN & R4GND7_HUMAN------------------------
-
-A0A0C4DGS5_HUMAN	cellular go count:	0	There is no reactome for A0A0C4DGS5_HUMAN
-R4GND7_HUMAN	cellular go count:	0	There is no reactome for R4GND7_HUMAN
-A0A0C4DGS5_HUMAN & R4GND7_HUMAN	common cellular go count:	0
-A0A0C4DGS5_HUMAN & R4GND7_HUMAN	common cellular gos:	There is no common reactome for A0A0C4DGS5_HUMAN between R4GND7_HUMAN
-
-
------------------A0A0C4DGS5_HUMAN & GOGA2_HUMAN------------------------
-
-A0A0C4DGS5_HUMAN	cellular go count:	0	There is no reactome for A0A0C4DGS5_HUMAN
-GOGA2_HUMAN	cellular go count:	3	['R-HSA-162658', 'R-HSA-204005', 'R-HSA-6807878']
-A0A0C4DGS5_HUMAN & GOGA2_HUMAN	common cellular go count:	0
-A0A0C4DGS5_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common reactome for A0A0C4DGS5_HUMAN between GOGA2_HUMAN
-
-
------------------A0A0C4DGS5_HUMAN & SCN5A_HUMAN------------------------
-
-A0A0C4DGS5_HUMAN	cellular go count:	0	There is no reactome for A0A0C4DGS5_HUMAN
-SCN5A_HUMAN	cellular go count:	2	['R-HSA-445095', 'R-HSA-5576892']
-A0A0C4DGS5_HUMAN & SCN5A_HUMAN	common cellular go count:	0
-A0A0C4DGS5_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common reactome for A0A0C4DGS5_HUMAN between SCN5A_HUMAN
-
-
------------------A0A087WYC0_HUMAN & Q86V90_HUMAN------------------------
-
-A0A087WYC0_HUMAN	cellular go count:	0	There is no reactome for A0A087WYC0_HUMAN
-Q86V90_HUMAN	cellular go count:	0	There is no reactome for Q86V90_HUMAN
-A0A087WYC0_HUMAN & Q86V90_HUMAN	common cellular go count:	0
-A0A087WYC0_HUMAN & Q86V90_HUMAN	common cellular gos:	There is no common reactome for A0A087WYC0_HUMAN between Q86V90_HUMAN
-
-
------------------A0A087WYC0_HUMAN & R4GND7_HUMAN------------------------
-
-A0A087WYC0_HUMAN	cellular go count:	0	There is no reactome for A0A087WYC0_HUMAN
-R4GND7_HUMAN	cellular go count:	0	There is no reactome for R4GND7_HUMAN
-A0A087WYC0_HUMAN & R4GND7_HUMAN	common cellular go count:	0
-A0A087WYC0_HUMAN & R4GND7_HUMAN	common cellular gos:	There is no common reactome for A0A087WYC0_HUMAN between R4GND7_HUMAN
-
-
------------------A0A087WYC0_HUMAN & GOGA2_HUMAN------------------------
-
-A0A087WYC0_HUMAN	cellular go count:	0	There is no reactome for A0A087WYC0_HUMAN
-GOGA2_HUMAN	cellular go count:	3	['R-HSA-162658', 'R-HSA-204005', 'R-HSA-6807878']
-A0A087WYC0_HUMAN & GOGA2_HUMAN	common cellular go count:	0
-A0A087WYC0_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common reactome for A0A087WYC0_HUMAN between GOGA2_HUMAN
-
-
------------------A0A087WYC0_HUMAN & SCN5A_HUMAN------------------------
-
-A0A087WYC0_HUMAN	cellular go count:	0	There is no reactome for A0A087WYC0_HUMAN
-SCN5A_HUMAN	cellular go count:	2	['R-HSA-445095', 'R-HSA-5576892']
-A0A087WYC0_HUMAN & SCN5A_HUMAN	common cellular go count:	0
-A0A087WYC0_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common reactome for A0A087WYC0_HUMAN between SCN5A_HUMAN
-
-
------------------Q86V90_HUMAN & R4GND7_HUMAN------------------------
-
-Q86V90_HUMAN	cellular go count:	0	There is no reactome for Q86V90_HUMAN
-R4GND7_HUMAN	cellular go count:	0	There is no reactome for R4GND7_HUMAN
-Q86V90_HUMAN & R4GND7_HUMAN	common cellular go count:	0
-Q86V90_HUMAN & R4GND7_HUMAN	common cellular gos:	There is no common reactome for Q86V90_HUMAN between R4GND7_HUMAN
-
-
------------------Q86V90_HUMAN & GOGA2_HUMAN------------------------
-
-Q86V90_HUMAN	cellular go count:	0	There is no reactome for Q86V90_HUMAN
-GOGA2_HUMAN	cellular go count:	3	['R-HSA-162658', 'R-HSA-204005', 'R-HSA-6807878']
-Q86V90_HUMAN & GOGA2_HUMAN	common cellular go count:	0
-Q86V90_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common reactome for Q86V90_HUMAN between GOGA2_HUMAN
-
-
------------------Q86V90_HUMAN & SCN5A_HUMAN------------------------
-
-Q86V90_HUMAN	cellular go count:	0	There is no reactome for Q86V90_HUMAN
-SCN5A_HUMAN	cellular go count:	2	['R-HSA-445095', 'R-HSA-5576892']
-Q86V90_HUMAN & SCN5A_HUMAN	common cellular go count:	0
-Q86V90_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common reactome for Q86V90_HUMAN between SCN5A_HUMAN
-
-
------------------R4GND7_HUMAN & GOGA2_HUMAN------------------------
-
-R4GND7_HUMAN	cellular go count:	0	There is no reactome for R4GND7_HUMAN
-GOGA2_HUMAN	cellular go count:	3	['R-HSA-162658', 'R-HSA-204005', 'R-HSA-6807878']
-R4GND7_HUMAN & GOGA2_HUMAN	common cellular go count:	0
-R4GND7_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common reactome for R4GND7_HUMAN between GOGA2_HUMAN
+R4GND7_HUMAN	reactome count:	0	There is no reactome for R4GND7_HUMAN
+A0A087WYC0_HUMAN	reactome count:	0	There is no reactome for A0A087WYC0_HUMAN
+R4GND7_HUMAN & A0A087WYC0_HUMAN	common reactome count:	0
+R4GND7_HUMAN & A0A087WYC0_HUMAN	common reactome count:	There is no common reactome for R4GND7_HUMAN between A0A087WYC0_HUMAN
 
 
 -----------------R4GND7_HUMAN & SCN5A_HUMAN------------------------
 
-R4GND7_HUMAN	cellular go count:	0	There is no reactome for R4GND7_HUMAN
-SCN5A_HUMAN	cellular go count:	2	['R-HSA-445095', 'R-HSA-5576892']
-R4GND7_HUMAN & SCN5A_HUMAN	common cellular go count:	0
-R4GND7_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common reactome for R4GND7_HUMAN between SCN5A_HUMAN
+R4GND7_HUMAN	reactome count:	0	There is no reactome for R4GND7_HUMAN
+SCN5A_HUMAN	reactome count:	2	['R-HSA-445095', 'R-HSA-5576892']
+R4GND7_HUMAN & SCN5A_HUMAN	common reactome count:	0
+R4GND7_HUMAN & SCN5A_HUMAN	common reactome count:	There is no common reactome for R4GND7_HUMAN between SCN5A_HUMAN
 
 
------------------GOGA2_HUMAN & SCN5A_HUMAN------------------------
+-----------------R4GND7_HUMAN & B7ZC06_HUMAN------------------------
 
-GOGA2_HUMAN	cellular go count:	3	['R-HSA-162658', 'R-HSA-204005', 'R-HSA-6807878']
-SCN5A_HUMAN	cellular go count:	2	['R-HSA-445095', 'R-HSA-5576892']
-GOGA2_HUMAN & SCN5A_HUMAN	common cellular go count:	0
-GOGA2_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common reactome for GOGA2_HUMAN between SCN5A_HUMAN
+R4GND7_HUMAN	reactome count:	0	There is no reactome for R4GND7_HUMAN
+B7ZC06_HUMAN	reactome count:	0	There is no reactome for B7ZC06_HUMAN
+R4GND7_HUMAN & B7ZC06_HUMAN	common reactome count:	0
+R4GND7_HUMAN & B7ZC06_HUMAN	common reactome count:	There is no common reactome for R4GND7_HUMAN between B7ZC06_HUMAN
+
+
+-----------------R4GND7_HUMAN & GOGA2_HUMAN------------------------
+
+R4GND7_HUMAN	reactome count:	0	There is no reactome for R4GND7_HUMAN
+GOGA2_HUMAN	reactome count:	3	['R-HSA-162658', 'R-HSA-204005', 'R-HSA-6807878']
+R4GND7_HUMAN & GOGA2_HUMAN	common reactome count:	0
+R4GND7_HUMAN & GOGA2_HUMAN	common reactome count:	There is no common reactome for R4GND7_HUMAN between GOGA2_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & Q86V90_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	reactome count:	0	There is no reactome for A0A0C4DGS5_HUMAN
+Q86V90_HUMAN	reactome count:	0	There is no reactome for Q86V90_HUMAN
+A0A0C4DGS5_HUMAN & Q86V90_HUMAN	common reactome count:	0
+A0A0C4DGS5_HUMAN & Q86V90_HUMAN	common reactome count:	There is no common reactome for A0A0C4DGS5_HUMAN between Q86V90_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & H0Y7B8_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	reactome count:	0	There is no reactome for A0A0C4DGS5_HUMAN
+H0Y7B8_HUMAN	reactome count:	0	There is no reactome for H0Y7B8_HUMAN
+A0A0C4DGS5_HUMAN & H0Y7B8_HUMAN	common reactome count:	0
+A0A0C4DGS5_HUMAN & H0Y7B8_HUMAN	common reactome count:	There is no common reactome for A0A0C4DGS5_HUMAN between H0Y7B8_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	reactome count:	0	There is no reactome for A0A0C4DGS5_HUMAN
+A0A087WYC0_HUMAN	reactome count:	0	There is no reactome for A0A087WYC0_HUMAN
+A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN	common reactome count:	0
+A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN	common reactome count:	There is no common reactome for A0A0C4DGS5_HUMAN between A0A087WYC0_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & SCN5A_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	reactome count:	0	There is no reactome for A0A0C4DGS5_HUMAN
+SCN5A_HUMAN	reactome count:	2	['R-HSA-445095', 'R-HSA-5576892']
+A0A0C4DGS5_HUMAN & SCN5A_HUMAN	common reactome count:	0
+A0A0C4DGS5_HUMAN & SCN5A_HUMAN	common reactome count:	There is no common reactome for A0A0C4DGS5_HUMAN between SCN5A_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & B7ZC06_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	reactome count:	0	There is no reactome for A0A0C4DGS5_HUMAN
+B7ZC06_HUMAN	reactome count:	0	There is no reactome for B7ZC06_HUMAN
+A0A0C4DGS5_HUMAN & B7ZC06_HUMAN	common reactome count:	0
+A0A0C4DGS5_HUMAN & B7ZC06_HUMAN	common reactome count:	There is no common reactome for A0A0C4DGS5_HUMAN between B7ZC06_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & GOGA2_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	reactome count:	0	There is no reactome for A0A0C4DGS5_HUMAN
+GOGA2_HUMAN	reactome count:	3	['R-HSA-162658', 'R-HSA-204005', 'R-HSA-6807878']
+A0A0C4DGS5_HUMAN & GOGA2_HUMAN	common reactome count:	0
+A0A0C4DGS5_HUMAN & GOGA2_HUMAN	common reactome count:	There is no common reactome for A0A0C4DGS5_HUMAN between GOGA2_HUMAN
+
+
+-----------------Q86V90_HUMAN & H0Y7B8_HUMAN------------------------
+
+Q86V90_HUMAN	reactome count:	0	There is no reactome for Q86V90_HUMAN
+H0Y7B8_HUMAN	reactome count:	0	There is no reactome for H0Y7B8_HUMAN
+Q86V90_HUMAN & H0Y7B8_HUMAN	common reactome count:	0
+Q86V90_HUMAN & H0Y7B8_HUMAN	common reactome count:	There is no common reactome for Q86V90_HUMAN between H0Y7B8_HUMAN
+
+
+-----------------Q86V90_HUMAN & A0A087WYC0_HUMAN------------------------
+
+Q86V90_HUMAN	reactome count:	0	There is no reactome for Q86V90_HUMAN
+A0A087WYC0_HUMAN	reactome count:	0	There is no reactome for A0A087WYC0_HUMAN
+Q86V90_HUMAN & A0A087WYC0_HUMAN	common reactome count:	0
+Q86V90_HUMAN & A0A087WYC0_HUMAN	common reactome count:	There is no common reactome for Q86V90_HUMAN between A0A087WYC0_HUMAN
+
+
+-----------------Q86V90_HUMAN & SCN5A_HUMAN------------------------
+
+Q86V90_HUMAN	reactome count:	0	There is no reactome for Q86V90_HUMAN
+SCN5A_HUMAN	reactome count:	2	['R-HSA-445095', 'R-HSA-5576892']
+Q86V90_HUMAN & SCN5A_HUMAN	common reactome count:	0
+Q86V90_HUMAN & SCN5A_HUMAN	common reactome count:	There is no common reactome for Q86V90_HUMAN between SCN5A_HUMAN
+
+
+-----------------Q86V90_HUMAN & B7ZC06_HUMAN------------------------
+
+Q86V90_HUMAN	reactome count:	0	There is no reactome for Q86V90_HUMAN
+B7ZC06_HUMAN	reactome count:	0	There is no reactome for B7ZC06_HUMAN
+Q86V90_HUMAN & B7ZC06_HUMAN	common reactome count:	0
+Q86V90_HUMAN & B7ZC06_HUMAN	common reactome count:	There is no common reactome for Q86V90_HUMAN between B7ZC06_HUMAN
+
+
+-----------------Q86V90_HUMAN & GOGA2_HUMAN------------------------
+
+Q86V90_HUMAN	reactome count:	0	There is no reactome for Q86V90_HUMAN
+GOGA2_HUMAN	reactome count:	3	['R-HSA-162658', 'R-HSA-204005', 'R-HSA-6807878']
+Q86V90_HUMAN & GOGA2_HUMAN	common reactome count:	0
+Q86V90_HUMAN & GOGA2_HUMAN	common reactome count:	There is no common reactome for Q86V90_HUMAN between GOGA2_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & A0A087WYC0_HUMAN------------------------
+
+H0Y7B8_HUMAN	reactome count:	0	There is no reactome for H0Y7B8_HUMAN
+A0A087WYC0_HUMAN	reactome count:	0	There is no reactome for A0A087WYC0_HUMAN
+H0Y7B8_HUMAN & A0A087WYC0_HUMAN	common reactome count:	0
+H0Y7B8_HUMAN & A0A087WYC0_HUMAN	common reactome count:	There is no common reactome for H0Y7B8_HUMAN between A0A087WYC0_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & SCN5A_HUMAN------------------------
+
+H0Y7B8_HUMAN	reactome count:	0	There is no reactome for H0Y7B8_HUMAN
+SCN5A_HUMAN	reactome count:	2	['R-HSA-445095', 'R-HSA-5576892']
+H0Y7B8_HUMAN & SCN5A_HUMAN	common reactome count:	0
+H0Y7B8_HUMAN & SCN5A_HUMAN	common reactome count:	There is no common reactome for H0Y7B8_HUMAN between SCN5A_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & B7ZC06_HUMAN------------------------
+
+H0Y7B8_HUMAN	reactome count:	0	There is no reactome for H0Y7B8_HUMAN
+B7ZC06_HUMAN	reactome count:	0	There is no reactome for B7ZC06_HUMAN
+H0Y7B8_HUMAN & B7ZC06_HUMAN	common reactome count:	0
+H0Y7B8_HUMAN & B7ZC06_HUMAN	common reactome count:	There is no common reactome for H0Y7B8_HUMAN between B7ZC06_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & GOGA2_HUMAN------------------------
+
+H0Y7B8_HUMAN	reactome count:	0	There is no reactome for H0Y7B8_HUMAN
+GOGA2_HUMAN	reactome count:	3	['R-HSA-162658', 'R-HSA-204005', 'R-HSA-6807878']
+H0Y7B8_HUMAN & GOGA2_HUMAN	common reactome count:	0
+H0Y7B8_HUMAN & GOGA2_HUMAN	common reactome count:	There is no common reactome for H0Y7B8_HUMAN between GOGA2_HUMAN
+
+
+-----------------A0A087WYC0_HUMAN & SCN5A_HUMAN------------------------
+
+A0A087WYC0_HUMAN	reactome count:	0	There is no reactome for A0A087WYC0_HUMAN
+SCN5A_HUMAN	reactome count:	2	['R-HSA-445095', 'R-HSA-5576892']
+A0A087WYC0_HUMAN & SCN5A_HUMAN	common reactome count:	0
+A0A087WYC0_HUMAN & SCN5A_HUMAN	common reactome count:	There is no common reactome for A0A087WYC0_HUMAN between SCN5A_HUMAN
+
+
+-----------------A0A087WYC0_HUMAN & B7ZC06_HUMAN------------------------
+
+A0A087WYC0_HUMAN	reactome count:	0	There is no reactome for A0A087WYC0_HUMAN
+B7ZC06_HUMAN	reactome count:	0	There is no reactome for B7ZC06_HUMAN
+A0A087WYC0_HUMAN & B7ZC06_HUMAN	common reactome count:	0
+A0A087WYC0_HUMAN & B7ZC06_HUMAN	common reactome count:	There is no common reactome for A0A087WYC0_HUMAN between B7ZC06_HUMAN
+
+
+-----------------A0A087WYC0_HUMAN & GOGA2_HUMAN------------------------
+
+A0A087WYC0_HUMAN	reactome count:	0	There is no reactome for A0A087WYC0_HUMAN
+GOGA2_HUMAN	reactome count:	3	['R-HSA-162658', 'R-HSA-204005', 'R-HSA-6807878']
+A0A087WYC0_HUMAN & GOGA2_HUMAN	common reactome count:	0
+A0A087WYC0_HUMAN & GOGA2_HUMAN	common reactome count:	There is no common reactome for A0A087WYC0_HUMAN between GOGA2_HUMAN
+
+
+-----------------SCN5A_HUMAN & B7ZC06_HUMAN------------------------
+
+SCN5A_HUMAN	reactome count:	2	['R-HSA-445095', 'R-HSA-5576892']
+B7ZC06_HUMAN	reactome count:	0	There is no reactome for B7ZC06_HUMAN
+SCN5A_HUMAN & B7ZC06_HUMAN	common reactome count:	0
+SCN5A_HUMAN & B7ZC06_HUMAN	common reactome count:	There is no common reactome for SCN5A_HUMAN between B7ZC06_HUMAN
+
+
+-----------------SCN5A_HUMAN & GOGA2_HUMAN------------------------
+
+SCN5A_HUMAN	reactome count:	2	['R-HSA-445095', 'R-HSA-5576892']
+GOGA2_HUMAN	reactome count:	3	['R-HSA-162658', 'R-HSA-204005', 'R-HSA-6807878']
+SCN5A_HUMAN & GOGA2_HUMAN	common reactome count:	0
+SCN5A_HUMAN & GOGA2_HUMAN	common reactome count:	There is no common reactome for SCN5A_HUMAN between GOGA2_HUMAN
+
+
+-----------------B7ZC06_HUMAN & GOGA2_HUMAN------------------------
+
+B7ZC06_HUMAN	reactome count:	0	There is no reactome for B7ZC06_HUMAN
+GOGA2_HUMAN	reactome count:	3	['R-HSA-162658', 'R-HSA-204005', 'R-HSA-6807878']
+B7ZC06_HUMAN & GOGA2_HUMAN	common reactome count:	0
+B7ZC06_HUMAN & GOGA2_HUMAN	common reactome count:	There is no common reactome for B7ZC06_HUMAN between GOGA2_HUMAN
 
 
