@@ -97,10 +97,10 @@ class Get_Pages:
                 common_count = 0
             
             file_name.write('-----------------' + p1 + ' & ' + p2 + '------------------------'+ '\n\n')
-            file_name.write(p1 +'\t' + 'cellular go count:' + '\t' + str(p1_len) +'\t' + str(p1_go) + '\n')
-            file_name.write(p2 +'\t' + 'cellular go count:' + '\t' + str(p2_len) + '\t' + str(p2_go) + '\n')
-            file_name.write(p1 + ' & ' + p2 +'\t' + 'common cellular go count:' + '\t' + str(common_count) + '\n')
-            file_name.write(p1 + ' & ' + p2 +'\t' + 'common cellular gos:' + '\t' + str(commons) + '\n')
+            file_name.write(p1 +'\t' + keyword+' count:' + '\t' + str(p1_len) +'\t' + str(p1_go) + '\n')
+            file_name.write(p2 +'\t' + keyword+' count:' + '\t' + str(p2_len) + '\t' + str(p2_go) + '\n')
+            file_name.write(p1 + ' & ' + p2 +'\t' + 'common ' + keyword+' count:' + '\t' + str(common_count) + '\n')
+            file_name.write(p1 + ' & ' + p2 +'\t' + 'common ' + keyword+' count:' + '\t' + str(commons) + '\n')
             file_name.write('\n\n')
 
     def common_functions(self):
