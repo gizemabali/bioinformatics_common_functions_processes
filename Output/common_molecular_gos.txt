@@ -1,0 +1,224 @@
+-----------------B7ZC06_HUMAN & H0Y7B8_HUMAN------------------------
+
+B7ZC06_HUMAN	cellular go count:	0	There is no go_molecular for B7ZC06_HUMAN
+H0Y7B8_HUMAN	cellular go count:	0	There is no go_molecular for H0Y7B8_HUMAN
+B7ZC06_HUMAN & H0Y7B8_HUMAN	common cellular go count:	0
+B7ZC06_HUMAN & H0Y7B8_HUMAN	common cellular gos:	There is no common go_molecular for B7ZC06_HUMAN between H0Y7B8_HUMAN
+
+
+-----------------B7ZC06_HUMAN & A0A0C4DGS5_HUMAN------------------------
+
+B7ZC06_HUMAN	cellular go count:	0	There is no go_molecular for B7ZC06_HUMAN
+A0A0C4DGS5_HUMAN	cellular go count:	0	There is no go_molecular for A0A0C4DGS5_HUMAN
+B7ZC06_HUMAN & A0A0C4DGS5_HUMAN	common cellular go count:	0
+B7ZC06_HUMAN & A0A0C4DGS5_HUMAN	common cellular gos:	There is no common go_molecular for B7ZC06_HUMAN between A0A0C4DGS5_HUMAN
+
+
+-----------------B7ZC06_HUMAN & A0A087WYC0_HUMAN------------------------
+
+B7ZC06_HUMAN	cellular go count:	0	There is no go_molecular for B7ZC06_HUMAN
+A0A087WYC0_HUMAN	cellular go count:	0	There is no go_molecular for A0A087WYC0_HUMAN
+B7ZC06_HUMAN & A0A087WYC0_HUMAN	common cellular go count:	0
+B7ZC06_HUMAN & A0A087WYC0_HUMAN	common cellular gos:	There is no common go_molecular for B7ZC06_HUMAN between A0A087WYC0_HUMAN
+
+
+-----------------B7ZC06_HUMAN & Q86V90_HUMAN------------------------
+
+B7ZC06_HUMAN	cellular go count:	0	There is no go_molecular for B7ZC06_HUMAN
+Q86V90_HUMAN	cellular go count:	1	['GO:0005216']
+B7ZC06_HUMAN & Q86V90_HUMAN	common cellular go count:	0
+B7ZC06_HUMAN & Q86V90_HUMAN	common cellular gos:	There is no common go_molecular for B7ZC06_HUMAN between Q86V90_HUMAN
+
+
+-----------------B7ZC06_HUMAN & R4GND7_HUMAN------------------------
+
+B7ZC06_HUMAN	cellular go count:	0	There is no go_molecular for B7ZC06_HUMAN
+R4GND7_HUMAN	cellular go count:	0	There is no go_molecular for R4GND7_HUMAN
+B7ZC06_HUMAN & R4GND7_HUMAN	common cellular go count:	0
+B7ZC06_HUMAN & R4GND7_HUMAN	common cellular gos:	There is no common go_molecular for B7ZC06_HUMAN between R4GND7_HUMAN
+
+
+-----------------B7ZC06_HUMAN & GOGA2_HUMAN------------------------
+
+B7ZC06_HUMAN	cellular go count:	0	There is no go_molecular for B7ZC06_HUMAN
+GOGA2_HUMAN	cellular go count:	5	['GO:0098641', 'GO:0061676', 'GO:0008017', 'GO:0019901', 'GO:0019905']
+B7ZC06_HUMAN & GOGA2_HUMAN	common cellular go count:	0
+B7ZC06_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common go_molecular for B7ZC06_HUMAN between GOGA2_HUMAN
+
+
+-----------------B7ZC06_HUMAN & SCN5A_HUMAN------------------------
+
+B7ZC06_HUMAN	cellular go count:	0	There is no go_molecular for B7ZC06_HUMAN
+SCN5A_HUMAN	cellular go count:	16	['GO:0030506', 'GO:0005516', 'GO:0019899', 'GO:0017134', 'GO:0044325', 'GO:0050998', 'GO:0019904', 'GO:0019901', 'GO:0097110', 'GO:0031625', 'GO:0005248', 'GO:0086060', 'GO:0086061', 'GO:0086006', 'GO:0086062', 'GO:0086063']
+B7ZC06_HUMAN & SCN5A_HUMAN	common cellular go count:	0
+B7ZC06_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common go_molecular for B7ZC06_HUMAN between SCN5A_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & A0A0C4DGS5_HUMAN------------------------
+
+H0Y7B8_HUMAN	cellular go count:	0	There is no go_molecular for H0Y7B8_HUMAN
+A0A0C4DGS5_HUMAN	cellular go count:	0	There is no go_molecular for A0A0C4DGS5_HUMAN
+H0Y7B8_HUMAN & A0A0C4DGS5_HUMAN	common cellular go count:	0
+H0Y7B8_HUMAN & A0A0C4DGS5_HUMAN	common cellular gos:	There is no common go_molecular for H0Y7B8_HUMAN between A0A0C4DGS5_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & A0A087WYC0_HUMAN------------------------
+
+H0Y7B8_HUMAN	cellular go count:	0	There is no go_molecular for H0Y7B8_HUMAN
+A0A087WYC0_HUMAN	cellular go count:	0	There is no go_molecular for A0A087WYC0_HUMAN
+H0Y7B8_HUMAN & A0A087WYC0_HUMAN	common cellular go count:	0
+H0Y7B8_HUMAN & A0A087WYC0_HUMAN	common cellular gos:	There is no common go_molecular for H0Y7B8_HUMAN between A0A087WYC0_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & Q86V90_HUMAN------------------------
+
+H0Y7B8_HUMAN	cellular go count:	0	There is no go_molecular for H0Y7B8_HUMAN
+Q86V90_HUMAN	cellular go count:	1	['GO:0005216']
+H0Y7B8_HUMAN & Q86V90_HUMAN	common cellular go count:	0
+H0Y7B8_HUMAN & Q86V90_HUMAN	common cellular gos:	There is no common go_molecular for H0Y7B8_HUMAN between Q86V90_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & R4GND7_HUMAN------------------------
+
+H0Y7B8_HUMAN	cellular go count:	0	There is no go_molecular for H0Y7B8_HUMAN
+R4GND7_HUMAN	cellular go count:	0	There is no go_molecular for R4GND7_HUMAN
+H0Y7B8_HUMAN & R4GND7_HUMAN	common cellular go count:	0
+H0Y7B8_HUMAN & R4GND7_HUMAN	common cellular gos:	There is no common go_molecular for H0Y7B8_HUMAN between R4GND7_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & GOGA2_HUMAN------------------------
+
+H0Y7B8_HUMAN	cellular go count:	0	There is no go_molecular for H0Y7B8_HUMAN
+GOGA2_HUMAN	cellular go count:	5	['GO:0098641', 'GO:0061676', 'GO:0008017', 'GO:0019901', 'GO:0019905']
+H0Y7B8_HUMAN & GOGA2_HUMAN	common cellular go count:	0
+H0Y7B8_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common go_molecular for H0Y7B8_HUMAN between GOGA2_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & SCN5A_HUMAN------------------------
+
+H0Y7B8_HUMAN	cellular go count:	0	There is no go_molecular for H0Y7B8_HUMAN
+SCN5A_HUMAN	cellular go count:	16	['GO:0030506', 'GO:0005516', 'GO:0019899', 'GO:0017134', 'GO:0044325', 'GO:0050998', 'GO:0019904', 'GO:0019901', 'GO:0097110', 'GO:0031625', 'GO:0005248', 'GO:0086060', 'GO:0086061', 'GO:0086006', 'GO:0086062', 'GO:0086063']
+H0Y7B8_HUMAN & SCN5A_HUMAN	common cellular go count:	0
+H0Y7B8_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common go_molecular for H0Y7B8_HUMAN between SCN5A_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	cellular go count:	0	There is no go_molecular for A0A0C4DGS5_HUMAN
+A0A087WYC0_HUMAN	cellular go count:	0	There is no go_molecular for A0A087WYC0_HUMAN
+A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN	common cellular go count:	0
+A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN	common cellular gos:	There is no common go_molecular for A0A0C4DGS5_HUMAN between A0A087WYC0_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & Q86V90_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	cellular go count:	0	There is no go_molecular for A0A0C4DGS5_HUMAN
+Q86V90_HUMAN	cellular go count:	1	['GO:0005216']
+A0A0C4DGS5_HUMAN & Q86V90_HUMAN	common cellular go count:	0
+A0A0C4DGS5_HUMAN & Q86V90_HUMAN	common cellular gos:	There is no common go_molecular for A0A0C4DGS5_HUMAN between Q86V90_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & R4GND7_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	cellular go count:	0	There is no go_molecular for A0A0C4DGS5_HUMAN
+R4GND7_HUMAN	cellular go count:	0	There is no go_molecular for R4GND7_HUMAN
+A0A0C4DGS5_HUMAN & R4GND7_HUMAN	common cellular go count:	0
+A0A0C4DGS5_HUMAN & R4GND7_HUMAN	common cellular gos:	There is no common go_molecular for A0A0C4DGS5_HUMAN between R4GND7_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & GOGA2_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	cellular go count:	0	There is no go_molecular for A0A0C4DGS5_HUMAN
+GOGA2_HUMAN	cellular go count:	5	['GO:0098641', 'GO:0061676', 'GO:0008017', 'GO:0019901', 'GO:0019905']
+A0A0C4DGS5_HUMAN & GOGA2_HUMAN	common cellular go count:	0
+A0A0C4DGS5_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common go_molecular for A0A0C4DGS5_HUMAN between GOGA2_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & SCN5A_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	cellular go count:	0	There is no go_molecular for A0A0C4DGS5_HUMAN
+SCN5A_HUMAN	cellular go count:	16	['GO:0030506', 'GO:0005516', 'GO:0019899', 'GO:0017134', 'GO:0044325', 'GO:0050998', 'GO:0019904', 'GO:0019901', 'GO:0097110', 'GO:0031625', 'GO:0005248', 'GO:0086060', 'GO:0086061', 'GO:0086006', 'GO:0086062', 'GO:0086063']
+A0A0C4DGS5_HUMAN & SCN5A_HUMAN	common cellular go count:	0
+A0A0C4DGS5_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common go_molecular for A0A0C4DGS5_HUMAN between SCN5A_HUMAN
+
+
+-----------------A0A087WYC0_HUMAN & Q86V90_HUMAN------------------------
+
+A0A087WYC0_HUMAN	cellular go count:	0	There is no go_molecular for A0A087WYC0_HUMAN
+Q86V90_HUMAN	cellular go count:	1	['GO:0005216']
+A0A087WYC0_HUMAN & Q86V90_HUMAN	common cellular go count:	0
+A0A087WYC0_HUMAN & Q86V90_HUMAN	common cellular gos:	There is no common go_molecular for A0A087WYC0_HUMAN between Q86V90_HUMAN
+
+
+-----------------A0A087WYC0_HUMAN & R4GND7_HUMAN------------------------
+
+A0A087WYC0_HUMAN	cellular go count:	0	There is no go_molecular for A0A087WYC0_HUMAN
+R4GND7_HUMAN	cellular go count:	0	There is no go_molecular for R4GND7_HUMAN
+A0A087WYC0_HUMAN & R4GND7_HUMAN	common cellular go count:	0
+A0A087WYC0_HUMAN & R4GND7_HUMAN	common cellular gos:	There is no common go_molecular for A0A087WYC0_HUMAN between R4GND7_HUMAN
+
+
+-----------------A0A087WYC0_HUMAN & GOGA2_HUMAN------------------------
+
+A0A087WYC0_HUMAN	cellular go count:	0	There is no go_molecular for A0A087WYC0_HUMAN
+GOGA2_HUMAN	cellular go count:	5	['GO:0098641', 'GO:0061676', 'GO:0008017', 'GO:0019901', 'GO:0019905']
+A0A087WYC0_HUMAN & GOGA2_HUMAN	common cellular go count:	0
+A0A087WYC0_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common go_molecular for A0A087WYC0_HUMAN between GOGA2_HUMAN
+
+
+-----------------A0A087WYC0_HUMAN & SCN5A_HUMAN------------------------
+
+A0A087WYC0_HUMAN	cellular go count:	0	There is no go_molecular for A0A087WYC0_HUMAN
+SCN5A_HUMAN	cellular go count:	16	['GO:0030506', 'GO:0005516', 'GO:0019899', 'GO:0017134', 'GO:0044325', 'GO:0050998', 'GO:0019904', 'GO:0019901', 'GO:0097110', 'GO:0031625', 'GO:0005248', 'GO:0086060', 'GO:0086061', 'GO:0086006', 'GO:0086062', 'GO:0086063']
+A0A087WYC0_HUMAN & SCN5A_HUMAN	common cellular go count:	0
+A0A087WYC0_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common go_molecular for A0A087WYC0_HUMAN between SCN5A_HUMAN
+
+
+-----------------Q86V90_HUMAN & R4GND7_HUMAN------------------------
+
+Q86V90_HUMAN	cellular go count:	1	['GO:0005216']
+R4GND7_HUMAN	cellular go count:	0	There is no go_molecular for R4GND7_HUMAN
+Q86V90_HUMAN & R4GND7_HUMAN	common cellular go count:	0
+Q86V90_HUMAN & R4GND7_HUMAN	common cellular gos:	There is no common go_molecular for Q86V90_HUMAN between R4GND7_HUMAN
+
+
+-----------------Q86V90_HUMAN & GOGA2_HUMAN------------------------
+
+Q86V90_HUMAN	cellular go count:	1	['GO:0005216']
+GOGA2_HUMAN	cellular go count:	5	['GO:0098641', 'GO:0061676', 'GO:0008017', 'GO:0019901', 'GO:0019905']
+Q86V90_HUMAN & GOGA2_HUMAN	common cellular go count:	0
+Q86V90_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common go_molecular for Q86V90_HUMAN between GOGA2_HUMAN
+
+
+-----------------Q86V90_HUMAN & SCN5A_HUMAN------------------------
+
+Q86V90_HUMAN	cellular go count:	1	['GO:0005216']
+SCN5A_HUMAN	cellular go count:	16	['GO:0030506', 'GO:0005516', 'GO:0019899', 'GO:0017134', 'GO:0044325', 'GO:0050998', 'GO:0019904', 'GO:0019901', 'GO:0097110', 'GO:0031625', 'GO:0005248', 'GO:0086060', 'GO:0086061', 'GO:0086006', 'GO:0086062', 'GO:0086063']
+Q86V90_HUMAN & SCN5A_HUMAN	common cellular go count:	0
+Q86V90_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common go_molecular for Q86V90_HUMAN between SCN5A_HUMAN
+
+
+-----------------R4GND7_HUMAN & GOGA2_HUMAN------------------------
+
+R4GND7_HUMAN	cellular go count:	0	There is no go_molecular for R4GND7_HUMAN
+GOGA2_HUMAN	cellular go count:	5	['GO:0098641', 'GO:0061676', 'GO:0008017', 'GO:0019901', 'GO:0019905']
+R4GND7_HUMAN & GOGA2_HUMAN	common cellular go count:	0
+R4GND7_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common go_molecular for R4GND7_HUMAN between GOGA2_HUMAN
+
+
+-----------------R4GND7_HUMAN & SCN5A_HUMAN------------------------
+
+R4GND7_HUMAN	cellular go count:	0	There is no go_molecular for R4GND7_HUMAN
+SCN5A_HUMAN	cellular go count:	16	['GO:0030506', 'GO:0005516', 'GO:0019899', 'GO:0017134', 'GO:0044325', 'GO:0050998', 'GO:0019904', 'GO:0019901', 'GO:0097110', 'GO:0031625', 'GO:0005248', 'GO:0086060', 'GO:0086061', 'GO:0086006', 'GO:0086062', 'GO:0086063']
+R4GND7_HUMAN & SCN5A_HUMAN	common cellular go count:	0
+R4GND7_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common go_molecular for R4GND7_HUMAN between SCN5A_HUMAN
+
+
+-----------------GOGA2_HUMAN & SCN5A_HUMAN------------------------
+
+GOGA2_HUMAN	cellular go count:	5	['GO:0098641', 'GO:0061676', 'GO:0008017', 'GO:0019901', 'GO:0019905']
+SCN5A_HUMAN	cellular go count:	16	['GO:0030506', 'GO:0005516', 'GO:0019899', 'GO:0017134', 'GO:0044325', 'GO:0050998', 'GO:0019904', 'GO:0019901', 'GO:0097110', 'GO:0031625', 'GO:0005248', 'GO:0086060', 'GO:0086061', 'GO:0086006', 'GO:0086062', 'GO:0086063']
+GOGA2_HUMAN & SCN5A_HUMAN	common cellular go count:	1
+GOGA2_HUMAN & SCN5A_HUMAN	common cellular gos:	{'GO:0019901'}
+
+

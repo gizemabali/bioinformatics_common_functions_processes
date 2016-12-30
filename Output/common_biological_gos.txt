@@ -1,0 +1,224 @@
+-----------------B7ZC06_HUMAN & H0Y7B8_HUMAN------------------------
+
+B7ZC06_HUMAN	cellular go count:	0	There is no go_biological for B7ZC06_HUMAN
+H0Y7B8_HUMAN	cellular go count:	0	There is no go_biological for H0Y7B8_HUMAN
+B7ZC06_HUMAN & H0Y7B8_HUMAN	common cellular go count:	0
+B7ZC06_HUMAN & H0Y7B8_HUMAN	common cellular gos:	There is no common go_biological for B7ZC06_HUMAN between H0Y7B8_HUMAN
+
+
+-----------------B7ZC06_HUMAN & A0A0C4DGS5_HUMAN------------------------
+
+B7ZC06_HUMAN	cellular go count:	0	There is no go_biological for B7ZC06_HUMAN
+A0A0C4DGS5_HUMAN	cellular go count:	0	There is no go_biological for A0A0C4DGS5_HUMAN
+B7ZC06_HUMAN & A0A0C4DGS5_HUMAN	common cellular go count:	0
+B7ZC06_HUMAN & A0A0C4DGS5_HUMAN	common cellular gos:	There is no common go_biological for B7ZC06_HUMAN between A0A0C4DGS5_HUMAN
+
+
+-----------------B7ZC06_HUMAN & A0A087WYC0_HUMAN------------------------
+
+B7ZC06_HUMAN	cellular go count:	0	There is no go_biological for B7ZC06_HUMAN
+A0A087WYC0_HUMAN	cellular go count:	0	There is no go_biological for A0A087WYC0_HUMAN
+B7ZC06_HUMAN & A0A087WYC0_HUMAN	common cellular go count:	0
+B7ZC06_HUMAN & A0A087WYC0_HUMAN	common cellular gos:	There is no common go_biological for B7ZC06_HUMAN between A0A087WYC0_HUMAN
+
+
+-----------------B7ZC06_HUMAN & Q86V90_HUMAN------------------------
+
+B7ZC06_HUMAN	cellular go count:	0	There is no go_biological for B7ZC06_HUMAN
+Q86V90_HUMAN	cellular go count:	0	There is no go_biological for Q86V90_HUMAN
+B7ZC06_HUMAN & Q86V90_HUMAN	common cellular go count:	0
+B7ZC06_HUMAN & Q86V90_HUMAN	common cellular gos:	There is no common go_biological for B7ZC06_HUMAN between Q86V90_HUMAN
+
+
+-----------------B7ZC06_HUMAN & R4GND7_HUMAN------------------------
+
+B7ZC06_HUMAN	cellular go count:	0	There is no go_biological for B7ZC06_HUMAN
+R4GND7_HUMAN	cellular go count:	0	There is no go_biological for R4GND7_HUMAN
+B7ZC06_HUMAN & R4GND7_HUMAN	common cellular go count:	0
+B7ZC06_HUMAN & R4GND7_HUMAN	common cellular gos:	There is no common go_biological for B7ZC06_HUMAN between R4GND7_HUMAN
+
+
+-----------------B7ZC06_HUMAN & GOGA2_HUMAN------------------------
+
+B7ZC06_HUMAN	cellular go count:	0	There is no go_biological for B7ZC06_HUMAN
+GOGA2_HUMAN	cellular go count:	15	['GO:0008356', 'GO:0051297', 'GO:0048208', 'GO:0006888', 'GO:0090166', 'GO:0090161', 'GO:0007020', 'GO:0090307', 'GO:0010507', 'GO:0032091', 'GO:0060050', 'GO:0006486', 'GO:0051289', 'GO:0051225', 'GO:0090306']
+B7ZC06_HUMAN & GOGA2_HUMAN	common cellular go count:	0
+B7ZC06_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common go_biological for B7ZC06_HUMAN between GOGA2_HUMAN
+
+
+-----------------B7ZC06_HUMAN & SCN5A_HUMAN------------------------
+
+B7ZC06_HUMAN	cellular go count:	0	There is no go_biological for B7ZC06_HUMAN
+SCN5A_HUMAN	cellular go count:	36	['GO:0086016', 'GO:0086067', 'GO:0003360', 'GO:0086043', 'GO:0061337', 'GO:0086002', 'GO:0060048', 'GO:0003231', 'GO:0071277', 'GO:0021549', 'GO:0051899', 'GO:0086010', 'GO:0086045', 'GO:0086048', 'GO:0086012', 'GO:0086047', 'GO:0086046', 'GO:0019228', 'GO:0042475', 'GO:0045760', 'GO:0050679', 'GO:0010765', 'GO:0060371', 'GO:0060372', 'GO:0086004', 'GO:0002027', 'GO:0086091', 'GO:1902305', 'GO:0060373', 'GO:0060307', 'GO:0014894', 'GO:0086015', 'GO:0035725', 'GO:0006814', 'GO:0021537', 'GO:0086005']
+B7ZC06_HUMAN & SCN5A_HUMAN	common cellular go count:	0
+B7ZC06_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common go_biological for B7ZC06_HUMAN between SCN5A_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & A0A0C4DGS5_HUMAN------------------------
+
+H0Y7B8_HUMAN	cellular go count:	0	There is no go_biological for H0Y7B8_HUMAN
+A0A0C4DGS5_HUMAN	cellular go count:	0	There is no go_biological for A0A0C4DGS5_HUMAN
+H0Y7B8_HUMAN & A0A0C4DGS5_HUMAN	common cellular go count:	0
+H0Y7B8_HUMAN & A0A0C4DGS5_HUMAN	common cellular gos:	There is no common go_biological for H0Y7B8_HUMAN between A0A0C4DGS5_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & A0A087WYC0_HUMAN------------------------
+
+H0Y7B8_HUMAN	cellular go count:	0	There is no go_biological for H0Y7B8_HUMAN
+A0A087WYC0_HUMAN	cellular go count:	0	There is no go_biological for A0A087WYC0_HUMAN
+H0Y7B8_HUMAN & A0A087WYC0_HUMAN	common cellular go count:	0
+H0Y7B8_HUMAN & A0A087WYC0_HUMAN	common cellular gos:	There is no common go_biological for H0Y7B8_HUMAN between A0A087WYC0_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & Q86V90_HUMAN------------------------
+
+H0Y7B8_HUMAN	cellular go count:	0	There is no go_biological for H0Y7B8_HUMAN
+Q86V90_HUMAN	cellular go count:	0	There is no go_biological for Q86V90_HUMAN
+H0Y7B8_HUMAN & Q86V90_HUMAN	common cellular go count:	0
+H0Y7B8_HUMAN & Q86V90_HUMAN	common cellular gos:	There is no common go_biological for H0Y7B8_HUMAN between Q86V90_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & R4GND7_HUMAN------------------------
+
+H0Y7B8_HUMAN	cellular go count:	0	There is no go_biological for H0Y7B8_HUMAN
+R4GND7_HUMAN	cellular go count:	0	There is no go_biological for R4GND7_HUMAN
+H0Y7B8_HUMAN & R4GND7_HUMAN	common cellular go count:	0
+H0Y7B8_HUMAN & R4GND7_HUMAN	common cellular gos:	There is no common go_biological for H0Y7B8_HUMAN between R4GND7_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & GOGA2_HUMAN------------------------
+
+H0Y7B8_HUMAN	cellular go count:	0	There is no go_biological for H0Y7B8_HUMAN
+GOGA2_HUMAN	cellular go count:	15	['GO:0008356', 'GO:0051297', 'GO:0048208', 'GO:0006888', 'GO:0090166', 'GO:0090161', 'GO:0007020', 'GO:0090307', 'GO:0010507', 'GO:0032091', 'GO:0060050', 'GO:0006486', 'GO:0051289', 'GO:0051225', 'GO:0090306']
+H0Y7B8_HUMAN & GOGA2_HUMAN	common cellular go count:	0
+H0Y7B8_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common go_biological for H0Y7B8_HUMAN between GOGA2_HUMAN
+
+
+-----------------H0Y7B8_HUMAN & SCN5A_HUMAN------------------------
+
+H0Y7B8_HUMAN	cellular go count:	0	There is no go_biological for H0Y7B8_HUMAN
+SCN5A_HUMAN	cellular go count:	36	['GO:0086016', 'GO:0086067', 'GO:0003360', 'GO:0086043', 'GO:0061337', 'GO:0086002', 'GO:0060048', 'GO:0003231', 'GO:0071277', 'GO:0021549', 'GO:0051899', 'GO:0086010', 'GO:0086045', 'GO:0086048', 'GO:0086012', 'GO:0086047', 'GO:0086046', 'GO:0019228', 'GO:0042475', 'GO:0045760', 'GO:0050679', 'GO:0010765', 'GO:0060371', 'GO:0060372', 'GO:0086004', 'GO:0002027', 'GO:0086091', 'GO:1902305', 'GO:0060373', 'GO:0060307', 'GO:0014894', 'GO:0086015', 'GO:0035725', 'GO:0006814', 'GO:0021537', 'GO:0086005']
+H0Y7B8_HUMAN & SCN5A_HUMAN	common cellular go count:	0
+H0Y7B8_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common go_biological for H0Y7B8_HUMAN between SCN5A_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	cellular go count:	0	There is no go_biological for A0A0C4DGS5_HUMAN
+A0A087WYC0_HUMAN	cellular go count:	0	There is no go_biological for A0A087WYC0_HUMAN
+A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN	common cellular go count:	0
+A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN	common cellular gos:	There is no common go_biological for A0A0C4DGS5_HUMAN between A0A087WYC0_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & Q86V90_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	cellular go count:	0	There is no go_biological for A0A0C4DGS5_HUMAN
+Q86V90_HUMAN	cellular go count:	0	There is no go_biological for Q86V90_HUMAN
+A0A0C4DGS5_HUMAN & Q86V90_HUMAN	common cellular go count:	0
+A0A0C4DGS5_HUMAN & Q86V90_HUMAN	common cellular gos:	There is no common go_biological for A0A0C4DGS5_HUMAN between Q86V90_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & R4GND7_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	cellular go count:	0	There is no go_biological for A0A0C4DGS5_HUMAN
+R4GND7_HUMAN	cellular go count:	0	There is no go_biological for R4GND7_HUMAN
+A0A0C4DGS5_HUMAN & R4GND7_HUMAN	common cellular go count:	0
+A0A0C4DGS5_HUMAN & R4GND7_HUMAN	common cellular gos:	There is no common go_biological for A0A0C4DGS5_HUMAN between R4GND7_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & GOGA2_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	cellular go count:	0	There is no go_biological for A0A0C4DGS5_HUMAN
+GOGA2_HUMAN	cellular go count:	15	['GO:0008356', 'GO:0051297', 'GO:0048208', 'GO:0006888', 'GO:0090166', 'GO:0090161', 'GO:0007020', 'GO:0090307', 'GO:0010507', 'GO:0032091', 'GO:0060050', 'GO:0006486', 'GO:0051289', 'GO:0051225', 'GO:0090306']
+A0A0C4DGS5_HUMAN & GOGA2_HUMAN	common cellular go count:	0
+A0A0C4DGS5_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common go_biological for A0A0C4DGS5_HUMAN between GOGA2_HUMAN
+
+
+-----------------A0A0C4DGS5_HUMAN & SCN5A_HUMAN------------------------
+
+A0A0C4DGS5_HUMAN	cellular go count:	0	There is no go_biological for A0A0C4DGS5_HUMAN
+SCN5A_HUMAN	cellular go count:	36	['GO:0086016', 'GO:0086067', 'GO:0003360', 'GO:0086043', 'GO:0061337', 'GO:0086002', 'GO:0060048', 'GO:0003231', 'GO:0071277', 'GO:0021549', 'GO:0051899', 'GO:0086010', 'GO:0086045', 'GO:0086048', 'GO:0086012', 'GO:0086047', 'GO:0086046', 'GO:0019228', 'GO:0042475', 'GO:0045760', 'GO:0050679', 'GO:0010765', 'GO:0060371', 'GO:0060372', 'GO:0086004', 'GO:0002027', 'GO:0086091', 'GO:1902305', 'GO:0060373', 'GO:0060307', 'GO:0014894', 'GO:0086015', 'GO:0035725', 'GO:0006814', 'GO:0021537', 'GO:0086005']
+A0A0C4DGS5_HUMAN & SCN5A_HUMAN	common cellular go count:	0
+A0A0C4DGS5_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common go_biological for A0A0C4DGS5_HUMAN between SCN5A_HUMAN
+
+
+-----------------A0A087WYC0_HUMAN & Q86V90_HUMAN------------------------
+
+A0A087WYC0_HUMAN	cellular go count:	0	There is no go_biological for A0A087WYC0_HUMAN
+Q86V90_HUMAN	cellular go count:	0	There is no go_biological for Q86V90_HUMAN
+A0A087WYC0_HUMAN & Q86V90_HUMAN	common cellular go count:	0
+A0A087WYC0_HUMAN & Q86V90_HUMAN	common cellular gos:	There is no common go_biological for A0A087WYC0_HUMAN between Q86V90_HUMAN
+
+
+-----------------A0A087WYC0_HUMAN & R4GND7_HUMAN------------------------
+
+A0A087WYC0_HUMAN	cellular go count:	0	There is no go_biological for A0A087WYC0_HUMAN
+R4GND7_HUMAN	cellular go count:	0	There is no go_biological for R4GND7_HUMAN
+A0A087WYC0_HUMAN & R4GND7_HUMAN	common cellular go count:	0
+A0A087WYC0_HUMAN & R4GND7_HUMAN	common cellular gos:	There is no common go_biological for A0A087WYC0_HUMAN between R4GND7_HUMAN
+
+
+-----------------A0A087WYC0_HUMAN & GOGA2_HUMAN------------------------
+
+A0A087WYC0_HUMAN	cellular go count:	0	There is no go_biological for A0A087WYC0_HUMAN
+GOGA2_HUMAN	cellular go count:	15	['GO:0008356', 'GO:0051297', 'GO:0048208', 'GO:0006888', 'GO:0090166', 'GO:0090161', 'GO:0007020', 'GO:0090307', 'GO:0010507', 'GO:0032091', 'GO:0060050', 'GO:0006486', 'GO:0051289', 'GO:0051225', 'GO:0090306']
+A0A087WYC0_HUMAN & GOGA2_HUMAN	common cellular go count:	0
+A0A087WYC0_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common go_biological for A0A087WYC0_HUMAN between GOGA2_HUMAN
+
+
+-----------------A0A087WYC0_HUMAN & SCN5A_HUMAN------------------------
+
+A0A087WYC0_HUMAN	cellular go count:	0	There is no go_biological for A0A087WYC0_HUMAN
+SCN5A_HUMAN	cellular go count:	36	['GO:0086016', 'GO:0086067', 'GO:0003360', 'GO:0086043', 'GO:0061337', 'GO:0086002', 'GO:0060048', 'GO:0003231', 'GO:0071277', 'GO:0021549', 'GO:0051899', 'GO:0086010', 'GO:0086045', 'GO:0086048', 'GO:0086012', 'GO:0086047', 'GO:0086046', 'GO:0019228', 'GO:0042475', 'GO:0045760', 'GO:0050679', 'GO:0010765', 'GO:0060371', 'GO:0060372', 'GO:0086004', 'GO:0002027', 'GO:0086091', 'GO:1902305', 'GO:0060373', 'GO:0060307', 'GO:0014894', 'GO:0086015', 'GO:0035725', 'GO:0006814', 'GO:0021537', 'GO:0086005']
+A0A087WYC0_HUMAN & SCN5A_HUMAN	common cellular go count:	0
+A0A087WYC0_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common go_biological for A0A087WYC0_HUMAN between SCN5A_HUMAN
+
+
+-----------------Q86V90_HUMAN & R4GND7_HUMAN------------------------
+
+Q86V90_HUMAN	cellular go count:	0	There is no go_biological for Q86V90_HUMAN
+R4GND7_HUMAN	cellular go count:	0	There is no go_biological for R4GND7_HUMAN
+Q86V90_HUMAN & R4GND7_HUMAN	common cellular go count:	0
+Q86V90_HUMAN & R4GND7_HUMAN	common cellular gos:	There is no common go_biological for Q86V90_HUMAN between R4GND7_HUMAN
+
+
+-----------------Q86V90_HUMAN & GOGA2_HUMAN------------------------
+
+Q86V90_HUMAN	cellular go count:	0	There is no go_biological for Q86V90_HUMAN
+GOGA2_HUMAN	cellular go count:	15	['GO:0008356', 'GO:0051297', 'GO:0048208', 'GO:0006888', 'GO:0090166', 'GO:0090161', 'GO:0007020', 'GO:0090307', 'GO:0010507', 'GO:0032091', 'GO:0060050', 'GO:0006486', 'GO:0051289', 'GO:0051225', 'GO:0090306']
+Q86V90_HUMAN & GOGA2_HUMAN	common cellular go count:	0
+Q86V90_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common go_biological for Q86V90_HUMAN between GOGA2_HUMAN
+
+
+-----------------Q86V90_HUMAN & SCN5A_HUMAN------------------------
+
+Q86V90_HUMAN	cellular go count:	0	There is no go_biological for Q86V90_HUMAN
+SCN5A_HUMAN	cellular go count:	36	['GO:0086016', 'GO:0086067', 'GO:0003360', 'GO:0086043', 'GO:0061337', 'GO:0086002', 'GO:0060048', 'GO:0003231', 'GO:0071277', 'GO:0021549', 'GO:0051899', 'GO:0086010', 'GO:0086045', 'GO:0086048', 'GO:0086012', 'GO:0086047', 'GO:0086046', 'GO:0019228', 'GO:0042475', 'GO:0045760', 'GO:0050679', 'GO:0010765', 'GO:0060371', 'GO:0060372', 'GO:0086004', 'GO:0002027', 'GO:0086091', 'GO:1902305', 'GO:0060373', 'GO:0060307', 'GO:0014894', 'GO:0086015', 'GO:0035725', 'GO:0006814', 'GO:0021537', 'GO:0086005']
+Q86V90_HUMAN & SCN5A_HUMAN	common cellular go count:	0
+Q86V90_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common go_biological for Q86V90_HUMAN between SCN5A_HUMAN
+
+
+-----------------R4GND7_HUMAN & GOGA2_HUMAN------------------------
+
+R4GND7_HUMAN	cellular go count:	0	There is no go_biological for R4GND7_HUMAN
+GOGA2_HUMAN	cellular go count:	15	['GO:0008356', 'GO:0051297', 'GO:0048208', 'GO:0006888', 'GO:0090166', 'GO:0090161', 'GO:0007020', 'GO:0090307', 'GO:0010507', 'GO:0032091', 'GO:0060050', 'GO:0006486', 'GO:0051289', 'GO:0051225', 'GO:0090306']
+R4GND7_HUMAN & GOGA2_HUMAN	common cellular go count:	0
+R4GND7_HUMAN & GOGA2_HUMAN	common cellular gos:	There is no common go_biological for R4GND7_HUMAN between GOGA2_HUMAN
+
+
+-----------------R4GND7_HUMAN & SCN5A_HUMAN------------------------
+
+R4GND7_HUMAN	cellular go count:	0	There is no go_biological for R4GND7_HUMAN
+SCN5A_HUMAN	cellular go count:	36	['GO:0086016', 'GO:0086067', 'GO:0003360', 'GO:0086043', 'GO:0061337', 'GO:0086002', 'GO:0060048', 'GO:0003231', 'GO:0071277', 'GO:0021549', 'GO:0051899', 'GO:0086010', 'GO:0086045', 'GO:0086048', 'GO:0086012', 'GO:0086047', 'GO:0086046', 'GO:0019228', 'GO:0042475', 'GO:0045760', 'GO:0050679', 'GO:0010765', 'GO:0060371', 'GO:0060372', 'GO:0086004', 'GO:0002027', 'GO:0086091', 'GO:1902305', 'GO:0060373', 'GO:0060307', 'GO:0014894', 'GO:0086015', 'GO:0035725', 'GO:0006814', 'GO:0021537', 'GO:0086005']
+R4GND7_HUMAN & SCN5A_HUMAN	common cellular go count:	0
+R4GND7_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common go_biological for R4GND7_HUMAN between SCN5A_HUMAN
+
+
+-----------------GOGA2_HUMAN & SCN5A_HUMAN------------------------
+
+GOGA2_HUMAN	cellular go count:	15	['GO:0008356', 'GO:0051297', 'GO:0048208', 'GO:0006888', 'GO:0090166', 'GO:0090161', 'GO:0007020', 'GO:0090307', 'GO:0010507', 'GO:0032091', 'GO:0060050', 'GO:0006486', 'GO:0051289', 'GO:0051225', 'GO:0090306']
+SCN5A_HUMAN	cellular go count:	36	['GO:0086016', 'GO:0086067', 'GO:0003360', 'GO:0086043', 'GO:0061337', 'GO:0086002', 'GO:0060048', 'GO:0003231', 'GO:0071277', 'GO:0021549', 'GO:0051899', 'GO:0086010', 'GO:0086045', 'GO:0086048', 'GO:0086012', 'GO:0086047', 'GO:0086046', 'GO:0019228', 'GO:0042475', 'GO:0045760', 'GO:0050679', 'GO:0010765', 'GO:0060371', 'GO:0060372', 'GO:0086004', 'GO:0002027', 'GO:0086091', 'GO:1902305', 'GO:0060373', 'GO:0060307', 'GO:0014894', 'GO:0086015', 'GO:0035725', 'GO:0006814', 'GO:0021537', 'GO:0086005']
+GOGA2_HUMAN & SCN5A_HUMAN	common cellular go count:	0
+GOGA2_HUMAN & SCN5A_HUMAN	common cellular gos:	There is no common go_biological for GOGA2_HUMAN between SCN5A_HUMAN
+
+
