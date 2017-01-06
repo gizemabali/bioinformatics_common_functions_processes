@@ -1,224 +1,728 @@
------------------R4GND7_HUMAN & A0A0C4DGS5_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & E9PCY9_HUMAN------------------------
 
-R4GND7_HUMAN	sabio count:	0	There is no sabio for R4GND7_HUMAN
-A0A0C4DGS5_HUMAN	sabio count:	0	There is no sabio for A0A0C4DGS5_HUMAN
-R4GND7_HUMAN & A0A0C4DGS5_HUMAN	common sabio count:	0
-R4GND7_HUMAN & A0A0C4DGS5_HUMAN	common sabio count:	There is no common sabio for R4GND7_HUMAN between A0A0C4DGS5_HUMAN
+A0A087WZU8_HUMAN	sabio count:	0	There is no sabio for A0A087WZU8_HUMAN
+E9PCY9_HUMAN	sabio count:	0	There is no sabio for E9PCY9_HUMAN
+A0A087WZU8_HUMAN & E9PCY9_HUMAN	common sabio count:	0
+A0A087WZU8_HUMAN & E9PCY9_HUMAN	common sabio count:	There is no common sabio for A0A087WZU8_HUMAN between E9PCY9_HUMAN
 
 
------------------R4GND7_HUMAN & Q86V90_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & P53_HUMAN------------------------
 
-R4GND7_HUMAN	sabio count:	0	There is no sabio for R4GND7_HUMAN
-Q86V90_HUMAN	sabio count:	0	There is no sabio for Q86V90_HUMAN
-R4GND7_HUMAN & Q86V90_HUMAN	common sabio count:	0
-R4GND7_HUMAN & Q86V90_HUMAN	common sabio count:	There is no common sabio for R4GND7_HUMAN between Q86V90_HUMAN
+A0A087WZU8_HUMAN	sabio count:	0	There is no sabio for A0A087WZU8_HUMAN
+P53_HUMAN	sabio count:	0	There is no sabio for P53_HUMAN
+A0A087WZU8_HUMAN & P53_HUMAN	common sabio count:	0
+A0A087WZU8_HUMAN & P53_HUMAN	common sabio count:	There is no common sabio for A0A087WZU8_HUMAN between P53_HUMAN
 
 
------------------R4GND7_HUMAN & H0Y7B8_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & A0A087WXZ1_HUMAN------------------------
 
-R4GND7_HUMAN	sabio count:	0	There is no sabio for R4GND7_HUMAN
-H0Y7B8_HUMAN	sabio count:	0	There is no sabio for H0Y7B8_HUMAN
-R4GND7_HUMAN & H0Y7B8_HUMAN	common sabio count:	0
-R4GND7_HUMAN & H0Y7B8_HUMAN	common sabio count:	There is no common sabio for R4GND7_HUMAN between H0Y7B8_HUMAN
+A0A087WZU8_HUMAN	sabio count:	0	There is no sabio for A0A087WZU8_HUMAN
+A0A087WXZ1_HUMAN	sabio count:	0	There is no sabio for A0A087WXZ1_HUMAN
+A0A087WZU8_HUMAN & A0A087WXZ1_HUMAN	common sabio count:	0
+A0A087WZU8_HUMAN & A0A087WXZ1_HUMAN	common sabio count:	There is no common sabio for A0A087WZU8_HUMAN between A0A087WXZ1_HUMAN
 
 
------------------R4GND7_HUMAN & A0A087WYC0_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & A0A087WT22_HUMAN------------------------
 
-R4GND7_HUMAN	sabio count:	0	There is no sabio for R4GND7_HUMAN
-A0A087WYC0_HUMAN	sabio count:	0	There is no sabio for A0A087WYC0_HUMAN
-R4GND7_HUMAN & A0A087WYC0_HUMAN	common sabio count:	0
-R4GND7_HUMAN & A0A087WYC0_HUMAN	common sabio count:	There is no common sabio for R4GND7_HUMAN between A0A087WYC0_HUMAN
+A0A087WZU8_HUMAN	sabio count:	0	There is no sabio for A0A087WZU8_HUMAN
+A0A087WT22_HUMAN	sabio count:	0	There is no sabio for A0A087WT22_HUMAN
+A0A087WZU8_HUMAN & A0A087WT22_HUMAN	common sabio count:	0
+A0A087WZU8_HUMAN & A0A087WT22_HUMAN	common sabio count:	There is no common sabio for A0A087WZU8_HUMAN between A0A087WT22_HUMAN
 
 
------------------R4GND7_HUMAN & SCN5A_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & E7ESS1_HUMAN------------------------
 
-R4GND7_HUMAN	sabio count:	0	There is no sabio for R4GND7_HUMAN
-SCN5A_HUMAN	sabio count:	0	There is no sabio for SCN5A_HUMAN
-R4GND7_HUMAN & SCN5A_HUMAN	common sabio count:	0
-R4GND7_HUMAN & SCN5A_HUMAN	common sabio count:	There is no common sabio for R4GND7_HUMAN between SCN5A_HUMAN
+A0A087WZU8_HUMAN	sabio count:	0	There is no sabio for A0A087WZU8_HUMAN
+E7ESS1_HUMAN	sabio count:	0	There is no sabio for E7ESS1_HUMAN
+A0A087WZU8_HUMAN & E7ESS1_HUMAN	common sabio count:	0
+A0A087WZU8_HUMAN & E7ESS1_HUMAN	common sabio count:	There is no common sabio for A0A087WZU8_HUMAN between E7ESS1_HUMAN
 
 
------------------R4GND7_HUMAN & B7ZC06_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & A0A0U1RQC9_HUMAN------------------------
 
-R4GND7_HUMAN	sabio count:	0	There is no sabio for R4GND7_HUMAN
-B7ZC06_HUMAN	sabio count:	0	There is no sabio for B7ZC06_HUMAN
-R4GND7_HUMAN & B7ZC06_HUMAN	common sabio count:	0
-R4GND7_HUMAN & B7ZC06_HUMAN	common sabio count:	There is no common sabio for R4GND7_HUMAN between B7ZC06_HUMAN
+A0A087WZU8_HUMAN	sabio count:	0	There is no sabio for A0A087WZU8_HUMAN
+A0A0U1RQC9_HUMAN	sabio count:	0	There is no sabio for A0A0U1RQC9_HUMAN
+A0A087WZU8_HUMAN & A0A0U1RQC9_HUMAN	common sabio count:	0
+A0A087WZU8_HUMAN & A0A0U1RQC9_HUMAN	common sabio count:	There is no common sabio for A0A087WZU8_HUMAN between A0A0U1RQC9_HUMAN
 
 
------------------R4GND7_HUMAN & GOGA2_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & E9PFT5_HUMAN------------------------
 
-R4GND7_HUMAN	sabio count:	0	There is no sabio for R4GND7_HUMAN
-GOGA2_HUMAN	sabio count:	0	There is no sabio for GOGA2_HUMAN
-R4GND7_HUMAN & GOGA2_HUMAN	common sabio count:	0
-R4GND7_HUMAN & GOGA2_HUMAN	common sabio count:	There is no common sabio for R4GND7_HUMAN between GOGA2_HUMAN
+A0A087WZU8_HUMAN	sabio count:	0	There is no sabio for A0A087WZU8_HUMAN
+E9PFT5_HUMAN	sabio count:	0	There is no sabio for E9PFT5_HUMAN
+A0A087WZU8_HUMAN & E9PFT5_HUMAN	common sabio count:	0
+A0A087WZU8_HUMAN & E9PFT5_HUMAN	common sabio count:	There is no common sabio for A0A087WZU8_HUMAN between E9PFT5_HUMAN
 
 
------------------A0A0C4DGS5_HUMAN & Q86V90_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & S4R334_HUMAN------------------------
 
-A0A0C4DGS5_HUMAN	sabio count:	0	There is no sabio for A0A0C4DGS5_HUMAN
-Q86V90_HUMAN	sabio count:	0	There is no sabio for Q86V90_HUMAN
-A0A0C4DGS5_HUMAN & Q86V90_HUMAN	common sabio count:	0
-A0A0C4DGS5_HUMAN & Q86V90_HUMAN	common sabio count:	There is no common sabio for A0A0C4DGS5_HUMAN between Q86V90_HUMAN
+A0A087WZU8_HUMAN	sabio count:	0	There is no sabio for A0A087WZU8_HUMAN
+S4R334_HUMAN	sabio count:	0	There is no sabio for S4R334_HUMAN
+A0A087WZU8_HUMAN & S4R334_HUMAN	common sabio count:	0
+A0A087WZU8_HUMAN & S4R334_HUMAN	common sabio count:	There is no common sabio for A0A087WZU8_HUMAN between S4R334_HUMAN
 
 
------------------A0A0C4DGS5_HUMAN & H0Y7B8_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & A0A087X1Q1_HUMAN------------------------
 
-A0A0C4DGS5_HUMAN	sabio count:	0	There is no sabio for A0A0C4DGS5_HUMAN
-H0Y7B8_HUMAN	sabio count:	0	There is no sabio for H0Y7B8_HUMAN
-A0A0C4DGS5_HUMAN & H0Y7B8_HUMAN	common sabio count:	0
-A0A0C4DGS5_HUMAN & H0Y7B8_HUMAN	common sabio count:	There is no common sabio for A0A0C4DGS5_HUMAN between H0Y7B8_HUMAN
+A0A087WZU8_HUMAN	sabio count:	0	There is no sabio for A0A087WZU8_HUMAN
+A0A087X1Q1_HUMAN	sabio count:	0	There is no sabio for A0A087X1Q1_HUMAN
+A0A087WZU8_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	0
+A0A087WZU8_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	There is no common sabio for A0A087WZU8_HUMAN between A0A087X1Q1_HUMAN
 
 
------------------A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & J3KP33_HUMAN------------------------
 
-A0A0C4DGS5_HUMAN	sabio count:	0	There is no sabio for A0A0C4DGS5_HUMAN
-A0A087WYC0_HUMAN	sabio count:	0	There is no sabio for A0A087WYC0_HUMAN
-A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN	common sabio count:	0
-A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN	common sabio count:	There is no common sabio for A0A0C4DGS5_HUMAN between A0A087WYC0_HUMAN
+A0A087WZU8_HUMAN	sabio count:	0	There is no sabio for A0A087WZU8_HUMAN
+J3KP33_HUMAN	sabio count:	0	There is no sabio for J3KP33_HUMAN
+A0A087WZU8_HUMAN & J3KP33_HUMAN	common sabio count:	0
+A0A087WZU8_HUMAN & J3KP33_HUMAN	common sabio count:	There is no common sabio for A0A087WZU8_HUMAN between J3KP33_HUMAN
 
 
------------------A0A0C4DGS5_HUMAN & SCN5A_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & I3L0W9_HUMAN------------------------
 
-A0A0C4DGS5_HUMAN	sabio count:	0	There is no sabio for A0A0C4DGS5_HUMAN
-SCN5A_HUMAN	sabio count:	0	There is no sabio for SCN5A_HUMAN
-A0A0C4DGS5_HUMAN & SCN5A_HUMAN	common sabio count:	0
-A0A0C4DGS5_HUMAN & SCN5A_HUMAN	common sabio count:	There is no common sabio for A0A0C4DGS5_HUMAN between SCN5A_HUMAN
+A0A087WZU8_HUMAN	sabio count:	0	There is no sabio for A0A087WZU8_HUMAN
+I3L0W9_HUMAN	sabio count:	0	There is no sabio for I3L0W9_HUMAN
+A0A087WZU8_HUMAN & I3L0W9_HUMAN	common sabio count:	0
+A0A087WZU8_HUMAN & I3L0W9_HUMAN	common sabio count:	There is no common sabio for A0A087WZU8_HUMAN between I3L0W9_HUMAN
 
 
------------------A0A0C4DGS5_HUMAN & B7ZC06_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & E7EMR6_HUMAN------------------------
 
-A0A0C4DGS5_HUMAN	sabio count:	0	There is no sabio for A0A0C4DGS5_HUMAN
-B7ZC06_HUMAN	sabio count:	0	There is no sabio for B7ZC06_HUMAN
-A0A0C4DGS5_HUMAN & B7ZC06_HUMAN	common sabio count:	0
-A0A0C4DGS5_HUMAN & B7ZC06_HUMAN	common sabio count:	There is no common sabio for A0A0C4DGS5_HUMAN between B7ZC06_HUMAN
+A0A087WZU8_HUMAN	sabio count:	0	There is no sabio for A0A087WZU8_HUMAN
+E7EMR6_HUMAN	sabio count:	0	There is no sabio for E7EMR6_HUMAN
+A0A087WZU8_HUMAN & E7EMR6_HUMAN	common sabio count:	0
+A0A087WZU8_HUMAN & E7EMR6_HUMAN	common sabio count:	There is no common sabio for A0A087WZU8_HUMAN between E7EMR6_HUMAN
 
 
------------------A0A0C4DGS5_HUMAN & GOGA2_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & E7EQX7_HUMAN------------------------
 
-A0A0C4DGS5_HUMAN	sabio count:	0	There is no sabio for A0A0C4DGS5_HUMAN
-GOGA2_HUMAN	sabio count:	0	There is no sabio for GOGA2_HUMAN
-A0A0C4DGS5_HUMAN & GOGA2_HUMAN	common sabio count:	0
-A0A0C4DGS5_HUMAN & GOGA2_HUMAN	common sabio count:	There is no common sabio for A0A0C4DGS5_HUMAN between GOGA2_HUMAN
+A0A087WZU8_HUMAN	sabio count:	0	There is no sabio for A0A087WZU8_HUMAN
+E7EQX7_HUMAN	sabio count:	0	There is no sabio for E7EQX7_HUMAN
+A0A087WZU8_HUMAN & E7EQX7_HUMAN	common sabio count:	0
+A0A087WZU8_HUMAN & E7EQX7_HUMAN	common sabio count:	There is no common sabio for A0A087WZU8_HUMAN between E7EQX7_HUMAN
 
 
------------------Q86V90_HUMAN & H0Y7B8_HUMAN------------------------
+-----------------E9PCY9_HUMAN & P53_HUMAN------------------------
 
-Q86V90_HUMAN	sabio count:	0	There is no sabio for Q86V90_HUMAN
-H0Y7B8_HUMAN	sabio count:	0	There is no sabio for H0Y7B8_HUMAN
-Q86V90_HUMAN & H0Y7B8_HUMAN	common sabio count:	0
-Q86V90_HUMAN & H0Y7B8_HUMAN	common sabio count:	There is no common sabio for Q86V90_HUMAN between H0Y7B8_HUMAN
+E9PCY9_HUMAN	sabio count:	0	There is no sabio for E9PCY9_HUMAN
+P53_HUMAN	sabio count:	0	There is no sabio for P53_HUMAN
+E9PCY9_HUMAN & P53_HUMAN	common sabio count:	0
+E9PCY9_HUMAN & P53_HUMAN	common sabio count:	There is no common sabio for E9PCY9_HUMAN between P53_HUMAN
 
 
------------------Q86V90_HUMAN & A0A087WYC0_HUMAN------------------------
+-----------------E9PCY9_HUMAN & A0A087WXZ1_HUMAN------------------------
 
-Q86V90_HUMAN	sabio count:	0	There is no sabio for Q86V90_HUMAN
-A0A087WYC0_HUMAN	sabio count:	0	There is no sabio for A0A087WYC0_HUMAN
-Q86V90_HUMAN & A0A087WYC0_HUMAN	common sabio count:	0
-Q86V90_HUMAN & A0A087WYC0_HUMAN	common sabio count:	There is no common sabio for Q86V90_HUMAN between A0A087WYC0_HUMAN
+E9PCY9_HUMAN	sabio count:	0	There is no sabio for E9PCY9_HUMAN
+A0A087WXZ1_HUMAN	sabio count:	0	There is no sabio for A0A087WXZ1_HUMAN
+E9PCY9_HUMAN & A0A087WXZ1_HUMAN	common sabio count:	0
+E9PCY9_HUMAN & A0A087WXZ1_HUMAN	common sabio count:	There is no common sabio for E9PCY9_HUMAN between A0A087WXZ1_HUMAN
 
 
------------------Q86V90_HUMAN & SCN5A_HUMAN------------------------
+-----------------E9PCY9_HUMAN & A0A087WT22_HUMAN------------------------
 
-Q86V90_HUMAN	sabio count:	0	There is no sabio for Q86V90_HUMAN
-SCN5A_HUMAN	sabio count:	0	There is no sabio for SCN5A_HUMAN
-Q86V90_HUMAN & SCN5A_HUMAN	common sabio count:	0
-Q86V90_HUMAN & SCN5A_HUMAN	common sabio count:	There is no common sabio for Q86V90_HUMAN between SCN5A_HUMAN
+E9PCY9_HUMAN	sabio count:	0	There is no sabio for E9PCY9_HUMAN
+A0A087WT22_HUMAN	sabio count:	0	There is no sabio for A0A087WT22_HUMAN
+E9PCY9_HUMAN & A0A087WT22_HUMAN	common sabio count:	0
+E9PCY9_HUMAN & A0A087WT22_HUMAN	common sabio count:	There is no common sabio for E9PCY9_HUMAN between A0A087WT22_HUMAN
 
 
------------------Q86V90_HUMAN & B7ZC06_HUMAN------------------------
+-----------------E9PCY9_HUMAN & E7ESS1_HUMAN------------------------
 
-Q86V90_HUMAN	sabio count:	0	There is no sabio for Q86V90_HUMAN
-B7ZC06_HUMAN	sabio count:	0	There is no sabio for B7ZC06_HUMAN
-Q86V90_HUMAN & B7ZC06_HUMAN	common sabio count:	0
-Q86V90_HUMAN & B7ZC06_HUMAN	common sabio count:	There is no common sabio for Q86V90_HUMAN between B7ZC06_HUMAN
+E9PCY9_HUMAN	sabio count:	0	There is no sabio for E9PCY9_HUMAN
+E7ESS1_HUMAN	sabio count:	0	There is no sabio for E7ESS1_HUMAN
+E9PCY9_HUMAN & E7ESS1_HUMAN	common sabio count:	0
+E9PCY9_HUMAN & E7ESS1_HUMAN	common sabio count:	There is no common sabio for E9PCY9_HUMAN between E7ESS1_HUMAN
 
 
------------------Q86V90_HUMAN & GOGA2_HUMAN------------------------
+-----------------E9PCY9_HUMAN & A0A0U1RQC9_HUMAN------------------------
 
-Q86V90_HUMAN	sabio count:	0	There is no sabio for Q86V90_HUMAN
-GOGA2_HUMAN	sabio count:	0	There is no sabio for GOGA2_HUMAN
-Q86V90_HUMAN & GOGA2_HUMAN	common sabio count:	0
-Q86V90_HUMAN & GOGA2_HUMAN	common sabio count:	There is no common sabio for Q86V90_HUMAN between GOGA2_HUMAN
+E9PCY9_HUMAN	sabio count:	0	There is no sabio for E9PCY9_HUMAN
+A0A0U1RQC9_HUMAN	sabio count:	0	There is no sabio for A0A0U1RQC9_HUMAN
+E9PCY9_HUMAN & A0A0U1RQC9_HUMAN	common sabio count:	0
+E9PCY9_HUMAN & A0A0U1RQC9_HUMAN	common sabio count:	There is no common sabio for E9PCY9_HUMAN between A0A0U1RQC9_HUMAN
 
 
------------------H0Y7B8_HUMAN & A0A087WYC0_HUMAN------------------------
+-----------------E9PCY9_HUMAN & E9PFT5_HUMAN------------------------
 
-H0Y7B8_HUMAN	sabio count:	0	There is no sabio for H0Y7B8_HUMAN
-A0A087WYC0_HUMAN	sabio count:	0	There is no sabio for A0A087WYC0_HUMAN
-H0Y7B8_HUMAN & A0A087WYC0_HUMAN	common sabio count:	0
-H0Y7B8_HUMAN & A0A087WYC0_HUMAN	common sabio count:	There is no common sabio for H0Y7B8_HUMAN between A0A087WYC0_HUMAN
+E9PCY9_HUMAN	sabio count:	0	There is no sabio for E9PCY9_HUMAN
+E9PFT5_HUMAN	sabio count:	0	There is no sabio for E9PFT5_HUMAN
+E9PCY9_HUMAN & E9PFT5_HUMAN	common sabio count:	0
+E9PCY9_HUMAN & E9PFT5_HUMAN	common sabio count:	There is no common sabio for E9PCY9_HUMAN between E9PFT5_HUMAN
 
 
------------------H0Y7B8_HUMAN & SCN5A_HUMAN------------------------
+-----------------E9PCY9_HUMAN & S4R334_HUMAN------------------------
 
-H0Y7B8_HUMAN	sabio count:	0	There is no sabio for H0Y7B8_HUMAN
-SCN5A_HUMAN	sabio count:	0	There is no sabio for SCN5A_HUMAN
-H0Y7B8_HUMAN & SCN5A_HUMAN	common sabio count:	0
-H0Y7B8_HUMAN & SCN5A_HUMAN	common sabio count:	There is no common sabio for H0Y7B8_HUMAN between SCN5A_HUMAN
+E9PCY9_HUMAN	sabio count:	0	There is no sabio for E9PCY9_HUMAN
+S4R334_HUMAN	sabio count:	0	There is no sabio for S4R334_HUMAN
+E9PCY9_HUMAN & S4R334_HUMAN	common sabio count:	0
+E9PCY9_HUMAN & S4R334_HUMAN	common sabio count:	There is no common sabio for E9PCY9_HUMAN between S4R334_HUMAN
 
 
------------------H0Y7B8_HUMAN & B7ZC06_HUMAN------------------------
+-----------------E9PCY9_HUMAN & A0A087X1Q1_HUMAN------------------------
 
-H0Y7B8_HUMAN	sabio count:	0	There is no sabio for H0Y7B8_HUMAN
-B7ZC06_HUMAN	sabio count:	0	There is no sabio for B7ZC06_HUMAN
-H0Y7B8_HUMAN & B7ZC06_HUMAN	common sabio count:	0
-H0Y7B8_HUMAN & B7ZC06_HUMAN	common sabio count:	There is no common sabio for H0Y7B8_HUMAN between B7ZC06_HUMAN
+E9PCY9_HUMAN	sabio count:	0	There is no sabio for E9PCY9_HUMAN
+A0A087X1Q1_HUMAN	sabio count:	0	There is no sabio for A0A087X1Q1_HUMAN
+E9PCY9_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	0
+E9PCY9_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	There is no common sabio for E9PCY9_HUMAN between A0A087X1Q1_HUMAN
 
 
------------------H0Y7B8_HUMAN & GOGA2_HUMAN------------------------
+-----------------E9PCY9_HUMAN & J3KP33_HUMAN------------------------
 
-H0Y7B8_HUMAN	sabio count:	0	There is no sabio for H0Y7B8_HUMAN
-GOGA2_HUMAN	sabio count:	0	There is no sabio for GOGA2_HUMAN
-H0Y7B8_HUMAN & GOGA2_HUMAN	common sabio count:	0
-H0Y7B8_HUMAN & GOGA2_HUMAN	common sabio count:	There is no common sabio for H0Y7B8_HUMAN between GOGA2_HUMAN
+E9PCY9_HUMAN	sabio count:	0	There is no sabio for E9PCY9_HUMAN
+J3KP33_HUMAN	sabio count:	0	There is no sabio for J3KP33_HUMAN
+E9PCY9_HUMAN & J3KP33_HUMAN	common sabio count:	0
+E9PCY9_HUMAN & J3KP33_HUMAN	common sabio count:	There is no common sabio for E9PCY9_HUMAN between J3KP33_HUMAN
 
 
------------------A0A087WYC0_HUMAN & SCN5A_HUMAN------------------------
+-----------------E9PCY9_HUMAN & I3L0W9_HUMAN------------------------
 
-A0A087WYC0_HUMAN	sabio count:	0	There is no sabio for A0A087WYC0_HUMAN
-SCN5A_HUMAN	sabio count:	0	There is no sabio for SCN5A_HUMAN
-A0A087WYC0_HUMAN & SCN5A_HUMAN	common sabio count:	0
-A0A087WYC0_HUMAN & SCN5A_HUMAN	common sabio count:	There is no common sabio for A0A087WYC0_HUMAN between SCN5A_HUMAN
+E9PCY9_HUMAN	sabio count:	0	There is no sabio for E9PCY9_HUMAN
+I3L0W9_HUMAN	sabio count:	0	There is no sabio for I3L0W9_HUMAN
+E9PCY9_HUMAN & I3L0W9_HUMAN	common sabio count:	0
+E9PCY9_HUMAN & I3L0W9_HUMAN	common sabio count:	There is no common sabio for E9PCY9_HUMAN between I3L0W9_HUMAN
 
 
------------------A0A087WYC0_HUMAN & B7ZC06_HUMAN------------------------
+-----------------E9PCY9_HUMAN & E7EMR6_HUMAN------------------------
 
-A0A087WYC0_HUMAN	sabio count:	0	There is no sabio for A0A087WYC0_HUMAN
-B7ZC06_HUMAN	sabio count:	0	There is no sabio for B7ZC06_HUMAN
-A0A087WYC0_HUMAN & B7ZC06_HUMAN	common sabio count:	0
-A0A087WYC0_HUMAN & B7ZC06_HUMAN	common sabio count:	There is no common sabio for A0A087WYC0_HUMAN between B7ZC06_HUMAN
+E9PCY9_HUMAN	sabio count:	0	There is no sabio for E9PCY9_HUMAN
+E7EMR6_HUMAN	sabio count:	0	There is no sabio for E7EMR6_HUMAN
+E9PCY9_HUMAN & E7EMR6_HUMAN	common sabio count:	0
+E9PCY9_HUMAN & E7EMR6_HUMAN	common sabio count:	There is no common sabio for E9PCY9_HUMAN between E7EMR6_HUMAN
 
 
------------------A0A087WYC0_HUMAN & GOGA2_HUMAN------------------------
+-----------------E9PCY9_HUMAN & E7EQX7_HUMAN------------------------
 
-A0A087WYC0_HUMAN	sabio count:	0	There is no sabio for A0A087WYC0_HUMAN
-GOGA2_HUMAN	sabio count:	0	There is no sabio for GOGA2_HUMAN
-A0A087WYC0_HUMAN & GOGA2_HUMAN	common sabio count:	0
-A0A087WYC0_HUMAN & GOGA2_HUMAN	common sabio count:	There is no common sabio for A0A087WYC0_HUMAN between GOGA2_HUMAN
+E9PCY9_HUMAN	sabio count:	0	There is no sabio for E9PCY9_HUMAN
+E7EQX7_HUMAN	sabio count:	0	There is no sabio for E7EQX7_HUMAN
+E9PCY9_HUMAN & E7EQX7_HUMAN	common sabio count:	0
+E9PCY9_HUMAN & E7EQX7_HUMAN	common sabio count:	There is no common sabio for E9PCY9_HUMAN between E7EQX7_HUMAN
 
 
------------------SCN5A_HUMAN & B7ZC06_HUMAN------------------------
+-----------------P53_HUMAN & A0A087WXZ1_HUMAN------------------------
 
-SCN5A_HUMAN	sabio count:	0	There is no sabio for SCN5A_HUMAN
-B7ZC06_HUMAN	sabio count:	0	There is no sabio for B7ZC06_HUMAN
-SCN5A_HUMAN & B7ZC06_HUMAN	common sabio count:	0
-SCN5A_HUMAN & B7ZC06_HUMAN	common sabio count:	There is no common sabio for SCN5A_HUMAN between B7ZC06_HUMAN
+P53_HUMAN	sabio count:	0	There is no sabio for P53_HUMAN
+A0A087WXZ1_HUMAN	sabio count:	0	There is no sabio for A0A087WXZ1_HUMAN
+P53_HUMAN & A0A087WXZ1_HUMAN	common sabio count:	0
+P53_HUMAN & A0A087WXZ1_HUMAN	common sabio count:	There is no common sabio for P53_HUMAN between A0A087WXZ1_HUMAN
 
 
------------------SCN5A_HUMAN & GOGA2_HUMAN------------------------
+-----------------P53_HUMAN & A0A087WT22_HUMAN------------------------
 
-SCN5A_HUMAN	sabio count:	0	There is no sabio for SCN5A_HUMAN
-GOGA2_HUMAN	sabio count:	0	There is no sabio for GOGA2_HUMAN
-SCN5A_HUMAN & GOGA2_HUMAN	common sabio count:	0
-SCN5A_HUMAN & GOGA2_HUMAN	common sabio count:	There is no common sabio for SCN5A_HUMAN between GOGA2_HUMAN
+P53_HUMAN	sabio count:	0	There is no sabio for P53_HUMAN
+A0A087WT22_HUMAN	sabio count:	0	There is no sabio for A0A087WT22_HUMAN
+P53_HUMAN & A0A087WT22_HUMAN	common sabio count:	0
+P53_HUMAN & A0A087WT22_HUMAN	common sabio count:	There is no common sabio for P53_HUMAN between A0A087WT22_HUMAN
 
 
------------------B7ZC06_HUMAN & GOGA2_HUMAN------------------------
+-----------------P53_HUMAN & E7ESS1_HUMAN------------------------
 
-B7ZC06_HUMAN	sabio count:	0	There is no sabio for B7ZC06_HUMAN
-GOGA2_HUMAN	sabio count:	0	There is no sabio for GOGA2_HUMAN
-B7ZC06_HUMAN & GOGA2_HUMAN	common sabio count:	0
-B7ZC06_HUMAN & GOGA2_HUMAN	common sabio count:	There is no common sabio for B7ZC06_HUMAN between GOGA2_HUMAN
+P53_HUMAN	sabio count:	0	There is no sabio for P53_HUMAN
+E7ESS1_HUMAN	sabio count:	0	There is no sabio for E7ESS1_HUMAN
+P53_HUMAN & E7ESS1_HUMAN	common sabio count:	0
+P53_HUMAN & E7ESS1_HUMAN	common sabio count:	There is no common sabio for P53_HUMAN between E7ESS1_HUMAN
+
+
+-----------------P53_HUMAN & A0A0U1RQC9_HUMAN------------------------
+
+P53_HUMAN	sabio count:	0	There is no sabio for P53_HUMAN
+A0A0U1RQC9_HUMAN	sabio count:	0	There is no sabio for A0A0U1RQC9_HUMAN
+P53_HUMAN & A0A0U1RQC9_HUMAN	common sabio count:	0
+P53_HUMAN & A0A0U1RQC9_HUMAN	common sabio count:	There is no common sabio for P53_HUMAN between A0A0U1RQC9_HUMAN
+
+
+-----------------P53_HUMAN & E9PFT5_HUMAN------------------------
+
+P53_HUMAN	sabio count:	0	There is no sabio for P53_HUMAN
+E9PFT5_HUMAN	sabio count:	0	There is no sabio for E9PFT5_HUMAN
+P53_HUMAN & E9PFT5_HUMAN	common sabio count:	0
+P53_HUMAN & E9PFT5_HUMAN	common sabio count:	There is no common sabio for P53_HUMAN between E9PFT5_HUMAN
+
+
+-----------------P53_HUMAN & S4R334_HUMAN------------------------
+
+P53_HUMAN	sabio count:	0	There is no sabio for P53_HUMAN
+S4R334_HUMAN	sabio count:	0	There is no sabio for S4R334_HUMAN
+P53_HUMAN & S4R334_HUMAN	common sabio count:	0
+P53_HUMAN & S4R334_HUMAN	common sabio count:	There is no common sabio for P53_HUMAN between S4R334_HUMAN
+
+
+-----------------P53_HUMAN & A0A087X1Q1_HUMAN------------------------
+
+P53_HUMAN	sabio count:	0	There is no sabio for P53_HUMAN
+A0A087X1Q1_HUMAN	sabio count:	0	There is no sabio for A0A087X1Q1_HUMAN
+P53_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	0
+P53_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	There is no common sabio for P53_HUMAN between A0A087X1Q1_HUMAN
+
+
+-----------------P53_HUMAN & J3KP33_HUMAN------------------------
+
+P53_HUMAN	sabio count:	0	There is no sabio for P53_HUMAN
+J3KP33_HUMAN	sabio count:	0	There is no sabio for J3KP33_HUMAN
+P53_HUMAN & J3KP33_HUMAN	common sabio count:	0
+P53_HUMAN & J3KP33_HUMAN	common sabio count:	There is no common sabio for P53_HUMAN between J3KP33_HUMAN
+
+
+-----------------P53_HUMAN & I3L0W9_HUMAN------------------------
+
+P53_HUMAN	sabio count:	0	There is no sabio for P53_HUMAN
+I3L0W9_HUMAN	sabio count:	0	There is no sabio for I3L0W9_HUMAN
+P53_HUMAN & I3L0W9_HUMAN	common sabio count:	0
+P53_HUMAN & I3L0W9_HUMAN	common sabio count:	There is no common sabio for P53_HUMAN between I3L0W9_HUMAN
+
+
+-----------------P53_HUMAN & E7EMR6_HUMAN------------------------
+
+P53_HUMAN	sabio count:	0	There is no sabio for P53_HUMAN
+E7EMR6_HUMAN	sabio count:	0	There is no sabio for E7EMR6_HUMAN
+P53_HUMAN & E7EMR6_HUMAN	common sabio count:	0
+P53_HUMAN & E7EMR6_HUMAN	common sabio count:	There is no common sabio for P53_HUMAN between E7EMR6_HUMAN
+
+
+-----------------P53_HUMAN & E7EQX7_HUMAN------------------------
+
+P53_HUMAN	sabio count:	0	There is no sabio for P53_HUMAN
+E7EQX7_HUMAN	sabio count:	0	There is no sabio for E7EQX7_HUMAN
+P53_HUMAN & E7EQX7_HUMAN	common sabio count:	0
+P53_HUMAN & E7EQX7_HUMAN	common sabio count:	There is no common sabio for P53_HUMAN between E7EQX7_HUMAN
+
+
+-----------------A0A087WXZ1_HUMAN & A0A087WT22_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	sabio count:	0	There is no sabio for A0A087WXZ1_HUMAN
+A0A087WT22_HUMAN	sabio count:	0	There is no sabio for A0A087WT22_HUMAN
+A0A087WXZ1_HUMAN & A0A087WT22_HUMAN	common sabio count:	0
+A0A087WXZ1_HUMAN & A0A087WT22_HUMAN	common sabio count:	There is no common sabio for A0A087WXZ1_HUMAN between A0A087WT22_HUMAN
+
+
+-----------------A0A087WXZ1_HUMAN & E7ESS1_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	sabio count:	0	There is no sabio for A0A087WXZ1_HUMAN
+E7ESS1_HUMAN	sabio count:	0	There is no sabio for E7ESS1_HUMAN
+A0A087WXZ1_HUMAN & E7ESS1_HUMAN	common sabio count:	0
+A0A087WXZ1_HUMAN & E7ESS1_HUMAN	common sabio count:	There is no common sabio for A0A087WXZ1_HUMAN between E7ESS1_HUMAN
+
+
+-----------------A0A087WXZ1_HUMAN & A0A0U1RQC9_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	sabio count:	0	There is no sabio for A0A087WXZ1_HUMAN
+A0A0U1RQC9_HUMAN	sabio count:	0	There is no sabio for A0A0U1RQC9_HUMAN
+A0A087WXZ1_HUMAN & A0A0U1RQC9_HUMAN	common sabio count:	0
+A0A087WXZ1_HUMAN & A0A0U1RQC9_HUMAN	common sabio count:	There is no common sabio for A0A087WXZ1_HUMAN between A0A0U1RQC9_HUMAN
+
+
+-----------------A0A087WXZ1_HUMAN & E9PFT5_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	sabio count:	0	There is no sabio for A0A087WXZ1_HUMAN
+E9PFT5_HUMAN	sabio count:	0	There is no sabio for E9PFT5_HUMAN
+A0A087WXZ1_HUMAN & E9PFT5_HUMAN	common sabio count:	0
+A0A087WXZ1_HUMAN & E9PFT5_HUMAN	common sabio count:	There is no common sabio for A0A087WXZ1_HUMAN between E9PFT5_HUMAN
+
+
+-----------------A0A087WXZ1_HUMAN & S4R334_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	sabio count:	0	There is no sabio for A0A087WXZ1_HUMAN
+S4R334_HUMAN	sabio count:	0	There is no sabio for S4R334_HUMAN
+A0A087WXZ1_HUMAN & S4R334_HUMAN	common sabio count:	0
+A0A087WXZ1_HUMAN & S4R334_HUMAN	common sabio count:	There is no common sabio for A0A087WXZ1_HUMAN between S4R334_HUMAN
+
+
+-----------------A0A087WXZ1_HUMAN & A0A087X1Q1_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	sabio count:	0	There is no sabio for A0A087WXZ1_HUMAN
+A0A087X1Q1_HUMAN	sabio count:	0	There is no sabio for A0A087X1Q1_HUMAN
+A0A087WXZ1_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	0
+A0A087WXZ1_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	There is no common sabio for A0A087WXZ1_HUMAN between A0A087X1Q1_HUMAN
+
+
+-----------------A0A087WXZ1_HUMAN & J3KP33_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	sabio count:	0	There is no sabio for A0A087WXZ1_HUMAN
+J3KP33_HUMAN	sabio count:	0	There is no sabio for J3KP33_HUMAN
+A0A087WXZ1_HUMAN & J3KP33_HUMAN	common sabio count:	0
+A0A087WXZ1_HUMAN & J3KP33_HUMAN	common sabio count:	There is no common sabio for A0A087WXZ1_HUMAN between J3KP33_HUMAN
+
+
+-----------------A0A087WXZ1_HUMAN & I3L0W9_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	sabio count:	0	There is no sabio for A0A087WXZ1_HUMAN
+I3L0W9_HUMAN	sabio count:	0	There is no sabio for I3L0W9_HUMAN
+A0A087WXZ1_HUMAN & I3L0W9_HUMAN	common sabio count:	0
+A0A087WXZ1_HUMAN & I3L0W9_HUMAN	common sabio count:	There is no common sabio for A0A087WXZ1_HUMAN between I3L0W9_HUMAN
+
+
+-----------------A0A087WXZ1_HUMAN & E7EMR6_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	sabio count:	0	There is no sabio for A0A087WXZ1_HUMAN
+E7EMR6_HUMAN	sabio count:	0	There is no sabio for E7EMR6_HUMAN
+A0A087WXZ1_HUMAN & E7EMR6_HUMAN	common sabio count:	0
+A0A087WXZ1_HUMAN & E7EMR6_HUMAN	common sabio count:	There is no common sabio for A0A087WXZ1_HUMAN between E7EMR6_HUMAN
+
+
+-----------------A0A087WXZ1_HUMAN & E7EQX7_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	sabio count:	0	There is no sabio for A0A087WXZ1_HUMAN
+E7EQX7_HUMAN	sabio count:	0	There is no sabio for E7EQX7_HUMAN
+A0A087WXZ1_HUMAN & E7EQX7_HUMAN	common sabio count:	0
+A0A087WXZ1_HUMAN & E7EQX7_HUMAN	common sabio count:	There is no common sabio for A0A087WXZ1_HUMAN between E7EQX7_HUMAN
+
+
+-----------------A0A087WT22_HUMAN & E7ESS1_HUMAN------------------------
+
+A0A087WT22_HUMAN	sabio count:	0	There is no sabio for A0A087WT22_HUMAN
+E7ESS1_HUMAN	sabio count:	0	There is no sabio for E7ESS1_HUMAN
+A0A087WT22_HUMAN & E7ESS1_HUMAN	common sabio count:	0
+A0A087WT22_HUMAN & E7ESS1_HUMAN	common sabio count:	There is no common sabio for A0A087WT22_HUMAN between E7ESS1_HUMAN
+
+
+-----------------A0A087WT22_HUMAN & A0A0U1RQC9_HUMAN------------------------
+
+A0A087WT22_HUMAN	sabio count:	0	There is no sabio for A0A087WT22_HUMAN
+A0A0U1RQC9_HUMAN	sabio count:	0	There is no sabio for A0A0U1RQC9_HUMAN
+A0A087WT22_HUMAN & A0A0U1RQC9_HUMAN	common sabio count:	0
+A0A087WT22_HUMAN & A0A0U1RQC9_HUMAN	common sabio count:	There is no common sabio for A0A087WT22_HUMAN between A0A0U1RQC9_HUMAN
+
+
+-----------------A0A087WT22_HUMAN & E9PFT5_HUMAN------------------------
+
+A0A087WT22_HUMAN	sabio count:	0	There is no sabio for A0A087WT22_HUMAN
+E9PFT5_HUMAN	sabio count:	0	There is no sabio for E9PFT5_HUMAN
+A0A087WT22_HUMAN & E9PFT5_HUMAN	common sabio count:	0
+A0A087WT22_HUMAN & E9PFT5_HUMAN	common sabio count:	There is no common sabio for A0A087WT22_HUMAN between E9PFT5_HUMAN
+
+
+-----------------A0A087WT22_HUMAN & S4R334_HUMAN------------------------
+
+A0A087WT22_HUMAN	sabio count:	0	There is no sabio for A0A087WT22_HUMAN
+S4R334_HUMAN	sabio count:	0	There is no sabio for S4R334_HUMAN
+A0A087WT22_HUMAN & S4R334_HUMAN	common sabio count:	0
+A0A087WT22_HUMAN & S4R334_HUMAN	common sabio count:	There is no common sabio for A0A087WT22_HUMAN between S4R334_HUMAN
+
+
+-----------------A0A087WT22_HUMAN & A0A087X1Q1_HUMAN------------------------
+
+A0A087WT22_HUMAN	sabio count:	0	There is no sabio for A0A087WT22_HUMAN
+A0A087X1Q1_HUMAN	sabio count:	0	There is no sabio for A0A087X1Q1_HUMAN
+A0A087WT22_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	0
+A0A087WT22_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	There is no common sabio for A0A087WT22_HUMAN between A0A087X1Q1_HUMAN
+
+
+-----------------A0A087WT22_HUMAN & J3KP33_HUMAN------------------------
+
+A0A087WT22_HUMAN	sabio count:	0	There is no sabio for A0A087WT22_HUMAN
+J3KP33_HUMAN	sabio count:	0	There is no sabio for J3KP33_HUMAN
+A0A087WT22_HUMAN & J3KP33_HUMAN	common sabio count:	0
+A0A087WT22_HUMAN & J3KP33_HUMAN	common sabio count:	There is no common sabio for A0A087WT22_HUMAN between J3KP33_HUMAN
+
+
+-----------------A0A087WT22_HUMAN & I3L0W9_HUMAN------------------------
+
+A0A087WT22_HUMAN	sabio count:	0	There is no sabio for A0A087WT22_HUMAN
+I3L0W9_HUMAN	sabio count:	0	There is no sabio for I3L0W9_HUMAN
+A0A087WT22_HUMAN & I3L0W9_HUMAN	common sabio count:	0
+A0A087WT22_HUMAN & I3L0W9_HUMAN	common sabio count:	There is no common sabio for A0A087WT22_HUMAN between I3L0W9_HUMAN
+
+
+-----------------A0A087WT22_HUMAN & E7EMR6_HUMAN------------------------
+
+A0A087WT22_HUMAN	sabio count:	0	There is no sabio for A0A087WT22_HUMAN
+E7EMR6_HUMAN	sabio count:	0	There is no sabio for E7EMR6_HUMAN
+A0A087WT22_HUMAN & E7EMR6_HUMAN	common sabio count:	0
+A0A087WT22_HUMAN & E7EMR6_HUMAN	common sabio count:	There is no common sabio for A0A087WT22_HUMAN between E7EMR6_HUMAN
+
+
+-----------------A0A087WT22_HUMAN & E7EQX7_HUMAN------------------------
+
+A0A087WT22_HUMAN	sabio count:	0	There is no sabio for A0A087WT22_HUMAN
+E7EQX7_HUMAN	sabio count:	0	There is no sabio for E7EQX7_HUMAN
+A0A087WT22_HUMAN & E7EQX7_HUMAN	common sabio count:	0
+A0A087WT22_HUMAN & E7EQX7_HUMAN	common sabio count:	There is no common sabio for A0A087WT22_HUMAN between E7EQX7_HUMAN
+
+
+-----------------E7ESS1_HUMAN & A0A0U1RQC9_HUMAN------------------------
+
+E7ESS1_HUMAN	sabio count:	0	There is no sabio for E7ESS1_HUMAN
+A0A0U1RQC9_HUMAN	sabio count:	0	There is no sabio for A0A0U1RQC9_HUMAN
+E7ESS1_HUMAN & A0A0U1RQC9_HUMAN	common sabio count:	0
+E7ESS1_HUMAN & A0A0U1RQC9_HUMAN	common sabio count:	There is no common sabio for E7ESS1_HUMAN between A0A0U1RQC9_HUMAN
+
+
+-----------------E7ESS1_HUMAN & E9PFT5_HUMAN------------------------
+
+E7ESS1_HUMAN	sabio count:	0	There is no sabio for E7ESS1_HUMAN
+E9PFT5_HUMAN	sabio count:	0	There is no sabio for E9PFT5_HUMAN
+E7ESS1_HUMAN & E9PFT5_HUMAN	common sabio count:	0
+E7ESS1_HUMAN & E9PFT5_HUMAN	common sabio count:	There is no common sabio for E7ESS1_HUMAN between E9PFT5_HUMAN
+
+
+-----------------E7ESS1_HUMAN & S4R334_HUMAN------------------------
+
+E7ESS1_HUMAN	sabio count:	0	There is no sabio for E7ESS1_HUMAN
+S4R334_HUMAN	sabio count:	0	There is no sabio for S4R334_HUMAN
+E7ESS1_HUMAN & S4R334_HUMAN	common sabio count:	0
+E7ESS1_HUMAN & S4R334_HUMAN	common sabio count:	There is no common sabio for E7ESS1_HUMAN between S4R334_HUMAN
+
+
+-----------------E7ESS1_HUMAN & A0A087X1Q1_HUMAN------------------------
+
+E7ESS1_HUMAN	sabio count:	0	There is no sabio for E7ESS1_HUMAN
+A0A087X1Q1_HUMAN	sabio count:	0	There is no sabio for A0A087X1Q1_HUMAN
+E7ESS1_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	0
+E7ESS1_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	There is no common sabio for E7ESS1_HUMAN between A0A087X1Q1_HUMAN
+
+
+-----------------E7ESS1_HUMAN & J3KP33_HUMAN------------------------
+
+E7ESS1_HUMAN	sabio count:	0	There is no sabio for E7ESS1_HUMAN
+J3KP33_HUMAN	sabio count:	0	There is no sabio for J3KP33_HUMAN
+E7ESS1_HUMAN & J3KP33_HUMAN	common sabio count:	0
+E7ESS1_HUMAN & J3KP33_HUMAN	common sabio count:	There is no common sabio for E7ESS1_HUMAN between J3KP33_HUMAN
+
+
+-----------------E7ESS1_HUMAN & I3L0W9_HUMAN------------------------
+
+E7ESS1_HUMAN	sabio count:	0	There is no sabio for E7ESS1_HUMAN
+I3L0W9_HUMAN	sabio count:	0	There is no sabio for I3L0W9_HUMAN
+E7ESS1_HUMAN & I3L0W9_HUMAN	common sabio count:	0
+E7ESS1_HUMAN & I3L0W9_HUMAN	common sabio count:	There is no common sabio for E7ESS1_HUMAN between I3L0W9_HUMAN
+
+
+-----------------E7ESS1_HUMAN & E7EMR6_HUMAN------------------------
+
+E7ESS1_HUMAN	sabio count:	0	There is no sabio for E7ESS1_HUMAN
+E7EMR6_HUMAN	sabio count:	0	There is no sabio for E7EMR6_HUMAN
+E7ESS1_HUMAN & E7EMR6_HUMAN	common sabio count:	0
+E7ESS1_HUMAN & E7EMR6_HUMAN	common sabio count:	There is no common sabio for E7ESS1_HUMAN between E7EMR6_HUMAN
+
+
+-----------------E7ESS1_HUMAN & E7EQX7_HUMAN------------------------
+
+E7ESS1_HUMAN	sabio count:	0	There is no sabio for E7ESS1_HUMAN
+E7EQX7_HUMAN	sabio count:	0	There is no sabio for E7EQX7_HUMAN
+E7ESS1_HUMAN & E7EQX7_HUMAN	common sabio count:	0
+E7ESS1_HUMAN & E7EQX7_HUMAN	common sabio count:	There is no common sabio for E7ESS1_HUMAN between E7EQX7_HUMAN
+
+
+-----------------A0A0U1RQC9_HUMAN & E9PFT5_HUMAN------------------------
+
+A0A0U1RQC9_HUMAN	sabio count:	0	There is no sabio for A0A0U1RQC9_HUMAN
+E9PFT5_HUMAN	sabio count:	0	There is no sabio for E9PFT5_HUMAN
+A0A0U1RQC9_HUMAN & E9PFT5_HUMAN	common sabio count:	0
+A0A0U1RQC9_HUMAN & E9PFT5_HUMAN	common sabio count:	There is no common sabio for A0A0U1RQC9_HUMAN between E9PFT5_HUMAN
+
+
+-----------------A0A0U1RQC9_HUMAN & S4R334_HUMAN------------------------
+
+A0A0U1RQC9_HUMAN	sabio count:	0	There is no sabio for A0A0U1RQC9_HUMAN
+S4R334_HUMAN	sabio count:	0	There is no sabio for S4R334_HUMAN
+A0A0U1RQC9_HUMAN & S4R334_HUMAN	common sabio count:	0
+A0A0U1RQC9_HUMAN & S4R334_HUMAN	common sabio count:	There is no common sabio for A0A0U1RQC9_HUMAN between S4R334_HUMAN
+
+
+-----------------A0A0U1RQC9_HUMAN & A0A087X1Q1_HUMAN------------------------
+
+A0A0U1RQC9_HUMAN	sabio count:	0	There is no sabio for A0A0U1RQC9_HUMAN
+A0A087X1Q1_HUMAN	sabio count:	0	There is no sabio for A0A087X1Q1_HUMAN
+A0A0U1RQC9_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	0
+A0A0U1RQC9_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	There is no common sabio for A0A0U1RQC9_HUMAN between A0A087X1Q1_HUMAN
+
+
+-----------------A0A0U1RQC9_HUMAN & J3KP33_HUMAN------------------------
+
+A0A0U1RQC9_HUMAN	sabio count:	0	There is no sabio for A0A0U1RQC9_HUMAN
+J3KP33_HUMAN	sabio count:	0	There is no sabio for J3KP33_HUMAN
+A0A0U1RQC9_HUMAN & J3KP33_HUMAN	common sabio count:	0
+A0A0U1RQC9_HUMAN & J3KP33_HUMAN	common sabio count:	There is no common sabio for A0A0U1RQC9_HUMAN between J3KP33_HUMAN
+
+
+-----------------A0A0U1RQC9_HUMAN & I3L0W9_HUMAN------------------------
+
+A0A0U1RQC9_HUMAN	sabio count:	0	There is no sabio for A0A0U1RQC9_HUMAN
+I3L0W9_HUMAN	sabio count:	0	There is no sabio for I3L0W9_HUMAN
+A0A0U1RQC9_HUMAN & I3L0W9_HUMAN	common sabio count:	0
+A0A0U1RQC9_HUMAN & I3L0W9_HUMAN	common sabio count:	There is no common sabio for A0A0U1RQC9_HUMAN between I3L0W9_HUMAN
+
+
+-----------------A0A0U1RQC9_HUMAN & E7EMR6_HUMAN------------------------
+
+A0A0U1RQC9_HUMAN	sabio count:	0	There is no sabio for A0A0U1RQC9_HUMAN
+E7EMR6_HUMAN	sabio count:	0	There is no sabio for E7EMR6_HUMAN
+A0A0U1RQC9_HUMAN & E7EMR6_HUMAN	common sabio count:	0
+A0A0U1RQC9_HUMAN & E7EMR6_HUMAN	common sabio count:	There is no common sabio for A0A0U1RQC9_HUMAN between E7EMR6_HUMAN
+
+
+-----------------A0A0U1RQC9_HUMAN & E7EQX7_HUMAN------------------------
+
+A0A0U1RQC9_HUMAN	sabio count:	0	There is no sabio for A0A0U1RQC9_HUMAN
+E7EQX7_HUMAN	sabio count:	0	There is no sabio for E7EQX7_HUMAN
+A0A0U1RQC9_HUMAN & E7EQX7_HUMAN	common sabio count:	0
+A0A0U1RQC9_HUMAN & E7EQX7_HUMAN	common sabio count:	There is no common sabio for A0A0U1RQC9_HUMAN between E7EQX7_HUMAN
+
+
+-----------------E9PFT5_HUMAN & S4R334_HUMAN------------------------
+
+E9PFT5_HUMAN	sabio count:	0	There is no sabio for E9PFT5_HUMAN
+S4R334_HUMAN	sabio count:	0	There is no sabio for S4R334_HUMAN
+E9PFT5_HUMAN & S4R334_HUMAN	common sabio count:	0
+E9PFT5_HUMAN & S4R334_HUMAN	common sabio count:	There is no common sabio for E9PFT5_HUMAN between S4R334_HUMAN
+
+
+-----------------E9PFT5_HUMAN & A0A087X1Q1_HUMAN------------------------
+
+E9PFT5_HUMAN	sabio count:	0	There is no sabio for E9PFT5_HUMAN
+A0A087X1Q1_HUMAN	sabio count:	0	There is no sabio for A0A087X1Q1_HUMAN
+E9PFT5_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	0
+E9PFT5_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	There is no common sabio for E9PFT5_HUMAN between A0A087X1Q1_HUMAN
+
+
+-----------------E9PFT5_HUMAN & J3KP33_HUMAN------------------------
+
+E9PFT5_HUMAN	sabio count:	0	There is no sabio for E9PFT5_HUMAN
+J3KP33_HUMAN	sabio count:	0	There is no sabio for J3KP33_HUMAN
+E9PFT5_HUMAN & J3KP33_HUMAN	common sabio count:	0
+E9PFT5_HUMAN & J3KP33_HUMAN	common sabio count:	There is no common sabio for E9PFT5_HUMAN between J3KP33_HUMAN
+
+
+-----------------E9PFT5_HUMAN & I3L0W9_HUMAN------------------------
+
+E9PFT5_HUMAN	sabio count:	0	There is no sabio for E9PFT5_HUMAN
+I3L0W9_HUMAN	sabio count:	0	There is no sabio for I3L0W9_HUMAN
+E9PFT5_HUMAN & I3L0W9_HUMAN	common sabio count:	0
+E9PFT5_HUMAN & I3L0W9_HUMAN	common sabio count:	There is no common sabio for E9PFT5_HUMAN between I3L0W9_HUMAN
+
+
+-----------------E9PFT5_HUMAN & E7EMR6_HUMAN------------------------
+
+E9PFT5_HUMAN	sabio count:	0	There is no sabio for E9PFT5_HUMAN
+E7EMR6_HUMAN	sabio count:	0	There is no sabio for E7EMR6_HUMAN
+E9PFT5_HUMAN & E7EMR6_HUMAN	common sabio count:	0
+E9PFT5_HUMAN & E7EMR6_HUMAN	common sabio count:	There is no common sabio for E9PFT5_HUMAN between E7EMR6_HUMAN
+
+
+-----------------E9PFT5_HUMAN & E7EQX7_HUMAN------------------------
+
+E9PFT5_HUMAN	sabio count:	0	There is no sabio for E9PFT5_HUMAN
+E7EQX7_HUMAN	sabio count:	0	There is no sabio for E7EQX7_HUMAN
+E9PFT5_HUMAN & E7EQX7_HUMAN	common sabio count:	0
+E9PFT5_HUMAN & E7EQX7_HUMAN	common sabio count:	There is no common sabio for E9PFT5_HUMAN between E7EQX7_HUMAN
+
+
+-----------------S4R334_HUMAN & A0A087X1Q1_HUMAN------------------------
+
+S4R334_HUMAN	sabio count:	0	There is no sabio for S4R334_HUMAN
+A0A087X1Q1_HUMAN	sabio count:	0	There is no sabio for A0A087X1Q1_HUMAN
+S4R334_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	0
+S4R334_HUMAN & A0A087X1Q1_HUMAN	common sabio count:	There is no common sabio for S4R334_HUMAN between A0A087X1Q1_HUMAN
+
+
+-----------------S4R334_HUMAN & J3KP33_HUMAN------------------------
+
+S4R334_HUMAN	sabio count:	0	There is no sabio for S4R334_HUMAN
+J3KP33_HUMAN	sabio count:	0	There is no sabio for J3KP33_HUMAN
+S4R334_HUMAN & J3KP33_HUMAN	common sabio count:	0
+S4R334_HUMAN & J3KP33_HUMAN	common sabio count:	There is no common sabio for S4R334_HUMAN between J3KP33_HUMAN
+
+
+-----------------S4R334_HUMAN & I3L0W9_HUMAN------------------------
+
+S4R334_HUMAN	sabio count:	0	There is no sabio for S4R334_HUMAN
+I3L0W9_HUMAN	sabio count:	0	There is no sabio for I3L0W9_HUMAN
+S4R334_HUMAN & I3L0W9_HUMAN	common sabio count:	0
+S4R334_HUMAN & I3L0W9_HUMAN	common sabio count:	There is no common sabio for S4R334_HUMAN between I3L0W9_HUMAN
+
+
+-----------------S4R334_HUMAN & E7EMR6_HUMAN------------------------
+
+S4R334_HUMAN	sabio count:	0	There is no sabio for S4R334_HUMAN
+E7EMR6_HUMAN	sabio count:	0	There is no sabio for E7EMR6_HUMAN
+S4R334_HUMAN & E7EMR6_HUMAN	common sabio count:	0
+S4R334_HUMAN & E7EMR6_HUMAN	common sabio count:	There is no common sabio for S4R334_HUMAN between E7EMR6_HUMAN
+
+
+-----------------S4R334_HUMAN & E7EQX7_HUMAN------------------------
+
+S4R334_HUMAN	sabio count:	0	There is no sabio for S4R334_HUMAN
+E7EQX7_HUMAN	sabio count:	0	There is no sabio for E7EQX7_HUMAN
+S4R334_HUMAN & E7EQX7_HUMAN	common sabio count:	0
+S4R334_HUMAN & E7EQX7_HUMAN	common sabio count:	There is no common sabio for S4R334_HUMAN between E7EQX7_HUMAN
+
+
+-----------------A0A087X1Q1_HUMAN & J3KP33_HUMAN------------------------
+
+A0A087X1Q1_HUMAN	sabio count:	0	There is no sabio for A0A087X1Q1_HUMAN
+J3KP33_HUMAN	sabio count:	0	There is no sabio for J3KP33_HUMAN
+A0A087X1Q1_HUMAN & J3KP33_HUMAN	common sabio count:	0
+A0A087X1Q1_HUMAN & J3KP33_HUMAN	common sabio count:	There is no common sabio for A0A087X1Q1_HUMAN between J3KP33_HUMAN
+
+
+-----------------A0A087X1Q1_HUMAN & I3L0W9_HUMAN------------------------
+
+A0A087X1Q1_HUMAN	sabio count:	0	There is no sabio for A0A087X1Q1_HUMAN
+I3L0W9_HUMAN	sabio count:	0	There is no sabio for I3L0W9_HUMAN
+A0A087X1Q1_HUMAN & I3L0W9_HUMAN	common sabio count:	0
+A0A087X1Q1_HUMAN & I3L0W9_HUMAN	common sabio count:	There is no common sabio for A0A087X1Q1_HUMAN between I3L0W9_HUMAN
+
+
+-----------------A0A087X1Q1_HUMAN & E7EMR6_HUMAN------------------------
+
+A0A087X1Q1_HUMAN	sabio count:	0	There is no sabio for A0A087X1Q1_HUMAN
+E7EMR6_HUMAN	sabio count:	0	There is no sabio for E7EMR6_HUMAN
+A0A087X1Q1_HUMAN & E7EMR6_HUMAN	common sabio count:	0
+A0A087X1Q1_HUMAN & E7EMR6_HUMAN	common sabio count:	There is no common sabio for A0A087X1Q1_HUMAN between E7EMR6_HUMAN
+
+
+-----------------A0A087X1Q1_HUMAN & E7EQX7_HUMAN------------------------
+
+A0A087X1Q1_HUMAN	sabio count:	0	There is no sabio for A0A087X1Q1_HUMAN
+E7EQX7_HUMAN	sabio count:	0	There is no sabio for E7EQX7_HUMAN
+A0A087X1Q1_HUMAN & E7EQX7_HUMAN	common sabio count:	0
+A0A087X1Q1_HUMAN & E7EQX7_HUMAN	common sabio count:	There is no common sabio for A0A087X1Q1_HUMAN between E7EQX7_HUMAN
+
+
+-----------------J3KP33_HUMAN & I3L0W9_HUMAN------------------------
+
+J3KP33_HUMAN	sabio count:	0	There is no sabio for J3KP33_HUMAN
+I3L0W9_HUMAN	sabio count:	0	There is no sabio for I3L0W9_HUMAN
+J3KP33_HUMAN & I3L0W9_HUMAN	common sabio count:	0
+J3KP33_HUMAN & I3L0W9_HUMAN	common sabio count:	There is no common sabio for J3KP33_HUMAN between I3L0W9_HUMAN
+
+
+-----------------J3KP33_HUMAN & E7EMR6_HUMAN------------------------
+
+J3KP33_HUMAN	sabio count:	0	There is no sabio for J3KP33_HUMAN
+E7EMR6_HUMAN	sabio count:	0	There is no sabio for E7EMR6_HUMAN
+J3KP33_HUMAN & E7EMR6_HUMAN	common sabio count:	0
+J3KP33_HUMAN & E7EMR6_HUMAN	common sabio count:	There is no common sabio for J3KP33_HUMAN between E7EMR6_HUMAN
+
+
+-----------------J3KP33_HUMAN & E7EQX7_HUMAN------------------------
+
+J3KP33_HUMAN	sabio count:	0	There is no sabio for J3KP33_HUMAN
+E7EQX7_HUMAN	sabio count:	0	There is no sabio for E7EQX7_HUMAN
+J3KP33_HUMAN & E7EQX7_HUMAN	common sabio count:	0
+J3KP33_HUMAN & E7EQX7_HUMAN	common sabio count:	There is no common sabio for J3KP33_HUMAN between E7EQX7_HUMAN
+
+
+-----------------I3L0W9_HUMAN & E7EMR6_HUMAN------------------------
+
+I3L0W9_HUMAN	sabio count:	0	There is no sabio for I3L0W9_HUMAN
+E7EMR6_HUMAN	sabio count:	0	There is no sabio for E7EMR6_HUMAN
+I3L0W9_HUMAN & E7EMR6_HUMAN	common sabio count:	0
+I3L0W9_HUMAN & E7EMR6_HUMAN	common sabio count:	There is no common sabio for I3L0W9_HUMAN between E7EMR6_HUMAN
+
+
+-----------------I3L0W9_HUMAN & E7EQX7_HUMAN------------------------
+
+I3L0W9_HUMAN	sabio count:	0	There is no sabio for I3L0W9_HUMAN
+E7EQX7_HUMAN	sabio count:	0	There is no sabio for E7EQX7_HUMAN
+I3L0W9_HUMAN & E7EQX7_HUMAN	common sabio count:	0
+I3L0W9_HUMAN & E7EQX7_HUMAN	common sabio count:	There is no common sabio for I3L0W9_HUMAN between E7EQX7_HUMAN
+
+
+-----------------E7EMR6_HUMAN & E7EQX7_HUMAN------------------------
+
+E7EMR6_HUMAN	sabio count:	0	There is no sabio for E7EMR6_HUMAN
+E7EQX7_HUMAN	sabio count:	0	There is no sabio for E7EQX7_HUMAN
+E7EMR6_HUMAN & E7EQX7_HUMAN	common sabio count:	0
+E7EMR6_HUMAN & E7EQX7_HUMAN	common sabio count:	There is no common sabio for E7EMR6_HUMAN between E7EQX7_HUMAN
 
 

@@ -1,224 +1,728 @@
------------------R4GND7_HUMAN & A0A0C4DGS5_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & E9PCY9_HUMAN------------------------
 
-R4GND7_HUMAN	go_biological count:	0	There is no go_biological for R4GND7_HUMAN
-A0A0C4DGS5_HUMAN	go_biological count:	0	There is no go_biological for A0A0C4DGS5_HUMAN
-R4GND7_HUMAN & A0A0C4DGS5_HUMAN	common go_biological count:	0
-R4GND7_HUMAN & A0A0C4DGS5_HUMAN	common go_biological count:	There is no common go_biological for R4GND7_HUMAN between A0A0C4DGS5_HUMAN
+A0A087WZU8_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+E9PCY9_HUMAN	go_biological count:	1	['GO:0006915']
+A0A087WZU8_HUMAN & E9PCY9_HUMAN	common go_biological count:	1
+A0A087WZU8_HUMAN & E9PCY9_HUMAN	common go_biological count:	{'GO:0006915'}
 
 
------------------R4GND7_HUMAN & Q86V90_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & P53_HUMAN------------------------
 
-R4GND7_HUMAN	go_biological count:	0	There is no go_biological for R4GND7_HUMAN
-Q86V90_HUMAN	go_biological count:	0	There is no go_biological for Q86V90_HUMAN
-R4GND7_HUMAN & Q86V90_HUMAN	common go_biological count:	0
-R4GND7_HUMAN & Q86V90_HUMAN	common go_biological count:	There is no common go_biological for R4GND7_HUMAN between Q86V90_HUMAN
+A0A087WZU8_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+P53_HUMAN	go_biological count:	70	['GO:0006284', 'GO:0007569', 'GO:0007050', 'GO:0030154', 'GO:0008283', 'GO:0034613', 'GO:0006974', 'GO:0035690', 'GO:0042149', 'GO:0071456', 'GO:0071479', 'GO:0034644', 'GO:0031497', 'GO:0048512', 'GO:0008340', 'GO:0030330', 'GO:0006977', 'GO:0006978', 'GO:0000733', 'GO:0043153', 'GO:0006983', 'GO:0097193', 'GO:0072332', 'GO:0042771', 'GO:0031571', 'GO:0007275', 'GO:0043066', 'GO:0030308', 'GO:0008285', 'GO:0048147', 'GO:0051097', 'GO:0051974', 'GO:0000122', 'GO:0045892', 'GO:0006289', 'GO:0097252', 'GO:0090403', 'GO:0043065', 'GO:0071158', 'GO:1900119', 'GO:0010628', 'GO:0031065', 'GO:2001244', 'GO:0043525', 'GO:0050731', 'GO:0046827', 'GO:1900740', 'GO:0032461', 'GO:2000379', 'GO:0090200', 'GO:0070245', 'GO:0045944', 'GO:1990440', 'GO:0045893', 'GO:0043161', 'GO:0006461', 'GO:0008104', 'GO:0016925', 'GO:0051262', 'GO:0007265', 'GO:0042981', 'GO:1902749', 'GO:0046902', 'GO:1901796', 'GO:0006355', 'GO:0090399', 'GO:0046677', 'GO:0010332', 'GO:0010165', 'GO:0016032']
+A0A087WZU8_HUMAN & P53_HUMAN	common go_biological count:	1
+A0A087WZU8_HUMAN & P53_HUMAN	common go_biological count:	{'GO:0051262'}
 
 
------------------R4GND7_HUMAN & H0Y7B8_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & A0A087WXZ1_HUMAN------------------------
 
-R4GND7_HUMAN	go_biological count:	0	There is no go_biological for R4GND7_HUMAN
-H0Y7B8_HUMAN	go_biological count:	0	There is no go_biological for H0Y7B8_HUMAN
-R4GND7_HUMAN & H0Y7B8_HUMAN	common go_biological count:	0
-R4GND7_HUMAN & H0Y7B8_HUMAN	common go_biological count:	There is no common go_biological for R4GND7_HUMAN between H0Y7B8_HUMAN
+A0A087WZU8_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+A0A087WXZ1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WZU8_HUMAN & A0A087WXZ1_HUMAN	common go_biological count:	3
+A0A087WZU8_HUMAN & A0A087WXZ1_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
 
 
------------------R4GND7_HUMAN & A0A087WYC0_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & A0A087WT22_HUMAN------------------------
 
-R4GND7_HUMAN	go_biological count:	0	There is no go_biological for R4GND7_HUMAN
-A0A087WYC0_HUMAN	go_biological count:	0	There is no go_biological for A0A087WYC0_HUMAN
-R4GND7_HUMAN & A0A087WYC0_HUMAN	common go_biological count:	0
-R4GND7_HUMAN & A0A087WYC0_HUMAN	common go_biological count:	There is no common go_biological for R4GND7_HUMAN between A0A087WYC0_HUMAN
+A0A087WZU8_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+A0A087WT22_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WZU8_HUMAN & A0A087WT22_HUMAN	common go_biological count:	3
+A0A087WZU8_HUMAN & A0A087WT22_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
 
 
------------------R4GND7_HUMAN & SCN5A_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & E7ESS1_HUMAN------------------------
 
-R4GND7_HUMAN	go_biological count:	0	There is no go_biological for R4GND7_HUMAN
-SCN5A_HUMAN	go_biological count:	36	['GO:0086016', 'GO:0086067', 'GO:0003360', 'GO:0086043', 'GO:0061337', 'GO:0086002', 'GO:0060048', 'GO:0003231', 'GO:0071277', 'GO:0021549', 'GO:0051899', 'GO:0086010', 'GO:0086045', 'GO:0086048', 'GO:0086012', 'GO:0086047', 'GO:0086046', 'GO:0019228', 'GO:0042475', 'GO:0045760', 'GO:0050679', 'GO:0010765', 'GO:0060371', 'GO:0060372', 'GO:0086004', 'GO:0002027', 'GO:0086091', 'GO:1902305', 'GO:0060373', 'GO:0060307', 'GO:0014894', 'GO:0086015', 'GO:0035725', 'GO:0006814', 'GO:0021537', 'GO:0086005']
-R4GND7_HUMAN & SCN5A_HUMAN	common go_biological count:	0
-R4GND7_HUMAN & SCN5A_HUMAN	common go_biological count:	There is no common go_biological for R4GND7_HUMAN between SCN5A_HUMAN
+A0A087WZU8_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+E7ESS1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WZU8_HUMAN & E7ESS1_HUMAN	common go_biological count:	3
+A0A087WZU8_HUMAN & E7ESS1_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
 
 
------------------R4GND7_HUMAN & B7ZC06_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & A0A0U1RQC9_HUMAN------------------------
 
-R4GND7_HUMAN	go_biological count:	0	There is no go_biological for R4GND7_HUMAN
-B7ZC06_HUMAN	go_biological count:	0	There is no go_biological for B7ZC06_HUMAN
-R4GND7_HUMAN & B7ZC06_HUMAN	common go_biological count:	0
-R4GND7_HUMAN & B7ZC06_HUMAN	common go_biological count:	There is no common go_biological for R4GND7_HUMAN between B7ZC06_HUMAN
+A0A087WZU8_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+A0A0U1RQC9_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+A0A087WZU8_HUMAN & A0A0U1RQC9_HUMAN	common go_biological count:	4
+A0A087WZU8_HUMAN & A0A0U1RQC9_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0051262', 'GO:0006915'}
 
 
------------------R4GND7_HUMAN & GOGA2_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & E9PFT5_HUMAN------------------------
 
-R4GND7_HUMAN	go_biological count:	0	There is no go_biological for R4GND7_HUMAN
-GOGA2_HUMAN	go_biological count:	15	['GO:0008356', 'GO:0051297', 'GO:0048208', 'GO:0006888', 'GO:0090166', 'GO:0090161', 'GO:0007020', 'GO:0090307', 'GO:0010507', 'GO:0032091', 'GO:0060050', 'GO:0006486', 'GO:0051289', 'GO:0051225', 'GO:0090306']
-R4GND7_HUMAN & GOGA2_HUMAN	common go_biological count:	0
-R4GND7_HUMAN & GOGA2_HUMAN	common go_biological count:	There is no common go_biological for R4GND7_HUMAN between GOGA2_HUMAN
+A0A087WZU8_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+E9PFT5_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WZU8_HUMAN & E9PFT5_HUMAN	common go_biological count:	3
+A0A087WZU8_HUMAN & E9PFT5_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
 
 
------------------A0A0C4DGS5_HUMAN & Q86V90_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & S4R334_HUMAN------------------------
 
-A0A0C4DGS5_HUMAN	go_biological count:	0	There is no go_biological for A0A0C4DGS5_HUMAN
-Q86V90_HUMAN	go_biological count:	0	There is no go_biological for Q86V90_HUMAN
-A0A0C4DGS5_HUMAN & Q86V90_HUMAN	common go_biological count:	0
-A0A0C4DGS5_HUMAN & Q86V90_HUMAN	common go_biological count:	There is no common go_biological for A0A0C4DGS5_HUMAN between Q86V90_HUMAN
+A0A087WZU8_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+S4R334_HUMAN	go_biological count:	1	['GO:0006915']
+A0A087WZU8_HUMAN & S4R334_HUMAN	common go_biological count:	1
+A0A087WZU8_HUMAN & S4R334_HUMAN	common go_biological count:	{'GO:0006915'}
 
 
------------------A0A0C4DGS5_HUMAN & H0Y7B8_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & A0A087X1Q1_HUMAN------------------------
 
-A0A0C4DGS5_HUMAN	go_biological count:	0	There is no go_biological for A0A0C4DGS5_HUMAN
-H0Y7B8_HUMAN	go_biological count:	0	There is no go_biological for H0Y7B8_HUMAN
-A0A0C4DGS5_HUMAN & H0Y7B8_HUMAN	common go_biological count:	0
-A0A0C4DGS5_HUMAN & H0Y7B8_HUMAN	common go_biological count:	There is no common go_biological for A0A0C4DGS5_HUMAN between H0Y7B8_HUMAN
+A0A087WZU8_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+A0A087X1Q1_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+A0A087WZU8_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	4
+A0A087WZU8_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0051262', 'GO:0006915'}
 
 
------------------A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & J3KP33_HUMAN------------------------
 
-A0A0C4DGS5_HUMAN	go_biological count:	0	There is no go_biological for A0A0C4DGS5_HUMAN
-A0A087WYC0_HUMAN	go_biological count:	0	There is no go_biological for A0A087WYC0_HUMAN
-A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN	common go_biological count:	0
-A0A0C4DGS5_HUMAN & A0A087WYC0_HUMAN	common go_biological count:	There is no common go_biological for A0A0C4DGS5_HUMAN between A0A087WYC0_HUMAN
+A0A087WZU8_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+J3KP33_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WZU8_HUMAN & J3KP33_HUMAN	common go_biological count:	3
+A0A087WZU8_HUMAN & J3KP33_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
 
 
------------------A0A0C4DGS5_HUMAN & SCN5A_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & I3L0W9_HUMAN------------------------
 
-A0A0C4DGS5_HUMAN	go_biological count:	0	There is no go_biological for A0A0C4DGS5_HUMAN
-SCN5A_HUMAN	go_biological count:	36	['GO:0086016', 'GO:0086067', 'GO:0003360', 'GO:0086043', 'GO:0061337', 'GO:0086002', 'GO:0060048', 'GO:0003231', 'GO:0071277', 'GO:0021549', 'GO:0051899', 'GO:0086010', 'GO:0086045', 'GO:0086048', 'GO:0086012', 'GO:0086047', 'GO:0086046', 'GO:0019228', 'GO:0042475', 'GO:0045760', 'GO:0050679', 'GO:0010765', 'GO:0060371', 'GO:0060372', 'GO:0086004', 'GO:0002027', 'GO:0086091', 'GO:1902305', 'GO:0060373', 'GO:0060307', 'GO:0014894', 'GO:0086015', 'GO:0035725', 'GO:0006814', 'GO:0021537', 'GO:0086005']
-A0A0C4DGS5_HUMAN & SCN5A_HUMAN	common go_biological count:	0
-A0A0C4DGS5_HUMAN & SCN5A_HUMAN	common go_biological count:	There is no common go_biological for A0A0C4DGS5_HUMAN between SCN5A_HUMAN
+A0A087WZU8_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+I3L0W9_HUMAN	go_biological count:	0	There is no go_biological for I3L0W9_HUMAN
+A0A087WZU8_HUMAN & I3L0W9_HUMAN	common go_biological count:	0
+A0A087WZU8_HUMAN & I3L0W9_HUMAN	common go_biological count:	There is no common go_biological for A0A087WZU8_HUMAN between I3L0W9_HUMAN
 
 
------------------A0A0C4DGS5_HUMAN & B7ZC06_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & E7EMR6_HUMAN------------------------
 
-A0A0C4DGS5_HUMAN	go_biological count:	0	There is no go_biological for A0A0C4DGS5_HUMAN
-B7ZC06_HUMAN	go_biological count:	0	There is no go_biological for B7ZC06_HUMAN
-A0A0C4DGS5_HUMAN & B7ZC06_HUMAN	common go_biological count:	0
-A0A0C4DGS5_HUMAN & B7ZC06_HUMAN	common go_biological count:	There is no common go_biological for A0A0C4DGS5_HUMAN between B7ZC06_HUMAN
+A0A087WZU8_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+E7EMR6_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WZU8_HUMAN & E7EMR6_HUMAN	common go_biological count:	3
+A0A087WZU8_HUMAN & E7EMR6_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
 
 
------------------A0A0C4DGS5_HUMAN & GOGA2_HUMAN------------------------
+-----------------A0A087WZU8_HUMAN & E7EQX7_HUMAN------------------------
 
-A0A0C4DGS5_HUMAN	go_biological count:	0	There is no go_biological for A0A0C4DGS5_HUMAN
-GOGA2_HUMAN	go_biological count:	15	['GO:0008356', 'GO:0051297', 'GO:0048208', 'GO:0006888', 'GO:0090166', 'GO:0090161', 'GO:0007020', 'GO:0090307', 'GO:0010507', 'GO:0032091', 'GO:0060050', 'GO:0006486', 'GO:0051289', 'GO:0051225', 'GO:0090306']
-A0A0C4DGS5_HUMAN & GOGA2_HUMAN	common go_biological count:	0
-A0A0C4DGS5_HUMAN & GOGA2_HUMAN	common go_biological count:	There is no common go_biological for A0A0C4DGS5_HUMAN between GOGA2_HUMAN
+A0A087WZU8_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+E7EQX7_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WZU8_HUMAN & E7EQX7_HUMAN	common go_biological count:	3
+A0A087WZU8_HUMAN & E7EQX7_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
 
 
------------------Q86V90_HUMAN & H0Y7B8_HUMAN------------------------
+-----------------E9PCY9_HUMAN & P53_HUMAN------------------------
 
-Q86V90_HUMAN	go_biological count:	0	There is no go_biological for Q86V90_HUMAN
-H0Y7B8_HUMAN	go_biological count:	0	There is no go_biological for H0Y7B8_HUMAN
-Q86V90_HUMAN & H0Y7B8_HUMAN	common go_biological count:	0
-Q86V90_HUMAN & H0Y7B8_HUMAN	common go_biological count:	There is no common go_biological for Q86V90_HUMAN between H0Y7B8_HUMAN
+E9PCY9_HUMAN	go_biological count:	1	['GO:0006915']
+P53_HUMAN	go_biological count:	70	['GO:0006284', 'GO:0007569', 'GO:0007050', 'GO:0030154', 'GO:0008283', 'GO:0034613', 'GO:0006974', 'GO:0035690', 'GO:0042149', 'GO:0071456', 'GO:0071479', 'GO:0034644', 'GO:0031497', 'GO:0048512', 'GO:0008340', 'GO:0030330', 'GO:0006977', 'GO:0006978', 'GO:0000733', 'GO:0043153', 'GO:0006983', 'GO:0097193', 'GO:0072332', 'GO:0042771', 'GO:0031571', 'GO:0007275', 'GO:0043066', 'GO:0030308', 'GO:0008285', 'GO:0048147', 'GO:0051097', 'GO:0051974', 'GO:0000122', 'GO:0045892', 'GO:0006289', 'GO:0097252', 'GO:0090403', 'GO:0043065', 'GO:0071158', 'GO:1900119', 'GO:0010628', 'GO:0031065', 'GO:2001244', 'GO:0043525', 'GO:0050731', 'GO:0046827', 'GO:1900740', 'GO:0032461', 'GO:2000379', 'GO:0090200', 'GO:0070245', 'GO:0045944', 'GO:1990440', 'GO:0045893', 'GO:0043161', 'GO:0006461', 'GO:0008104', 'GO:0016925', 'GO:0051262', 'GO:0007265', 'GO:0042981', 'GO:1902749', 'GO:0046902', 'GO:1901796', 'GO:0006355', 'GO:0090399', 'GO:0046677', 'GO:0010332', 'GO:0010165', 'GO:0016032']
+E9PCY9_HUMAN & P53_HUMAN	common go_biological count:	0
+E9PCY9_HUMAN & P53_HUMAN	common go_biological count:	There is no common go_biological for E9PCY9_HUMAN between P53_HUMAN
 
 
------------------Q86V90_HUMAN & A0A087WYC0_HUMAN------------------------
+-----------------E9PCY9_HUMAN & A0A087WXZ1_HUMAN------------------------
 
-Q86V90_HUMAN	go_biological count:	0	There is no go_biological for Q86V90_HUMAN
-A0A087WYC0_HUMAN	go_biological count:	0	There is no go_biological for A0A087WYC0_HUMAN
-Q86V90_HUMAN & A0A087WYC0_HUMAN	common go_biological count:	0
-Q86V90_HUMAN & A0A087WYC0_HUMAN	common go_biological count:	There is no common go_biological for Q86V90_HUMAN between A0A087WYC0_HUMAN
+E9PCY9_HUMAN	go_biological count:	1	['GO:0006915']
+A0A087WXZ1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E9PCY9_HUMAN & A0A087WXZ1_HUMAN	common go_biological count:	1
+E9PCY9_HUMAN & A0A087WXZ1_HUMAN	common go_biological count:	{'GO:0006915'}
 
 
------------------Q86V90_HUMAN & SCN5A_HUMAN------------------------
+-----------------E9PCY9_HUMAN & A0A087WT22_HUMAN------------------------
 
-Q86V90_HUMAN	go_biological count:	0	There is no go_biological for Q86V90_HUMAN
-SCN5A_HUMAN	go_biological count:	36	['GO:0086016', 'GO:0086067', 'GO:0003360', 'GO:0086043', 'GO:0061337', 'GO:0086002', 'GO:0060048', 'GO:0003231', 'GO:0071277', 'GO:0021549', 'GO:0051899', 'GO:0086010', 'GO:0086045', 'GO:0086048', 'GO:0086012', 'GO:0086047', 'GO:0086046', 'GO:0019228', 'GO:0042475', 'GO:0045760', 'GO:0050679', 'GO:0010765', 'GO:0060371', 'GO:0060372', 'GO:0086004', 'GO:0002027', 'GO:0086091', 'GO:1902305', 'GO:0060373', 'GO:0060307', 'GO:0014894', 'GO:0086015', 'GO:0035725', 'GO:0006814', 'GO:0021537', 'GO:0086005']
-Q86V90_HUMAN & SCN5A_HUMAN	common go_biological count:	0
-Q86V90_HUMAN & SCN5A_HUMAN	common go_biological count:	There is no common go_biological for Q86V90_HUMAN between SCN5A_HUMAN
+E9PCY9_HUMAN	go_biological count:	1	['GO:0006915']
+A0A087WT22_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E9PCY9_HUMAN & A0A087WT22_HUMAN	common go_biological count:	1
+E9PCY9_HUMAN & A0A087WT22_HUMAN	common go_biological count:	{'GO:0006915'}
 
 
------------------Q86V90_HUMAN & B7ZC06_HUMAN------------------------
+-----------------E9PCY9_HUMAN & E7ESS1_HUMAN------------------------
 
-Q86V90_HUMAN	go_biological count:	0	There is no go_biological for Q86V90_HUMAN
-B7ZC06_HUMAN	go_biological count:	0	There is no go_biological for B7ZC06_HUMAN
-Q86V90_HUMAN & B7ZC06_HUMAN	common go_biological count:	0
-Q86V90_HUMAN & B7ZC06_HUMAN	common go_biological count:	There is no common go_biological for Q86V90_HUMAN between B7ZC06_HUMAN
+E9PCY9_HUMAN	go_biological count:	1	['GO:0006915']
+E7ESS1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E9PCY9_HUMAN & E7ESS1_HUMAN	common go_biological count:	1
+E9PCY9_HUMAN & E7ESS1_HUMAN	common go_biological count:	{'GO:0006915'}
 
 
------------------Q86V90_HUMAN & GOGA2_HUMAN------------------------
+-----------------E9PCY9_HUMAN & A0A0U1RQC9_HUMAN------------------------
 
-Q86V90_HUMAN	go_biological count:	0	There is no go_biological for Q86V90_HUMAN
-GOGA2_HUMAN	go_biological count:	15	['GO:0008356', 'GO:0051297', 'GO:0048208', 'GO:0006888', 'GO:0090166', 'GO:0090161', 'GO:0007020', 'GO:0090307', 'GO:0010507', 'GO:0032091', 'GO:0060050', 'GO:0006486', 'GO:0051289', 'GO:0051225', 'GO:0090306']
-Q86V90_HUMAN & GOGA2_HUMAN	common go_biological count:	0
-Q86V90_HUMAN & GOGA2_HUMAN	common go_biological count:	There is no common go_biological for Q86V90_HUMAN between GOGA2_HUMAN
+E9PCY9_HUMAN	go_biological count:	1	['GO:0006915']
+A0A0U1RQC9_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+E9PCY9_HUMAN & A0A0U1RQC9_HUMAN	common go_biological count:	1
+E9PCY9_HUMAN & A0A0U1RQC9_HUMAN	common go_biological count:	{'GO:0006915'}
 
 
------------------H0Y7B8_HUMAN & A0A087WYC0_HUMAN------------------------
+-----------------E9PCY9_HUMAN & E9PFT5_HUMAN------------------------
 
-H0Y7B8_HUMAN	go_biological count:	0	There is no go_biological for H0Y7B8_HUMAN
-A0A087WYC0_HUMAN	go_biological count:	0	There is no go_biological for A0A087WYC0_HUMAN
-H0Y7B8_HUMAN & A0A087WYC0_HUMAN	common go_biological count:	0
-H0Y7B8_HUMAN & A0A087WYC0_HUMAN	common go_biological count:	There is no common go_biological for H0Y7B8_HUMAN between A0A087WYC0_HUMAN
+E9PCY9_HUMAN	go_biological count:	1	['GO:0006915']
+E9PFT5_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E9PCY9_HUMAN & E9PFT5_HUMAN	common go_biological count:	1
+E9PCY9_HUMAN & E9PFT5_HUMAN	common go_biological count:	{'GO:0006915'}
 
 
------------------H0Y7B8_HUMAN & SCN5A_HUMAN------------------------
+-----------------E9PCY9_HUMAN & S4R334_HUMAN------------------------
 
-H0Y7B8_HUMAN	go_biological count:	0	There is no go_biological for H0Y7B8_HUMAN
-SCN5A_HUMAN	go_biological count:	36	['GO:0086016', 'GO:0086067', 'GO:0003360', 'GO:0086043', 'GO:0061337', 'GO:0086002', 'GO:0060048', 'GO:0003231', 'GO:0071277', 'GO:0021549', 'GO:0051899', 'GO:0086010', 'GO:0086045', 'GO:0086048', 'GO:0086012', 'GO:0086047', 'GO:0086046', 'GO:0019228', 'GO:0042475', 'GO:0045760', 'GO:0050679', 'GO:0010765', 'GO:0060371', 'GO:0060372', 'GO:0086004', 'GO:0002027', 'GO:0086091', 'GO:1902305', 'GO:0060373', 'GO:0060307', 'GO:0014894', 'GO:0086015', 'GO:0035725', 'GO:0006814', 'GO:0021537', 'GO:0086005']
-H0Y7B8_HUMAN & SCN5A_HUMAN	common go_biological count:	0
-H0Y7B8_HUMAN & SCN5A_HUMAN	common go_biological count:	There is no common go_biological for H0Y7B8_HUMAN between SCN5A_HUMAN
+E9PCY9_HUMAN	go_biological count:	1	['GO:0006915']
+S4R334_HUMAN	go_biological count:	1	['GO:0006915']
+E9PCY9_HUMAN & S4R334_HUMAN	common go_biological count:	1
+E9PCY9_HUMAN & S4R334_HUMAN	common go_biological count:	{'GO:0006915'}
 
 
------------------H0Y7B8_HUMAN & B7ZC06_HUMAN------------------------
+-----------------E9PCY9_HUMAN & A0A087X1Q1_HUMAN------------------------
 
-H0Y7B8_HUMAN	go_biological count:	0	There is no go_biological for H0Y7B8_HUMAN
-B7ZC06_HUMAN	go_biological count:	0	There is no go_biological for B7ZC06_HUMAN
-H0Y7B8_HUMAN & B7ZC06_HUMAN	common go_biological count:	0
-H0Y7B8_HUMAN & B7ZC06_HUMAN	common go_biological count:	There is no common go_biological for H0Y7B8_HUMAN between B7ZC06_HUMAN
+E9PCY9_HUMAN	go_biological count:	1	['GO:0006915']
+A0A087X1Q1_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+E9PCY9_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	1
+E9PCY9_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	{'GO:0006915'}
 
 
------------------H0Y7B8_HUMAN & GOGA2_HUMAN------------------------
+-----------------E9PCY9_HUMAN & J3KP33_HUMAN------------------------
 
-H0Y7B8_HUMAN	go_biological count:	0	There is no go_biological for H0Y7B8_HUMAN
-GOGA2_HUMAN	go_biological count:	15	['GO:0008356', 'GO:0051297', 'GO:0048208', 'GO:0006888', 'GO:0090166', 'GO:0090161', 'GO:0007020', 'GO:0090307', 'GO:0010507', 'GO:0032091', 'GO:0060050', 'GO:0006486', 'GO:0051289', 'GO:0051225', 'GO:0090306']
-H0Y7B8_HUMAN & GOGA2_HUMAN	common go_biological count:	0
-H0Y7B8_HUMAN & GOGA2_HUMAN	common go_biological count:	There is no common go_biological for H0Y7B8_HUMAN between GOGA2_HUMAN
+E9PCY9_HUMAN	go_biological count:	1	['GO:0006915']
+J3KP33_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E9PCY9_HUMAN & J3KP33_HUMAN	common go_biological count:	1
+E9PCY9_HUMAN & J3KP33_HUMAN	common go_biological count:	{'GO:0006915'}
 
 
------------------A0A087WYC0_HUMAN & SCN5A_HUMAN------------------------
+-----------------E9PCY9_HUMAN & I3L0W9_HUMAN------------------------
 
-A0A087WYC0_HUMAN	go_biological count:	0	There is no go_biological for A0A087WYC0_HUMAN
-SCN5A_HUMAN	go_biological count:	36	['GO:0086016', 'GO:0086067', 'GO:0003360', 'GO:0086043', 'GO:0061337', 'GO:0086002', 'GO:0060048', 'GO:0003231', 'GO:0071277', 'GO:0021549', 'GO:0051899', 'GO:0086010', 'GO:0086045', 'GO:0086048', 'GO:0086012', 'GO:0086047', 'GO:0086046', 'GO:0019228', 'GO:0042475', 'GO:0045760', 'GO:0050679', 'GO:0010765', 'GO:0060371', 'GO:0060372', 'GO:0086004', 'GO:0002027', 'GO:0086091', 'GO:1902305', 'GO:0060373', 'GO:0060307', 'GO:0014894', 'GO:0086015', 'GO:0035725', 'GO:0006814', 'GO:0021537', 'GO:0086005']
-A0A087WYC0_HUMAN & SCN5A_HUMAN	common go_biological count:	0
-A0A087WYC0_HUMAN & SCN5A_HUMAN	common go_biological count:	There is no common go_biological for A0A087WYC0_HUMAN between SCN5A_HUMAN
+E9PCY9_HUMAN	go_biological count:	1	['GO:0006915']
+I3L0W9_HUMAN	go_biological count:	0	There is no go_biological for I3L0W9_HUMAN
+E9PCY9_HUMAN & I3L0W9_HUMAN	common go_biological count:	0
+E9PCY9_HUMAN & I3L0W9_HUMAN	common go_biological count:	There is no common go_biological for E9PCY9_HUMAN between I3L0W9_HUMAN
 
 
------------------A0A087WYC0_HUMAN & B7ZC06_HUMAN------------------------
+-----------------E9PCY9_HUMAN & E7EMR6_HUMAN------------------------
 
-A0A087WYC0_HUMAN	go_biological count:	0	There is no go_biological for A0A087WYC0_HUMAN
-B7ZC06_HUMAN	go_biological count:	0	There is no go_biological for B7ZC06_HUMAN
-A0A087WYC0_HUMAN & B7ZC06_HUMAN	common go_biological count:	0
-A0A087WYC0_HUMAN & B7ZC06_HUMAN	common go_biological count:	There is no common go_biological for A0A087WYC0_HUMAN between B7ZC06_HUMAN
+E9PCY9_HUMAN	go_biological count:	1	['GO:0006915']
+E7EMR6_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E9PCY9_HUMAN & E7EMR6_HUMAN	common go_biological count:	1
+E9PCY9_HUMAN & E7EMR6_HUMAN	common go_biological count:	{'GO:0006915'}
 
 
------------------A0A087WYC0_HUMAN & GOGA2_HUMAN------------------------
+-----------------E9PCY9_HUMAN & E7EQX7_HUMAN------------------------
 
-A0A087WYC0_HUMAN	go_biological count:	0	There is no go_biological for A0A087WYC0_HUMAN
-GOGA2_HUMAN	go_biological count:	15	['GO:0008356', 'GO:0051297', 'GO:0048208', 'GO:0006888', 'GO:0090166', 'GO:0090161', 'GO:0007020', 'GO:0090307', 'GO:0010507', 'GO:0032091', 'GO:0060050', 'GO:0006486', 'GO:0051289', 'GO:0051225', 'GO:0090306']
-A0A087WYC0_HUMAN & GOGA2_HUMAN	common go_biological count:	0
-A0A087WYC0_HUMAN & GOGA2_HUMAN	common go_biological count:	There is no common go_biological for A0A087WYC0_HUMAN between GOGA2_HUMAN
+E9PCY9_HUMAN	go_biological count:	1	['GO:0006915']
+E7EQX7_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E9PCY9_HUMAN & E7EQX7_HUMAN	common go_biological count:	1
+E9PCY9_HUMAN & E7EQX7_HUMAN	common go_biological count:	{'GO:0006915'}
 
 
------------------SCN5A_HUMAN & B7ZC06_HUMAN------------------------
+-----------------P53_HUMAN & A0A087WXZ1_HUMAN------------------------
 
-SCN5A_HUMAN	go_biological count:	36	['GO:0086016', 'GO:0086067', 'GO:0003360', 'GO:0086043', 'GO:0061337', 'GO:0086002', 'GO:0060048', 'GO:0003231', 'GO:0071277', 'GO:0021549', 'GO:0051899', 'GO:0086010', 'GO:0086045', 'GO:0086048', 'GO:0086012', 'GO:0086047', 'GO:0086046', 'GO:0019228', 'GO:0042475', 'GO:0045760', 'GO:0050679', 'GO:0010765', 'GO:0060371', 'GO:0060372', 'GO:0086004', 'GO:0002027', 'GO:0086091', 'GO:1902305', 'GO:0060373', 'GO:0060307', 'GO:0014894', 'GO:0086015', 'GO:0035725', 'GO:0006814', 'GO:0021537', 'GO:0086005']
-B7ZC06_HUMAN	go_biological count:	0	There is no go_biological for B7ZC06_HUMAN
-SCN5A_HUMAN & B7ZC06_HUMAN	common go_biological count:	0
-SCN5A_HUMAN & B7ZC06_HUMAN	common go_biological count:	There is no common go_biological for SCN5A_HUMAN between B7ZC06_HUMAN
+P53_HUMAN	go_biological count:	70	['GO:0006284', 'GO:0007569', 'GO:0007050', 'GO:0030154', 'GO:0008283', 'GO:0034613', 'GO:0006974', 'GO:0035690', 'GO:0042149', 'GO:0071456', 'GO:0071479', 'GO:0034644', 'GO:0031497', 'GO:0048512', 'GO:0008340', 'GO:0030330', 'GO:0006977', 'GO:0006978', 'GO:0000733', 'GO:0043153', 'GO:0006983', 'GO:0097193', 'GO:0072332', 'GO:0042771', 'GO:0031571', 'GO:0007275', 'GO:0043066', 'GO:0030308', 'GO:0008285', 'GO:0048147', 'GO:0051097', 'GO:0051974', 'GO:0000122', 'GO:0045892', 'GO:0006289', 'GO:0097252', 'GO:0090403', 'GO:0043065', 'GO:0071158', 'GO:1900119', 'GO:0010628', 'GO:0031065', 'GO:2001244', 'GO:0043525', 'GO:0050731', 'GO:0046827', 'GO:1900740', 'GO:0032461', 'GO:2000379', 'GO:0090200', 'GO:0070245', 'GO:0045944', 'GO:1990440', 'GO:0045893', 'GO:0043161', 'GO:0006461', 'GO:0008104', 'GO:0016925', 'GO:0051262', 'GO:0007265', 'GO:0042981', 'GO:1902749', 'GO:0046902', 'GO:1901796', 'GO:0006355', 'GO:0090399', 'GO:0046677', 'GO:0010332', 'GO:0010165', 'GO:0016032']
+A0A087WXZ1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+P53_HUMAN & A0A087WXZ1_HUMAN	common go_biological count:	0
+P53_HUMAN & A0A087WXZ1_HUMAN	common go_biological count:	There is no common go_biological for P53_HUMAN between A0A087WXZ1_HUMAN
 
 
------------------SCN5A_HUMAN & GOGA2_HUMAN------------------------
+-----------------P53_HUMAN & A0A087WT22_HUMAN------------------------
 
-SCN5A_HUMAN	go_biological count:	36	['GO:0086016', 'GO:0086067', 'GO:0003360', 'GO:0086043', 'GO:0061337', 'GO:0086002', 'GO:0060048', 'GO:0003231', 'GO:0071277', 'GO:0021549', 'GO:0051899', 'GO:0086010', 'GO:0086045', 'GO:0086048', 'GO:0086012', 'GO:0086047', 'GO:0086046', 'GO:0019228', 'GO:0042475', 'GO:0045760', 'GO:0050679', 'GO:0010765', 'GO:0060371', 'GO:0060372', 'GO:0086004', 'GO:0002027', 'GO:0086091', 'GO:1902305', 'GO:0060373', 'GO:0060307', 'GO:0014894', 'GO:0086015', 'GO:0035725', 'GO:0006814', 'GO:0021537', 'GO:0086005']
-GOGA2_HUMAN	go_biological count:	15	['GO:0008356', 'GO:0051297', 'GO:0048208', 'GO:0006888', 'GO:0090166', 'GO:0090161', 'GO:0007020', 'GO:0090307', 'GO:0010507', 'GO:0032091', 'GO:0060050', 'GO:0006486', 'GO:0051289', 'GO:0051225', 'GO:0090306']
-SCN5A_HUMAN & GOGA2_HUMAN	common go_biological count:	0
-SCN5A_HUMAN & GOGA2_HUMAN	common go_biological count:	There is no common go_biological for SCN5A_HUMAN between GOGA2_HUMAN
+P53_HUMAN	go_biological count:	70	['GO:0006284', 'GO:0007569', 'GO:0007050', 'GO:0030154', 'GO:0008283', 'GO:0034613', 'GO:0006974', 'GO:0035690', 'GO:0042149', 'GO:0071456', 'GO:0071479', 'GO:0034644', 'GO:0031497', 'GO:0048512', 'GO:0008340', 'GO:0030330', 'GO:0006977', 'GO:0006978', 'GO:0000733', 'GO:0043153', 'GO:0006983', 'GO:0097193', 'GO:0072332', 'GO:0042771', 'GO:0031571', 'GO:0007275', 'GO:0043066', 'GO:0030308', 'GO:0008285', 'GO:0048147', 'GO:0051097', 'GO:0051974', 'GO:0000122', 'GO:0045892', 'GO:0006289', 'GO:0097252', 'GO:0090403', 'GO:0043065', 'GO:0071158', 'GO:1900119', 'GO:0010628', 'GO:0031065', 'GO:2001244', 'GO:0043525', 'GO:0050731', 'GO:0046827', 'GO:1900740', 'GO:0032461', 'GO:2000379', 'GO:0090200', 'GO:0070245', 'GO:0045944', 'GO:1990440', 'GO:0045893', 'GO:0043161', 'GO:0006461', 'GO:0008104', 'GO:0016925', 'GO:0051262', 'GO:0007265', 'GO:0042981', 'GO:1902749', 'GO:0046902', 'GO:1901796', 'GO:0006355', 'GO:0090399', 'GO:0046677', 'GO:0010332', 'GO:0010165', 'GO:0016032']
+A0A087WT22_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+P53_HUMAN & A0A087WT22_HUMAN	common go_biological count:	0
+P53_HUMAN & A0A087WT22_HUMAN	common go_biological count:	There is no common go_biological for P53_HUMAN between A0A087WT22_HUMAN
 
 
------------------B7ZC06_HUMAN & GOGA2_HUMAN------------------------
+-----------------P53_HUMAN & E7ESS1_HUMAN------------------------
 
-B7ZC06_HUMAN	go_biological count:	0	There is no go_biological for B7ZC06_HUMAN
-GOGA2_HUMAN	go_biological count:	15	['GO:0008356', 'GO:0051297', 'GO:0048208', 'GO:0006888', 'GO:0090166', 'GO:0090161', 'GO:0007020', 'GO:0090307', 'GO:0010507', 'GO:0032091', 'GO:0060050', 'GO:0006486', 'GO:0051289', 'GO:0051225', 'GO:0090306']
-B7ZC06_HUMAN & GOGA2_HUMAN	common go_biological count:	0
-B7ZC06_HUMAN & GOGA2_HUMAN	common go_biological count:	There is no common go_biological for B7ZC06_HUMAN between GOGA2_HUMAN
+P53_HUMAN	go_biological count:	70	['GO:0006284', 'GO:0007569', 'GO:0007050', 'GO:0030154', 'GO:0008283', 'GO:0034613', 'GO:0006974', 'GO:0035690', 'GO:0042149', 'GO:0071456', 'GO:0071479', 'GO:0034644', 'GO:0031497', 'GO:0048512', 'GO:0008340', 'GO:0030330', 'GO:0006977', 'GO:0006978', 'GO:0000733', 'GO:0043153', 'GO:0006983', 'GO:0097193', 'GO:0072332', 'GO:0042771', 'GO:0031571', 'GO:0007275', 'GO:0043066', 'GO:0030308', 'GO:0008285', 'GO:0048147', 'GO:0051097', 'GO:0051974', 'GO:0000122', 'GO:0045892', 'GO:0006289', 'GO:0097252', 'GO:0090403', 'GO:0043065', 'GO:0071158', 'GO:1900119', 'GO:0010628', 'GO:0031065', 'GO:2001244', 'GO:0043525', 'GO:0050731', 'GO:0046827', 'GO:1900740', 'GO:0032461', 'GO:2000379', 'GO:0090200', 'GO:0070245', 'GO:0045944', 'GO:1990440', 'GO:0045893', 'GO:0043161', 'GO:0006461', 'GO:0008104', 'GO:0016925', 'GO:0051262', 'GO:0007265', 'GO:0042981', 'GO:1902749', 'GO:0046902', 'GO:1901796', 'GO:0006355', 'GO:0090399', 'GO:0046677', 'GO:0010332', 'GO:0010165', 'GO:0016032']
+E7ESS1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+P53_HUMAN & E7ESS1_HUMAN	common go_biological count:	0
+P53_HUMAN & E7ESS1_HUMAN	common go_biological count:	There is no common go_biological for P53_HUMAN between E7ESS1_HUMAN
+
+
+-----------------P53_HUMAN & A0A0U1RQC9_HUMAN------------------------
+
+P53_HUMAN	go_biological count:	70	['GO:0006284', 'GO:0007569', 'GO:0007050', 'GO:0030154', 'GO:0008283', 'GO:0034613', 'GO:0006974', 'GO:0035690', 'GO:0042149', 'GO:0071456', 'GO:0071479', 'GO:0034644', 'GO:0031497', 'GO:0048512', 'GO:0008340', 'GO:0030330', 'GO:0006977', 'GO:0006978', 'GO:0000733', 'GO:0043153', 'GO:0006983', 'GO:0097193', 'GO:0072332', 'GO:0042771', 'GO:0031571', 'GO:0007275', 'GO:0043066', 'GO:0030308', 'GO:0008285', 'GO:0048147', 'GO:0051097', 'GO:0051974', 'GO:0000122', 'GO:0045892', 'GO:0006289', 'GO:0097252', 'GO:0090403', 'GO:0043065', 'GO:0071158', 'GO:1900119', 'GO:0010628', 'GO:0031065', 'GO:2001244', 'GO:0043525', 'GO:0050731', 'GO:0046827', 'GO:1900740', 'GO:0032461', 'GO:2000379', 'GO:0090200', 'GO:0070245', 'GO:0045944', 'GO:1990440', 'GO:0045893', 'GO:0043161', 'GO:0006461', 'GO:0008104', 'GO:0016925', 'GO:0051262', 'GO:0007265', 'GO:0042981', 'GO:1902749', 'GO:0046902', 'GO:1901796', 'GO:0006355', 'GO:0090399', 'GO:0046677', 'GO:0010332', 'GO:0010165', 'GO:0016032']
+A0A0U1RQC9_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+P53_HUMAN & A0A0U1RQC9_HUMAN	common go_biological count:	1
+P53_HUMAN & A0A0U1RQC9_HUMAN	common go_biological count:	{'GO:0051262'}
+
+
+-----------------P53_HUMAN & E9PFT5_HUMAN------------------------
+
+P53_HUMAN	go_biological count:	70	['GO:0006284', 'GO:0007569', 'GO:0007050', 'GO:0030154', 'GO:0008283', 'GO:0034613', 'GO:0006974', 'GO:0035690', 'GO:0042149', 'GO:0071456', 'GO:0071479', 'GO:0034644', 'GO:0031497', 'GO:0048512', 'GO:0008340', 'GO:0030330', 'GO:0006977', 'GO:0006978', 'GO:0000733', 'GO:0043153', 'GO:0006983', 'GO:0097193', 'GO:0072332', 'GO:0042771', 'GO:0031571', 'GO:0007275', 'GO:0043066', 'GO:0030308', 'GO:0008285', 'GO:0048147', 'GO:0051097', 'GO:0051974', 'GO:0000122', 'GO:0045892', 'GO:0006289', 'GO:0097252', 'GO:0090403', 'GO:0043065', 'GO:0071158', 'GO:1900119', 'GO:0010628', 'GO:0031065', 'GO:2001244', 'GO:0043525', 'GO:0050731', 'GO:0046827', 'GO:1900740', 'GO:0032461', 'GO:2000379', 'GO:0090200', 'GO:0070245', 'GO:0045944', 'GO:1990440', 'GO:0045893', 'GO:0043161', 'GO:0006461', 'GO:0008104', 'GO:0016925', 'GO:0051262', 'GO:0007265', 'GO:0042981', 'GO:1902749', 'GO:0046902', 'GO:1901796', 'GO:0006355', 'GO:0090399', 'GO:0046677', 'GO:0010332', 'GO:0010165', 'GO:0016032']
+E9PFT5_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+P53_HUMAN & E9PFT5_HUMAN	common go_biological count:	0
+P53_HUMAN & E9PFT5_HUMAN	common go_biological count:	There is no common go_biological for P53_HUMAN between E9PFT5_HUMAN
+
+
+-----------------P53_HUMAN & S4R334_HUMAN------------------------
+
+P53_HUMAN	go_biological count:	70	['GO:0006284', 'GO:0007569', 'GO:0007050', 'GO:0030154', 'GO:0008283', 'GO:0034613', 'GO:0006974', 'GO:0035690', 'GO:0042149', 'GO:0071456', 'GO:0071479', 'GO:0034644', 'GO:0031497', 'GO:0048512', 'GO:0008340', 'GO:0030330', 'GO:0006977', 'GO:0006978', 'GO:0000733', 'GO:0043153', 'GO:0006983', 'GO:0097193', 'GO:0072332', 'GO:0042771', 'GO:0031571', 'GO:0007275', 'GO:0043066', 'GO:0030308', 'GO:0008285', 'GO:0048147', 'GO:0051097', 'GO:0051974', 'GO:0000122', 'GO:0045892', 'GO:0006289', 'GO:0097252', 'GO:0090403', 'GO:0043065', 'GO:0071158', 'GO:1900119', 'GO:0010628', 'GO:0031065', 'GO:2001244', 'GO:0043525', 'GO:0050731', 'GO:0046827', 'GO:1900740', 'GO:0032461', 'GO:2000379', 'GO:0090200', 'GO:0070245', 'GO:0045944', 'GO:1990440', 'GO:0045893', 'GO:0043161', 'GO:0006461', 'GO:0008104', 'GO:0016925', 'GO:0051262', 'GO:0007265', 'GO:0042981', 'GO:1902749', 'GO:0046902', 'GO:1901796', 'GO:0006355', 'GO:0090399', 'GO:0046677', 'GO:0010332', 'GO:0010165', 'GO:0016032']
+S4R334_HUMAN	go_biological count:	1	['GO:0006915']
+P53_HUMAN & S4R334_HUMAN	common go_biological count:	0
+P53_HUMAN & S4R334_HUMAN	common go_biological count:	There is no common go_biological for P53_HUMAN between S4R334_HUMAN
+
+
+-----------------P53_HUMAN & A0A087X1Q1_HUMAN------------------------
+
+P53_HUMAN	go_biological count:	70	['GO:0006284', 'GO:0007569', 'GO:0007050', 'GO:0030154', 'GO:0008283', 'GO:0034613', 'GO:0006974', 'GO:0035690', 'GO:0042149', 'GO:0071456', 'GO:0071479', 'GO:0034644', 'GO:0031497', 'GO:0048512', 'GO:0008340', 'GO:0030330', 'GO:0006977', 'GO:0006978', 'GO:0000733', 'GO:0043153', 'GO:0006983', 'GO:0097193', 'GO:0072332', 'GO:0042771', 'GO:0031571', 'GO:0007275', 'GO:0043066', 'GO:0030308', 'GO:0008285', 'GO:0048147', 'GO:0051097', 'GO:0051974', 'GO:0000122', 'GO:0045892', 'GO:0006289', 'GO:0097252', 'GO:0090403', 'GO:0043065', 'GO:0071158', 'GO:1900119', 'GO:0010628', 'GO:0031065', 'GO:2001244', 'GO:0043525', 'GO:0050731', 'GO:0046827', 'GO:1900740', 'GO:0032461', 'GO:2000379', 'GO:0090200', 'GO:0070245', 'GO:0045944', 'GO:1990440', 'GO:0045893', 'GO:0043161', 'GO:0006461', 'GO:0008104', 'GO:0016925', 'GO:0051262', 'GO:0007265', 'GO:0042981', 'GO:1902749', 'GO:0046902', 'GO:1901796', 'GO:0006355', 'GO:0090399', 'GO:0046677', 'GO:0010332', 'GO:0010165', 'GO:0016032']
+A0A087X1Q1_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+P53_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	1
+P53_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	{'GO:0051262'}
+
+
+-----------------P53_HUMAN & J3KP33_HUMAN------------------------
+
+P53_HUMAN	go_biological count:	70	['GO:0006284', 'GO:0007569', 'GO:0007050', 'GO:0030154', 'GO:0008283', 'GO:0034613', 'GO:0006974', 'GO:0035690', 'GO:0042149', 'GO:0071456', 'GO:0071479', 'GO:0034644', 'GO:0031497', 'GO:0048512', 'GO:0008340', 'GO:0030330', 'GO:0006977', 'GO:0006978', 'GO:0000733', 'GO:0043153', 'GO:0006983', 'GO:0097193', 'GO:0072332', 'GO:0042771', 'GO:0031571', 'GO:0007275', 'GO:0043066', 'GO:0030308', 'GO:0008285', 'GO:0048147', 'GO:0051097', 'GO:0051974', 'GO:0000122', 'GO:0045892', 'GO:0006289', 'GO:0097252', 'GO:0090403', 'GO:0043065', 'GO:0071158', 'GO:1900119', 'GO:0010628', 'GO:0031065', 'GO:2001244', 'GO:0043525', 'GO:0050731', 'GO:0046827', 'GO:1900740', 'GO:0032461', 'GO:2000379', 'GO:0090200', 'GO:0070245', 'GO:0045944', 'GO:1990440', 'GO:0045893', 'GO:0043161', 'GO:0006461', 'GO:0008104', 'GO:0016925', 'GO:0051262', 'GO:0007265', 'GO:0042981', 'GO:1902749', 'GO:0046902', 'GO:1901796', 'GO:0006355', 'GO:0090399', 'GO:0046677', 'GO:0010332', 'GO:0010165', 'GO:0016032']
+J3KP33_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+P53_HUMAN & J3KP33_HUMAN	common go_biological count:	0
+P53_HUMAN & J3KP33_HUMAN	common go_biological count:	There is no common go_biological for P53_HUMAN between J3KP33_HUMAN
+
+
+-----------------P53_HUMAN & I3L0W9_HUMAN------------------------
+
+P53_HUMAN	go_biological count:	70	['GO:0006284', 'GO:0007569', 'GO:0007050', 'GO:0030154', 'GO:0008283', 'GO:0034613', 'GO:0006974', 'GO:0035690', 'GO:0042149', 'GO:0071456', 'GO:0071479', 'GO:0034644', 'GO:0031497', 'GO:0048512', 'GO:0008340', 'GO:0030330', 'GO:0006977', 'GO:0006978', 'GO:0000733', 'GO:0043153', 'GO:0006983', 'GO:0097193', 'GO:0072332', 'GO:0042771', 'GO:0031571', 'GO:0007275', 'GO:0043066', 'GO:0030308', 'GO:0008285', 'GO:0048147', 'GO:0051097', 'GO:0051974', 'GO:0000122', 'GO:0045892', 'GO:0006289', 'GO:0097252', 'GO:0090403', 'GO:0043065', 'GO:0071158', 'GO:1900119', 'GO:0010628', 'GO:0031065', 'GO:2001244', 'GO:0043525', 'GO:0050731', 'GO:0046827', 'GO:1900740', 'GO:0032461', 'GO:2000379', 'GO:0090200', 'GO:0070245', 'GO:0045944', 'GO:1990440', 'GO:0045893', 'GO:0043161', 'GO:0006461', 'GO:0008104', 'GO:0016925', 'GO:0051262', 'GO:0007265', 'GO:0042981', 'GO:1902749', 'GO:0046902', 'GO:1901796', 'GO:0006355', 'GO:0090399', 'GO:0046677', 'GO:0010332', 'GO:0010165', 'GO:0016032']
+I3L0W9_HUMAN	go_biological count:	0	There is no go_biological for I3L0W9_HUMAN
+P53_HUMAN & I3L0W9_HUMAN	common go_biological count:	0
+P53_HUMAN & I3L0W9_HUMAN	common go_biological count:	There is no common go_biological for P53_HUMAN between I3L0W9_HUMAN
+
+
+-----------------P53_HUMAN & E7EMR6_HUMAN------------------------
+
+P53_HUMAN	go_biological count:	70	['GO:0006284', 'GO:0007569', 'GO:0007050', 'GO:0030154', 'GO:0008283', 'GO:0034613', 'GO:0006974', 'GO:0035690', 'GO:0042149', 'GO:0071456', 'GO:0071479', 'GO:0034644', 'GO:0031497', 'GO:0048512', 'GO:0008340', 'GO:0030330', 'GO:0006977', 'GO:0006978', 'GO:0000733', 'GO:0043153', 'GO:0006983', 'GO:0097193', 'GO:0072332', 'GO:0042771', 'GO:0031571', 'GO:0007275', 'GO:0043066', 'GO:0030308', 'GO:0008285', 'GO:0048147', 'GO:0051097', 'GO:0051974', 'GO:0000122', 'GO:0045892', 'GO:0006289', 'GO:0097252', 'GO:0090403', 'GO:0043065', 'GO:0071158', 'GO:1900119', 'GO:0010628', 'GO:0031065', 'GO:2001244', 'GO:0043525', 'GO:0050731', 'GO:0046827', 'GO:1900740', 'GO:0032461', 'GO:2000379', 'GO:0090200', 'GO:0070245', 'GO:0045944', 'GO:1990440', 'GO:0045893', 'GO:0043161', 'GO:0006461', 'GO:0008104', 'GO:0016925', 'GO:0051262', 'GO:0007265', 'GO:0042981', 'GO:1902749', 'GO:0046902', 'GO:1901796', 'GO:0006355', 'GO:0090399', 'GO:0046677', 'GO:0010332', 'GO:0010165', 'GO:0016032']
+E7EMR6_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+P53_HUMAN & E7EMR6_HUMAN	common go_biological count:	0
+P53_HUMAN & E7EMR6_HUMAN	common go_biological count:	There is no common go_biological for P53_HUMAN between E7EMR6_HUMAN
+
+
+-----------------P53_HUMAN & E7EQX7_HUMAN------------------------
+
+P53_HUMAN	go_biological count:	70	['GO:0006284', 'GO:0007569', 'GO:0007050', 'GO:0030154', 'GO:0008283', 'GO:0034613', 'GO:0006974', 'GO:0035690', 'GO:0042149', 'GO:0071456', 'GO:0071479', 'GO:0034644', 'GO:0031497', 'GO:0048512', 'GO:0008340', 'GO:0030330', 'GO:0006977', 'GO:0006978', 'GO:0000733', 'GO:0043153', 'GO:0006983', 'GO:0097193', 'GO:0072332', 'GO:0042771', 'GO:0031571', 'GO:0007275', 'GO:0043066', 'GO:0030308', 'GO:0008285', 'GO:0048147', 'GO:0051097', 'GO:0051974', 'GO:0000122', 'GO:0045892', 'GO:0006289', 'GO:0097252', 'GO:0090403', 'GO:0043065', 'GO:0071158', 'GO:1900119', 'GO:0010628', 'GO:0031065', 'GO:2001244', 'GO:0043525', 'GO:0050731', 'GO:0046827', 'GO:1900740', 'GO:0032461', 'GO:2000379', 'GO:0090200', 'GO:0070245', 'GO:0045944', 'GO:1990440', 'GO:0045893', 'GO:0043161', 'GO:0006461', 'GO:0008104', 'GO:0016925', 'GO:0051262', 'GO:0007265', 'GO:0042981', 'GO:1902749', 'GO:0046902', 'GO:1901796', 'GO:0006355', 'GO:0090399', 'GO:0046677', 'GO:0010332', 'GO:0010165', 'GO:0016032']
+E7EQX7_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+P53_HUMAN & E7EQX7_HUMAN	common go_biological count:	0
+P53_HUMAN & E7EQX7_HUMAN	common go_biological count:	There is no common go_biological for P53_HUMAN between E7EQX7_HUMAN
+
+
+-----------------A0A087WXZ1_HUMAN & A0A087WT22_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WT22_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WXZ1_HUMAN & A0A087WT22_HUMAN	common go_biological count:	3
+A0A087WXZ1_HUMAN & A0A087WT22_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087WXZ1_HUMAN & E7ESS1_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7ESS1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WXZ1_HUMAN & E7ESS1_HUMAN	common go_biological count:	3
+A0A087WXZ1_HUMAN & E7ESS1_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087WXZ1_HUMAN & A0A0U1RQC9_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A0U1RQC9_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+A0A087WXZ1_HUMAN & A0A0U1RQC9_HUMAN	common go_biological count:	3
+A0A087WXZ1_HUMAN & A0A0U1RQC9_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087WXZ1_HUMAN & E9PFT5_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E9PFT5_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WXZ1_HUMAN & E9PFT5_HUMAN	common go_biological count:	3
+A0A087WXZ1_HUMAN & E9PFT5_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087WXZ1_HUMAN & S4R334_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+S4R334_HUMAN	go_biological count:	1	['GO:0006915']
+A0A087WXZ1_HUMAN & S4R334_HUMAN	common go_biological count:	1
+A0A087WXZ1_HUMAN & S4R334_HUMAN	common go_biological count:	{'GO:0006915'}
+
+
+-----------------A0A087WXZ1_HUMAN & A0A087X1Q1_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087X1Q1_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+A0A087WXZ1_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	3
+A0A087WXZ1_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087WXZ1_HUMAN & J3KP33_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+J3KP33_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WXZ1_HUMAN & J3KP33_HUMAN	common go_biological count:	3
+A0A087WXZ1_HUMAN & J3KP33_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087WXZ1_HUMAN & I3L0W9_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+I3L0W9_HUMAN	go_biological count:	0	There is no go_biological for I3L0W9_HUMAN
+A0A087WXZ1_HUMAN & I3L0W9_HUMAN	common go_biological count:	0
+A0A087WXZ1_HUMAN & I3L0W9_HUMAN	common go_biological count:	There is no common go_biological for A0A087WXZ1_HUMAN between I3L0W9_HUMAN
+
+
+-----------------A0A087WXZ1_HUMAN & E7EMR6_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7EMR6_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WXZ1_HUMAN & E7EMR6_HUMAN	common go_biological count:	3
+A0A087WXZ1_HUMAN & E7EMR6_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087WXZ1_HUMAN & E7EQX7_HUMAN------------------------
+
+A0A087WXZ1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7EQX7_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WXZ1_HUMAN & E7EQX7_HUMAN	common go_biological count:	3
+A0A087WXZ1_HUMAN & E7EQX7_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087WT22_HUMAN & E7ESS1_HUMAN------------------------
+
+A0A087WT22_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7ESS1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WT22_HUMAN & E7ESS1_HUMAN	common go_biological count:	3
+A0A087WT22_HUMAN & E7ESS1_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087WT22_HUMAN & A0A0U1RQC9_HUMAN------------------------
+
+A0A087WT22_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A0U1RQC9_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+A0A087WT22_HUMAN & A0A0U1RQC9_HUMAN	common go_biological count:	3
+A0A087WT22_HUMAN & A0A0U1RQC9_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087WT22_HUMAN & E9PFT5_HUMAN------------------------
+
+A0A087WT22_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E9PFT5_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WT22_HUMAN & E9PFT5_HUMAN	common go_biological count:	3
+A0A087WT22_HUMAN & E9PFT5_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087WT22_HUMAN & S4R334_HUMAN------------------------
+
+A0A087WT22_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+S4R334_HUMAN	go_biological count:	1	['GO:0006915']
+A0A087WT22_HUMAN & S4R334_HUMAN	common go_biological count:	1
+A0A087WT22_HUMAN & S4R334_HUMAN	common go_biological count:	{'GO:0006915'}
+
+
+-----------------A0A087WT22_HUMAN & A0A087X1Q1_HUMAN------------------------
+
+A0A087WT22_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087X1Q1_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+A0A087WT22_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	3
+A0A087WT22_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087WT22_HUMAN & J3KP33_HUMAN------------------------
+
+A0A087WT22_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+J3KP33_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WT22_HUMAN & J3KP33_HUMAN	common go_biological count:	3
+A0A087WT22_HUMAN & J3KP33_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087WT22_HUMAN & I3L0W9_HUMAN------------------------
+
+A0A087WT22_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+I3L0W9_HUMAN	go_biological count:	0	There is no go_biological for I3L0W9_HUMAN
+A0A087WT22_HUMAN & I3L0W9_HUMAN	common go_biological count:	0
+A0A087WT22_HUMAN & I3L0W9_HUMAN	common go_biological count:	There is no common go_biological for A0A087WT22_HUMAN between I3L0W9_HUMAN
+
+
+-----------------A0A087WT22_HUMAN & E7EMR6_HUMAN------------------------
+
+A0A087WT22_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7EMR6_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WT22_HUMAN & E7EMR6_HUMAN	common go_biological count:	3
+A0A087WT22_HUMAN & E7EMR6_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087WT22_HUMAN & E7EQX7_HUMAN------------------------
+
+A0A087WT22_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7EQX7_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087WT22_HUMAN & E7EQX7_HUMAN	common go_biological count:	3
+A0A087WT22_HUMAN & E7EQX7_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------E7ESS1_HUMAN & A0A0U1RQC9_HUMAN------------------------
+
+E7ESS1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A0U1RQC9_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+E7ESS1_HUMAN & A0A0U1RQC9_HUMAN	common go_biological count:	3
+E7ESS1_HUMAN & A0A0U1RQC9_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------E7ESS1_HUMAN & E9PFT5_HUMAN------------------------
+
+E7ESS1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E9PFT5_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7ESS1_HUMAN & E9PFT5_HUMAN	common go_biological count:	3
+E7ESS1_HUMAN & E9PFT5_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------E7ESS1_HUMAN & S4R334_HUMAN------------------------
+
+E7ESS1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+S4R334_HUMAN	go_biological count:	1	['GO:0006915']
+E7ESS1_HUMAN & S4R334_HUMAN	common go_biological count:	1
+E7ESS1_HUMAN & S4R334_HUMAN	common go_biological count:	{'GO:0006915'}
+
+
+-----------------E7ESS1_HUMAN & A0A087X1Q1_HUMAN------------------------
+
+E7ESS1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087X1Q1_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+E7ESS1_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	3
+E7ESS1_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------E7ESS1_HUMAN & J3KP33_HUMAN------------------------
+
+E7ESS1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+J3KP33_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7ESS1_HUMAN & J3KP33_HUMAN	common go_biological count:	3
+E7ESS1_HUMAN & J3KP33_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------E7ESS1_HUMAN & I3L0W9_HUMAN------------------------
+
+E7ESS1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+I3L0W9_HUMAN	go_biological count:	0	There is no go_biological for I3L0W9_HUMAN
+E7ESS1_HUMAN & I3L0W9_HUMAN	common go_biological count:	0
+E7ESS1_HUMAN & I3L0W9_HUMAN	common go_biological count:	There is no common go_biological for E7ESS1_HUMAN between I3L0W9_HUMAN
+
+
+-----------------E7ESS1_HUMAN & E7EMR6_HUMAN------------------------
+
+E7ESS1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7EMR6_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7ESS1_HUMAN & E7EMR6_HUMAN	common go_biological count:	3
+E7ESS1_HUMAN & E7EMR6_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------E7ESS1_HUMAN & E7EQX7_HUMAN------------------------
+
+E7ESS1_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7EQX7_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7ESS1_HUMAN & E7EQX7_HUMAN	common go_biological count:	3
+E7ESS1_HUMAN & E7EQX7_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A0U1RQC9_HUMAN & E9PFT5_HUMAN------------------------
+
+A0A0U1RQC9_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+E9PFT5_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A0U1RQC9_HUMAN & E9PFT5_HUMAN	common go_biological count:	3
+A0A0U1RQC9_HUMAN & E9PFT5_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A0U1RQC9_HUMAN & S4R334_HUMAN------------------------
+
+A0A0U1RQC9_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+S4R334_HUMAN	go_biological count:	1	['GO:0006915']
+A0A0U1RQC9_HUMAN & S4R334_HUMAN	common go_biological count:	1
+A0A0U1RQC9_HUMAN & S4R334_HUMAN	common go_biological count:	{'GO:0006915'}
+
+
+-----------------A0A0U1RQC9_HUMAN & A0A087X1Q1_HUMAN------------------------
+
+A0A0U1RQC9_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+A0A087X1Q1_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+A0A0U1RQC9_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	4
+A0A0U1RQC9_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0051262', 'GO:0006915'}
+
+
+-----------------A0A0U1RQC9_HUMAN & J3KP33_HUMAN------------------------
+
+A0A0U1RQC9_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+J3KP33_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A0U1RQC9_HUMAN & J3KP33_HUMAN	common go_biological count:	3
+A0A0U1RQC9_HUMAN & J3KP33_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A0U1RQC9_HUMAN & I3L0W9_HUMAN------------------------
+
+A0A0U1RQC9_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+I3L0W9_HUMAN	go_biological count:	0	There is no go_biological for I3L0W9_HUMAN
+A0A0U1RQC9_HUMAN & I3L0W9_HUMAN	common go_biological count:	0
+A0A0U1RQC9_HUMAN & I3L0W9_HUMAN	common go_biological count:	There is no common go_biological for A0A0U1RQC9_HUMAN between I3L0W9_HUMAN
+
+
+-----------------A0A0U1RQC9_HUMAN & E7EMR6_HUMAN------------------------
+
+A0A0U1RQC9_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+E7EMR6_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A0U1RQC9_HUMAN & E7EMR6_HUMAN	common go_biological count:	3
+A0A0U1RQC9_HUMAN & E7EMR6_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A0U1RQC9_HUMAN & E7EQX7_HUMAN------------------------
+
+A0A0U1RQC9_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+E7EQX7_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A0U1RQC9_HUMAN & E7EQX7_HUMAN	common go_biological count:	3
+A0A0U1RQC9_HUMAN & E7EQX7_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------E9PFT5_HUMAN & S4R334_HUMAN------------------------
+
+E9PFT5_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+S4R334_HUMAN	go_biological count:	1	['GO:0006915']
+E9PFT5_HUMAN & S4R334_HUMAN	common go_biological count:	1
+E9PFT5_HUMAN & S4R334_HUMAN	common go_biological count:	{'GO:0006915'}
+
+
+-----------------E9PFT5_HUMAN & A0A087X1Q1_HUMAN------------------------
+
+E9PFT5_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087X1Q1_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+E9PFT5_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	3
+E9PFT5_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------E9PFT5_HUMAN & J3KP33_HUMAN------------------------
+
+E9PFT5_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+J3KP33_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E9PFT5_HUMAN & J3KP33_HUMAN	common go_biological count:	3
+E9PFT5_HUMAN & J3KP33_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------E9PFT5_HUMAN & I3L0W9_HUMAN------------------------
+
+E9PFT5_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+I3L0W9_HUMAN	go_biological count:	0	There is no go_biological for I3L0W9_HUMAN
+E9PFT5_HUMAN & I3L0W9_HUMAN	common go_biological count:	0
+E9PFT5_HUMAN & I3L0W9_HUMAN	common go_biological count:	There is no common go_biological for E9PFT5_HUMAN between I3L0W9_HUMAN
+
+
+-----------------E9PFT5_HUMAN & E7EMR6_HUMAN------------------------
+
+E9PFT5_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7EMR6_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E9PFT5_HUMAN & E7EMR6_HUMAN	common go_biological count:	3
+E9PFT5_HUMAN & E7EMR6_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------E9PFT5_HUMAN & E7EQX7_HUMAN------------------------
+
+E9PFT5_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7EQX7_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E9PFT5_HUMAN & E7EQX7_HUMAN	common go_biological count:	3
+E9PFT5_HUMAN & E7EQX7_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------S4R334_HUMAN & A0A087X1Q1_HUMAN------------------------
+
+S4R334_HUMAN	go_biological count:	1	['GO:0006915']
+A0A087X1Q1_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+S4R334_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	1
+S4R334_HUMAN & A0A087X1Q1_HUMAN	common go_biological count:	{'GO:0006915'}
+
+
+-----------------S4R334_HUMAN & J3KP33_HUMAN------------------------
+
+S4R334_HUMAN	go_biological count:	1	['GO:0006915']
+J3KP33_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+S4R334_HUMAN & J3KP33_HUMAN	common go_biological count:	1
+S4R334_HUMAN & J3KP33_HUMAN	common go_biological count:	{'GO:0006915'}
+
+
+-----------------S4R334_HUMAN & I3L0W9_HUMAN------------------------
+
+S4R334_HUMAN	go_biological count:	1	['GO:0006915']
+I3L0W9_HUMAN	go_biological count:	0	There is no go_biological for I3L0W9_HUMAN
+S4R334_HUMAN & I3L0W9_HUMAN	common go_biological count:	0
+S4R334_HUMAN & I3L0W9_HUMAN	common go_biological count:	There is no common go_biological for S4R334_HUMAN between I3L0W9_HUMAN
+
+
+-----------------S4R334_HUMAN & E7EMR6_HUMAN------------------------
+
+S4R334_HUMAN	go_biological count:	1	['GO:0006915']
+E7EMR6_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+S4R334_HUMAN & E7EMR6_HUMAN	common go_biological count:	1
+S4R334_HUMAN & E7EMR6_HUMAN	common go_biological count:	{'GO:0006915'}
+
+
+-----------------S4R334_HUMAN & E7EQX7_HUMAN------------------------
+
+S4R334_HUMAN	go_biological count:	1	['GO:0006915']
+E7EQX7_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+S4R334_HUMAN & E7EQX7_HUMAN	common go_biological count:	1
+S4R334_HUMAN & E7EQX7_HUMAN	common go_biological count:	{'GO:0006915'}
+
+
+-----------------A0A087X1Q1_HUMAN & J3KP33_HUMAN------------------------
+
+A0A087X1Q1_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+J3KP33_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087X1Q1_HUMAN & J3KP33_HUMAN	common go_biological count:	3
+A0A087X1Q1_HUMAN & J3KP33_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087X1Q1_HUMAN & I3L0W9_HUMAN------------------------
+
+A0A087X1Q1_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+I3L0W9_HUMAN	go_biological count:	0	There is no go_biological for I3L0W9_HUMAN
+A0A087X1Q1_HUMAN & I3L0W9_HUMAN	common go_biological count:	0
+A0A087X1Q1_HUMAN & I3L0W9_HUMAN	common go_biological count:	There is no common go_biological for A0A087X1Q1_HUMAN between I3L0W9_HUMAN
+
+
+-----------------A0A087X1Q1_HUMAN & E7EMR6_HUMAN------------------------
+
+A0A087X1Q1_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+E7EMR6_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087X1Q1_HUMAN & E7EMR6_HUMAN	common go_biological count:	3
+A0A087X1Q1_HUMAN & E7EMR6_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------A0A087X1Q1_HUMAN & E7EQX7_HUMAN------------------------
+
+A0A087X1Q1_HUMAN	go_biological count:	4	['GO:0006915', 'GO:0007049', 'GO:0051262', 'GO:0006351']
+E7EQX7_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+A0A087X1Q1_HUMAN & E7EQX7_HUMAN	common go_biological count:	3
+A0A087X1Q1_HUMAN & E7EQX7_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------J3KP33_HUMAN & I3L0W9_HUMAN------------------------
+
+J3KP33_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+I3L0W9_HUMAN	go_biological count:	0	There is no go_biological for I3L0W9_HUMAN
+J3KP33_HUMAN & I3L0W9_HUMAN	common go_biological count:	0
+J3KP33_HUMAN & I3L0W9_HUMAN	common go_biological count:	There is no common go_biological for J3KP33_HUMAN between I3L0W9_HUMAN
+
+
+-----------------J3KP33_HUMAN & E7EMR6_HUMAN------------------------
+
+J3KP33_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7EMR6_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+J3KP33_HUMAN & E7EMR6_HUMAN	common go_biological count:	3
+J3KP33_HUMAN & E7EMR6_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------J3KP33_HUMAN & E7EQX7_HUMAN------------------------
+
+J3KP33_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7EQX7_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+J3KP33_HUMAN & E7EQX7_HUMAN	common go_biological count:	3
+J3KP33_HUMAN & E7EQX7_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
+
+
+-----------------I3L0W9_HUMAN & E7EMR6_HUMAN------------------------
+
+I3L0W9_HUMAN	go_biological count:	0	There is no go_biological for I3L0W9_HUMAN
+E7EMR6_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+I3L0W9_HUMAN & E7EMR6_HUMAN	common go_biological count:	0
+I3L0W9_HUMAN & E7EMR6_HUMAN	common go_biological count:	There is no common go_biological for I3L0W9_HUMAN between E7EMR6_HUMAN
+
+
+-----------------I3L0W9_HUMAN & E7EQX7_HUMAN------------------------
+
+I3L0W9_HUMAN	go_biological count:	0	There is no go_biological for I3L0W9_HUMAN
+E7EQX7_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+I3L0W9_HUMAN & E7EQX7_HUMAN	common go_biological count:	0
+I3L0W9_HUMAN & E7EQX7_HUMAN	common go_biological count:	There is no common go_biological for I3L0W9_HUMAN between E7EQX7_HUMAN
+
+
+-----------------E7EMR6_HUMAN & E7EQX7_HUMAN------------------------
+
+E7EMR6_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7EQX7_HUMAN	go_biological count:	3	['GO:0006915', 'GO:0007049', 'GO:0006351']
+E7EMR6_HUMAN & E7EQX7_HUMAN	common go_biological count:	3
+E7EMR6_HUMAN & E7EQX7_HUMAN	common go_biological count:	{'GO:0006351', 'GO:0007049', 'GO:0006915'}
 
 
