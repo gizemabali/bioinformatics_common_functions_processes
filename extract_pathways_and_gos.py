@@ -69,7 +69,20 @@ class Get_Pages:
     
        self.common_functions()	
        print(self.sets)
-            
+       self.close_files()
+
+    def close_files(self):
+          protein_cellular.close()
+          protein_biological.close()
+          protein_molecular.close()
+          protein_reactome.close()
+          protein_biocyc.close()
+          protein_signalink.close()
+          protein_signor.close()
+          protein_unipathway.close()
+          protein_enzyme.close()
+          protein_brenda.close()
+          protein_sabio.close()
 
     def get_commons(self, index1, index2, keyword, file_name):
             p1 = list(self.protein_features.items())[index1][0]
