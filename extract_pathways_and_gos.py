@@ -18,7 +18,7 @@ protein_unipathway = open('Output/common_unipathway.txt', 'w')
 protein_enzyme = open('Output/common_enzyme.txt', 'w')
 protein_brenda = open('Output/common_brenda.txt', 'w')
 protein_sabio = open('Output/common_sabio.txt', 'w')
-new = open('nex.txt', 'w')
+commons = open('commons_for_proteins.txt', 'w')
 fr = open('frequencies.txt', 'w')
 class Get_Pages:
         
@@ -72,9 +72,12 @@ class Get_Pages:
     
        self.common_functions()	
        #print(self.sets)
+       for i in range(len(self.protein_features)):
+            #print(list(self.protein_features.items())[i][0])
+            print(list(self.protein_features.items())[i][0], list(self.protein_features.items())[i][1]["go_molecular"])
        for i in self.all_keywords:
             self.frequ(i)
-       
+            self.commons2(i)
        self.close_files()
 
     def close_files(self):
@@ -199,30 +202,28 @@ class Get_Pages:
             
             fr.write(ki + " occuries " + str(count) + " " + "in the all protein sets" + "\n")
             count = "%.2f" % (count/len(k))
-            fr.write("So frequency of" + " " + ki + " " + str(count) + "\n\n\n")
+            fr.write("So frequency of" + " " + ki + " is  " + str(count) + "\n")
+        fr.write("\n\n")
 
-    def comm(self, keyword):
+    def commons2(self, keyword):
         k = []
-        for i in range(len(self.protein_features)):
-            
-            for k_ in list(self.protein_features.items())[i][1][keyword]:
-                 k.append(k_)
-        #print(k)
-        for ki in list(set(k)):
-            count = 0
-            for kin in k:
-                if ki== kin:
-                     count += 1
-            #print(ki, count)
         
         for i in range(len(self.protein_features)):
-            for ki in list(set(k)):
-                 count = 0
-                 for k_ in list(self.protein_features.items())[i][1][keyword]:
-                     if k_ == ki:
-                         count += 1
-                         print(ki, count, k_)
-            
+            for k_ in list(self.protein_features.items())[i][1][keyword]:
+                 k.append(k_)
+        commons.write("-------" + keyword + "-----------\n\n")
+        print("self.protein_features", len(self.protein_features))
+        
+        for ki in list(set(k)):
+           count = 0
+           proteins = []
+           for i in range(len(self.protein_features)):
+             for k_ in list(self.protein_features.items())[i][1][keyword]:
+                  if k_ == ki:
+                       proteins.append(list(self.protein_features.items())[i][0])
+             
+           commons.write(ki + " occures in the proteins " + ",".join(proteins) + "\n")
+        commons.write("\n")  
  
     def create_dictionary(self):
         self.protein_features[str(self.protein)] = {}
