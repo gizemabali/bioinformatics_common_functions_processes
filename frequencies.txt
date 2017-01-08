@@ -1,0 +1,88 @@
+-------go_biological-----------
+
+GO:0015684 occuries 1 out of 4 proteins.
+So frequency of GO:0015684 is  0.2500
+GO:0071421 occuries 1 out of 4 proteins.
+So frequency of GO:0071421 is  0.2500
+GO:0071578 occuries 1 out of 4 proteins.
+So frequency of GO:0071578 is  0.2500
+GO:0006826 occuries 1 out of 4 proteins.
+So frequency of GO:0006826 is  0.2500
+GO:0030001 occuries 3 out of 4 proteins.
+So frequency of GO:0030001 is  0.7500
+GO:0034755 occuries 1 out of 4 proteins.
+So frequency of GO:0034755 is  0.2500
+GO:0006828 occuries 1 out of 4 proteins.
+So frequency of GO:0006828 is  0.2500
+GO:0015691 occuries 1 out of 4 proteins.
+So frequency of GO:0015691 is  0.2500
+GO:0006824 occuries 1 out of 4 proteins.
+So frequency of GO:0006824 is  0.2500
+
+
+-------go_cellular-----------
+
+GO:0005886 occuries 4 out of 4 proteins.
+So frequency of GO:0005886 is  1.0000
+GO:0016021 occuries 4 out of 4 proteins.
+So frequency of GO:0016021 is  1.0000
+
+
+-------go_molecular-----------
+
+GO:0046872 occuries 4 out of 4 proteins.
+So frequency of GO:0046872 is  1.0000
+GO:0015078 occuries 1 out of 4 proteins.
+So frequency of GO:0015078 is  0.2500
+GO:0015086 occuries 1 out of 4 proteins.
+So frequency of GO:0015086 is  0.2500
+GO:0005384 occuries 1 out of 4 proteins.
+So frequency of GO:0005384 is  0.2500
+GO:0015292 occuries 1 out of 4 proteins.
+So frequency of GO:0015292 is  0.2500
+GO:0015293 occuries 4 out of 4 proteins.
+So frequency of GO:0015293 is  1.0000
+
+
+-------reactome-----------
+
+
+
+-------biocyc-----------
+
+BSUB:BSU04360-MONOMER occuries 1 out of 4 proteins.
+So frequency of BSUB:BSU04360-MONOMER is  0.2500
+MTBH37RV:G185E-5079-MONOMER occuries 1 out of 4 proteins.
+So frequency of MTBH37RV:G185E-5079-MONOMER is  0.2500
+EcoCyc:YFEP-MONOMER occuries 1 out of 4 proteins.
+So frequency of EcoCyc:YFEP-MONOMER is  0.2500
+ECOL316407:JW2388-MONOMER occuries 1 out of 4 proteins.
+So frequency of ECOL316407:JW2388-MONOMER is  0.2500
+MetaCyc:YFEP-MONOMER occuries 1 out of 4 proteins.
+So frequency of MetaCyc:YFEP-MONOMER is  0.2500
+
+
+-------signor-----------
+
+
+
+-------signalink-----------
+
+
+
+-------unipathway-----------
+
+
+
+-------enzyme-----------
+
+
+
+-------brenda-----------
+
+
+
+-------sabio-----------
+
+
+
