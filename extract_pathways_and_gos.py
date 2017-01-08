@@ -73,53 +73,7 @@ class Get_Pages:
           fr.close()
           commons.close()
  
-
-    def get_commons(self, index1, index2, keyword, file_name):
-            p1 = list(self.protein_features.items())[index1][0]
-            p2 = list(self.protein_features.items())[index2][0]
-            p1_go = list(self.protein_features.items())[index1][1][keyword]
-            p2_go = list(self.protein_features.items())[index2][1][keyword]
-            p1_len = len(p1_go)
-            p2_len = len(p2_go)
-            commons = set(p1_go) & set(p2_go)
-            
-            #self.find_frequency(commons, p1_go, p2_go)
-            try:
-                frequency_of_protein1 = len(commons) / p1_len
-                frequency_of_protein1 = "%.10f" % frequency_of_protein1
-            except: 
-                frequency_of_protein1 = 0
-            try:
-                frequency_of_protein2 = len(commons) / p2_len
-                frequency_of_protein2 = "%.10f" % frequency_of_protein2
-            except:
-                frequency_of_protein2 = 0
-            common_count = len(commons) 
-            el = []
-            el.append(str(p1))
-            el.append(str(p2))
-            
-           
-            if len(p1_go) == 0:
-                p1_go = "There is no " + keyword + " for " + str(p1)
-                p1_len = 0
-            if len(p2_go) == 0:
-                p2_go = "There is no " + keyword + " for " + str(p2)
-                p2_len = 0
-            if len(commons) == 0:
-                commons = "There is no common " + keyword + " for " + str(p1) + " between " + str(p2)
-                common_count = 0
-            
-            file_name.write('-----------------' + p1 + ' & ' + p2 + '------------------------'+ '\n\n')
-            file_name.write("---For each protein---" + "\n")
-            file_name.write(p1 +'\t' + keyword+' count:' + '\t' + str(p1_len) +'\t' + str(p1_go) + '\n')
-            file_name.write(p2 +'\t' + keyword+' count:' + '\t' + str(p2_len) + '\t' + str(p2_go) + '\n')
-            file_name.write("---Commons---" + "\n")
-            file_name.write(p1 + ' & ' + p2 +'\t' + 'common ' + keyword+' count:' + '\t' + str(common_count) + '\n')
-            file_name.write(p1 + ' & ' + p2 +'\t' + 'common ' + keyword+' count:' + '\t' + str(commons) + '\n\n')
-            file_name.write('\n\n')
-
-            
+    
     def frequency(self, keyword):
         k = []
         for i in range(len(self.protein_features)):
@@ -141,14 +95,16 @@ class Get_Pages:
   
     def common_func(self, keyword):
         k = []
+       
         protein_names = []
         for i in range(len(self.protein_features)):
             protein_names.append(list(self.protein_features.items())[i][0])
+           
             for k_ in list(self.protein_features.items())[i][1][keyword]:
                  k.append(k_)
-                 
-        commons.write("-------" + keyword + "-----------\n\n")
        
+        commons.write("-------" + keyword + "-----------\n\n")
+        
         count = 0
         for ki in list(set(k)):
            
@@ -161,9 +117,8 @@ class Get_Pages:
              
            if len(proteins) == len(self.protein_features):
                 count = 1
-                commons.write(ki + " occures in the all proteins " + ",".join(proteins) + "\n")
-           elif len(proteins) != len(self.protein_features) and ki==list(set(k))[-1] and count == 0:
-                commons.write("There is no common " + keyword + " for " + ",".join(protein_names) + "\n")
+                commons.write(ki + " occuries in the all proteins " + ",".join(proteins) + "\n")
+           
         commons.write("\n")  
 
     def create_dictionary(self):
