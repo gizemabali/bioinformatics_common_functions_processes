@@ -1,24 +1,18 @@
 import urllib
 import urllib.request
 import re
+## python uniprot_acc_id_finder.py --ensembl 'ENSG00000206394','ENSG00000159197','ENSG00000110881' --refseq 'NP_001029186.1'
 
+## python uniprot_acc_id_finder.py --refseq 'NP_000955.1','NP_001169999.1'
+## python uniprot_acc_id_finder.py --refseq 'NP_000955.1','NP_001169999.1','NP_001278850.1'
+## python uniprot_acc_id_finder.py --refseq 'NP_037305.2','NP_001139633.1'
+## python uniprot_acc_id_finder.py --refseq 'NP_000608.1','NP_001139633.1','NP_037305.2'
+## python uniprot_acc_id_finder.py --ensembl 'ENSMUSG00000023030'
+## python uniprot_acc_id_finder.py --refseq 'NP_388317.1','WP_005082954.1','NP_416893.1'
+## python uniprot_acc_id_finder.py --refseq 'NP_388317.1','WP_005082954.1','NP_416893.1','WP_003898649.1'
 
-# page = urllib.request.urlopen('http://www.uniprot.org/uniprot/P10316.txt/').read()
-# page = page.split(b'\n')
-# for i in x:
-#   print(i.decode('utf-8'))
-protein_cellular = open('Output/common_cellular_gos.txt', 'w')
-protein_biological = open('Output/common_biological_gos.txt', 'w')
-protein_molecular = open('Output/common_molecular_gos.txt', 'w')
-protein_reactome = open('Output/common_reactome.txt', 'w')
-protein_biocyc = open('Output/common_biocyc.txt', 'w')
-protein_signor = open('Output/common_signor.txt', 'w')
-protein_signalink = open('Output/common_signalink.txt', 'w')
-protein_unipathway = open('Output/common_unipathway.txt', 'w')
-protein_enzyme = open('Output/common_enzyme.txt', 'w')
-protein_brenda = open('Output/common_brenda.txt', 'w')
-protein_sabio = open('Output/common_sabio.txt', 'w')
 commons = open('commons_for_proteins.txt', 'w')
+
 fr = open('frequencies.txt', 'w')
 class Get_Pages:
         
@@ -69,47 +63,18 @@ class Get_Pages:
                 self.get_sabio(line)
                 self.get_go_annotations(line)
                       
-    
-       self.common_functions()	
-       #print(self.sets)
+
        for i in range(len(self.protein_features)):
-            #print(list(self.protein_features.items())[i][0])
             print(list(self.protein_features.items())[i][0], list(self.protein_features.items())[i][1]["go_molecular"])
        for i in self.all_keywords:
-            self.frequ(i)
-            self.commons2(i)
+            self.frequency(i)
+            self.common_func(i)
        self.close_files()
 
     def close_files(self):
-          protein_cellular.close()
-          protein_biological.close()
-          protein_molecular.close()
-          protein_reactome.close()
-          protein_biocyc.close()
-          protein_signalink.close()
-          protein_signor.close()
-          protein_unipathway.close()
-          protein_enzyme.close()
-          protein_brenda.close()
-          protein_sabio.close()
-
-    """
-    def find_frequency(self, commons, p1, p2):
-          
-          all_set = []
-          commons = list(commons)
-          for x in p1:
-              all_set.append(x)
-          for x in p2:
-              all_set.append(x)
-          #print(commons)
-          for item1 in commons:
-              count = 0
-              for item2 in all_set:
-                   if item1 == item2:
-                       count += 1
-              new.write("Frequency of " + str(item1) + " in the set of these two proteins: " + str(count) + '\n')
-              #print( str(commons) + '\n')"""
+          fr.close()
+          commons.close()
+ 
 
     def get_commons(self, index1, index2, keyword, file_name):
             p1 = list(self.protein_features.items())[index1][0]
@@ -123,12 +88,12 @@ class Get_Pages:
             #self.find_frequency(commons, p1_go, p2_go)
             try:
                 frequency_of_protein1 = len(commons) / p1_len
-                frequency_of_protein1 = "%.2f" % frequency_of_protein1
+                frequency_of_protein1 = "%.10f" % frequency_of_protein1
             except: 
                 frequency_of_protein1 = 0
             try:
                 frequency_of_protein2 = len(commons) / p2_len
-                frequency_of_protein2 = "%.2f" % frequency_of_protein2
+                frequency_of_protein2 = "%.10f" % frequency_of_protein2
             except:
                 frequency_of_protein2 = 0
             common_count = len(commons) 
@@ -155,38 +120,10 @@ class Get_Pages:
             file_name.write("---Commons---" + "\n")
             file_name.write(p1 + ' & ' + p2 +'\t' + 'common ' + keyword+' count:' + '\t' + str(common_count) + '\n')
             file_name.write(p1 + ' & ' + p2 +'\t' + 'common ' + keyword+' count:' + '\t' + str(commons) + '\n\n')
-            """
-            file_name.write("---Frequencies---" + "\n")
-            file_name.write("Frequency of commons in" + " " + p1 + " " + "-------->" + " " + str(frequency_of_protein1) + "\n")
-            file_name.write("Frequency of commons in" + " " + p2 + " " + "-------->" + " " + str(frequency_of_protein2) + "\n")
-            file_name.write("---Frequency of each protein in the set---" + "\n")"""
             file_name.write('\n\n')
 
-    def common_functions(self):
-       commons = []
-       i = 0
-       arr = []
-  
-       for i in range(len(self.protein_features)-1):
-         #print(key, self.protein_features[key]['go_cellular'])
-         self.sets.append({'sets':[list(self.protein_features.items())[i][0]], 
-                    'size':len(list(self.protein_features.items())[i][1]['go_cellular'])})
-         for k in range(i+1, len(self.protein_features)):
-            self.sets.append({'sets':[list(self.protein_features.items())[k][0]], 
-                    'size':len(list(self.protein_features.items())[k][1]['go_cellular'])})
-            self.get_commons(i, k, 'go_biological', protein_biological)
-            self.get_commons(i, k, 'go_cellular', protein_cellular)
-            self.get_commons(i, k, 'go_molecular', protein_molecular)
-            self.get_commons(i, k, 'reactome', protein_reactome)
-            self.get_commons(i, k, 'biocyc', protein_biocyc)
-            self.get_commons(i, k, 'signor', protein_signor)
-            self.get_commons(i, k, 'signalink', protein_signalink)
-            self.get_commons(i, k, 'unipathway', protein_unipathway)
-            self.get_commons(i, k, 'enzyme', protein_enzyme)
-            self.get_commons(i, k, 'brenda', protein_brenda)
-            self.get_commons(i, k, 'sabio', protein_sabio)
             
-    def frequ(self, keyword):
+    def frequency(self, keyword):
         k = []
         for i in range(len(self.protein_features)):
             
@@ -200,31 +137,38 @@ class Get_Pages:
                 if ki== kin:
                      count += 1
             
-            fr.write(ki + " occuries " + str(count) + " " + "in the all protein sets" + "\n")
-            count = "%.2f" % (count/len(k))
-            fr.write("So frequency of" + " " + ki + " is  " + str(count) + "\n")
+            fr.write(ki + " occuries " + str(count) + " " + "out of " + str(len(self.protein_features)) + " proteins." + "\n")
+            count = "%.4f" % (count/len(self.protein_features))
+            fr.write("So frequency of" + " " + ki +  " is  " + str(count) + "\n")
         fr.write("\n\n")
-
-    def commons2(self, keyword):
+  
+    def common_func(self, keyword):
         k = []
-        
+        protein_names = []
         for i in range(len(self.protein_features)):
+            protein_names.append(list(self.protein_features.items())[i][0])
             for k_ in list(self.protein_features.items())[i][1][keyword]:
                  k.append(k_)
+                 
         commons.write("-------" + keyword + "-----------\n\n")
         print("self.protein_features", len(self.protein_features))
-        
+        count = 0
         for ki in list(set(k)):
-           count = 0
+           
            proteins = []
            for i in range(len(self.protein_features)):
+             
              for k_ in list(self.protein_features.items())[i][1][keyword]:
                   if k_ == ki:
                        proteins.append(list(self.protein_features.items())[i][0])
              
-           commons.write(ki + " occures in the proteins " + ",".join(proteins) + "\n")
+           if len(proteins) == len(self.protein_features):
+                count = 1
+                commons.write(ki + " occures in the all proteins " + ",".join(proteins) + "\n")
+           elif len(proteins) != len(self.protein_features) and ki==list(set(k))[-1] and count == 0:
+                commons.write("There is no common " + keyword + " for " + ",".join(protein_names) + "\n")
         commons.write("\n")  
- 
+
     def create_dictionary(self):
         self.protein_features[str(self.protein)] = {}
         self.protein_features[str(self.protein)]['reactome'] = []
