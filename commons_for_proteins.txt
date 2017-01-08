@@ -1,0 +1,39 @@
+-------go_biological-----------
+
+There is no common go_biological for MNTH_BACSU,MNTH_MYCTU,A0A0U1BTT7_9MYCO,MNTH_ECOLI
+
+-------go_cellular-----------
+
+GO:0005886 occures in the all proteins MNTH_BACSU,MNTH_MYCTU,A0A0U1BTT7_9MYCO,MNTH_ECOLI
+GO:0016021 occures in the all proteins MNTH_BACSU,MNTH_MYCTU,A0A0U1BTT7_9MYCO,MNTH_ECOLI
+
+-------go_molecular-----------
+
+GO:0046872 occures in the all proteins MNTH_BACSU,MNTH_MYCTU,A0A0U1BTT7_9MYCO,MNTH_ECOLI
+GO:0015293 occures in the all proteins MNTH_BACSU,MNTH_MYCTU,A0A0U1BTT7_9MYCO,MNTH_ECOLI
+
+-------reactome-----------
+
+
+-------biocyc-----------
+
+There is no common biocyc for MNTH_BACSU,MNTH_MYCTU,A0A0U1BTT7_9MYCO,MNTH_ECOLI
+
+-------signor-----------
+
+
+-------signalink-----------
+
+
+-------unipathway-----------
+
+
+-------enzyme-----------
+
+
+-------brenda-----------
+
+
+-------sabio-----------
+
+
