@@ -20,7 +20,7 @@ class Get_Pages:
        self.urls = urls
        #self.protein_information = {}
        self.protein_features = {}
-       self.sets = []
+
        self.protein = ""
        self.all_keywords = ['go_biological', 'go_cellular','go_molecular','reactome','biocyc', 'signor', 'signalink', 'unipathway', 'enzyme', 'brenda', 'sabio']
        # create regular exceptions for go annotations and reactome pathways
@@ -48,7 +48,7 @@ class Get_Pages:
                 self.protein = line.split(" ")
                 self.protein = [protein for protein in self.protein if protein != '']
                 self.protein = self.protein[1]
-                #print(self.protein)
+           
                 self.create_dictionary()
                 go_on = True
 
@@ -63,9 +63,7 @@ class Get_Pages:
                 self.get_sabio(line)
                 self.get_go_annotations(line)
                       
-
-       for i in range(len(self.protein_features)):
-            print(list(self.protein_features.items())[i][0], list(self.protein_features.items())[i][1]["go_molecular"])
+       
        for i in self.all_keywords:
             self.frequency(i)
             self.common_func(i)
@@ -101,8 +99,7 @@ class Get_Pages:
             el.append(str(p1))
             el.append(str(p2))
             
-            if keyword=='go_cellular':
-                self.sets.append({'sets':el, 'size':common_count})
+           
             if len(p1_go) == 0:
                 p1_go = "There is no " + keyword + " for " + str(p1)
                 p1_len = 0
@@ -129,7 +126,7 @@ class Get_Pages:
             
             for k_ in list(self.protein_features.items())[i][1][keyword]:
                  k.append(k_)
-        #print(k)
+       
         fr.write("-------" + keyword + "-----------\n\n")
         for ki in list(set(k)):
             count = 0
@@ -151,7 +148,7 @@ class Get_Pages:
                  k.append(k_)
                  
         commons.write("-------" + keyword + "-----------\n\n")
-        print("self.protein_features", len(self.protein_features))
+       
         count = 0
         for ki in list(set(k)):
            
