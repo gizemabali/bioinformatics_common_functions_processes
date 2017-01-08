@@ -16,7 +16,7 @@ refseq_key = ''
 uniprot_key = ''
 """ change initial parameters with uniprot keywords """
 print(len(sys.argv))
-
+### python uniprot_acc_id_finder.py --ensembl 'ENSG00000141510'
 try:
   for i in range(len(sys.argv)):
      if sys.argv[i] == "--ensembl":
@@ -39,9 +39,13 @@ class Find_Protein_ACC():
          self.uniprot_acc = []
          for key,value in dic.items():
              self.connect_to_uniprot(key,value)
-             print(key, value)
+             if value != '':
+                print(key + " " + "=======>" + " " + str(value))
+             elif value == '':
+                print(key+ " " + "=======>" + " " + "No" + " " + key)
          self.get_page_urls = [] 
          self.uniprot_acc = list(set(self.uniprot_acc))
+         
          for url in self.uniprot_acc:
              self.get_page_urls.append('http://www.uniprot.org/uniprot/' + str(url) + '.txt/')
              #print('http://www.uniprot.org/uniprot/' + str(url) + '.txt/')
